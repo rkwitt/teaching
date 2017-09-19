@@ -1,4 +1,4 @@
-# WS 17/18
+# Wintersemester 17/18
 
 Unten stehend finden Sie Infos und Material zu folgenden beiden Sabbatical Vertretungen im WS 17/18.
 
