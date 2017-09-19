@@ -1,15 +1,9 @@
+This is my repository for teaching material. As of winter term 2017/2018, all the 
+teaching material for the courses that I teach can be found here.
+
 # Wintersemester 17/18
 
-Unten stehend finden Sie Infos und Material zu folgenden beiden Sabbatical Vertretungen im WS 17/18.
-
-## Wissenschaftliche Arbeitstechniken und Praesentation (511.103 / 884.104)
-
-[Allgemeine Hinweise](WAP/Allgemeines.pdf)
-
-## Grundlagen Bildverarbeitung (511.120 / 911.900)
-
-[Allgemeine Hinweise](IP/Allgemeines.pdf)
-
-### Uebungsblaetter / Exercise sheets
-
-- [Uebungsblatt-1](IP/PS/Ex1)
+- Grundlagen Bildverarbeitung
+- Image Processing
+- Computer Vision
+- Wissenschaftliche Arbeitstechniken
