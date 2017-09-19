@@ -1,7 +1,12 @@
-This is my repository for teaching material. As of winter term 2017/2018, all the 
-teaching material for the courses that I teach can be found here.
+This is my **main repository** where I host teaching material for students. 
+As of winter term 2017/2018, all the teaching material for the courses that I 
+teach can be found here (e.g., links to external resources, exercise sheets,
+etc.). 
 
-# Wintersemester 17/18
+For some courses, the teaching language is German, for some it's English. 
+This is also reflected in the material, so do not expect consistency.
+
+# Winter Term 17/18
 
 - Grundlagen Bildverarbeitung
 - Image Processing
