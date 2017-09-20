@@ -1,4 +1,4 @@
-# Image Processing and Computer Vision (PS)
+# Image Processing (PS)
 
 In this course, we will use Python as our programming language.
 
