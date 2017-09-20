@@ -1,5 +1,7 @@
 # Exercise Sheet 1
 
+**Deadline**: Oct. 16, 2017
+
 ## Exercise 1 (5 points)
 
 Write a Python function `avg_H_global` which takes as input the filename
