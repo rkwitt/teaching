@@ -49,3 +49,7 @@ a new Jupyter notebook, rename it and work with it. In principle, this gives
 you an interactive Python environement that is (1) perfect to learn Python
 and (2) complete all the exercises. *I will demonstrate this pipleline at
 the first PS date!*
+
+## Exercise Sheets
+
+- [Exercise sheet 1](Ex1)
