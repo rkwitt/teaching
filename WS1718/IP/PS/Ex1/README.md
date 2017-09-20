@@ -2,7 +2,7 @@
 
 **Deadline**: Oct. 16, 2017
 
-## Exercise 1 (5 points)
+## Exercise 1.1 (5 points)
 
 Write a Python function `avg_H_global` which takes as input the filename
 of an RGB image and computes the average value of the H channel. This value
@@ -24,7 +24,7 @@ print avg_H_global('beach.jpg')
 
 using `beach.jpg` which can be found in this folder of the repository.
 
-## Exercise 2 (5 points)
+## Exercise 1.2 (5 points)
 
 Write a Python function `avg_H_per_block` which takes, as input, a
 filename of an RGB image as well as a tuple (N,M) that specifies a
