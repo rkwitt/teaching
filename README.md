@@ -5,7 +5,11 @@ teach can be found here (e.g., links to external resources, exercise sheets, gis
 For some courses, the teaching language is German, for some it's English.
 This is also reflected in the material, so do not expect consistency.
 
-# Winter Term 17/18
+# Summer Term 2018
+
+- [Machine Learning](SS18/ML)
+
+# Winter Term 2017 / 2018
 
 - [Grundlagen Bildverarbeitung](WS1718/IP)
 - [Image Processing](WS1718/IP/)
