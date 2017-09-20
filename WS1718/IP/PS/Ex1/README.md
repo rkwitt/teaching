@@ -1,10 +1,10 @@
-# Uebungsblatt-1
+# Exercise Sheet 1
 
-## Aufgabe 1
+## Exercise 1 (5 points)
 
-Schreiben Sie eine Funktion die ein RGB Bild laedt, es ins HSV Farbschema konvertiert 
-(nutzen Sie entweder die Konvertierungsfunktionen von `skimage`, oder implementieren Sie die 
-Konvertierung selbst) und anschliessend den Mittelwert des H Kanals zurückliefert, z.B.,
+Write a Python function `avg_H_global` which takes as input the filename
+of an RGB image and computes the average value of the H channel. This value
+should be returned. So, e.g.,
 
 ```python
 def avg_H_global(img_file_name):
@@ -12,34 +12,40 @@ def avg_H_global(img_file_name):
   return avg_H_val
 ```
 
-Testen Sie Ihre Funktion mit 
+Either use `skimage` routines (search the documentation) to do the RGB
+to HSV conversion, or implement it yourself by looking up the formula.
+Test your function with
 
 ```
 print avg_H_global('beach.jpg')
 ```
 
-wobei `beach.jpg` in diesem Verzeichnis zu finden ist.
+using `beach.jpg` which can be found in this folder of the repository.
 
-## Aufgabe 2
+## Exercise 2 (5 points)
 
-Schreiben Sie eine Funktion `avg_H_per_block`, die als Input den Dateinamen eines RGB Bildes, sowie ein 2-Tupel (N, M) erhaelt,
-also
+Write a Python function `avg_H_per_block` which takes, as input, a
+filename of an RGB image as well as a tuple (N,M) that specifies a
+block size. The function should first convert the image to HSV color
+space and then partition the image into blocks of size N x M pixel.
+For each block, the average value of the H channel should be computed.
+The function should return a `numpy` array of dimensions X x Y which
+holds, at the (i,j)-th position, the avgerage H channel value of the
+(i,j)-th block. E.g.,
 
 ```python
 def avg_H(image_file, block_size):
   ...
   return avg_H_val
 ```
-Wie oben, soll die Funktion das RGB Bild zuerst ins HSV Farbschema konvertieren. Anschliessend unterteilen Sie das Bild in N * M (nicht-ueberlappende) Bloecke und berechnen für jeden Block den Mittelwert des H Kanals (wir betrachten nur den Fall wo die Bild Dimensionen durch die Blockgroesse teilbar sind). Die Funktion soll ein `numpy` Array der Grösse X * Y zurückgeben wobei an der (i , j )-ten Position des Arrays der mittlere H Wert des (i,j)-ten Blocks steht.
 
-Testen Sie Ihre Funktion mit
+In this example, `block_size[0]` and `block_size[1]` represent N and
+M, respectively. Again, test your function with
 
 ```python
 H_avg = avg_H('beach.jpg', (16,16))
 plt.imshow(H_avg, cmap='gray')
 ```
 
-**Hinweis**: Beide Uebungen koennen in einem Jupyter/IPython Notebook realisiert und abgegeben werden.
-
-
-
+**Note**: Only use image- and block-sizes that are compatible, so, e.g.,
+a 256 x 256 image with 16 x 16 blocks.
