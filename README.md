@@ -7,7 +7,7 @@ This is also reflected in the material, so do not expect consistency.
 
 # Winter Term 17/18
 
-- [Grundlagen Bildverarbeitung](IP/)
-- [Image Processing](IP/)
-- [Computer Vision](CV/)
-- [Wissenschaftliche Arbeitstechniken](WAP/)
+- [Grundlagen Bildverarbeitung](WS1718/IP)
+- [Image Processing](WS1718/IP/)
+- [Computer Vision](WS1718/CV/)
+- [Wissenschaftliche Arbeitstechniken](WS1718/WAP/)
