@@ -53,5 +53,8 @@ the first PS date!*
 ## Exercise Sheets
 
 - Install Anaconda and play around with Jupyter notebooks (not graded)
-- [Exercise sheet 1](Ex1) - Deadline: Oct. 16, 2017
+- [Exercise sheet 1](Ex1) - Deadline: **Oct. 16, 2017**
 - [Exercise sheet 2](Ex2) - tba.
+- [Exercise sheet 3](Ex3) - tba.
+- [Exercise sheet 4](Ex4) - tba.
+- [Exercise sheet 5](Ex5) - tba.
