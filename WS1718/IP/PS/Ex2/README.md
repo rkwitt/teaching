@@ -60,9 +60,19 @@ def histogram_equalize(img):
     return out
 ```
 
-Use the `myelin.jpg` image from this directory for testing and visualize
+Use the `myelin.png` image from this directory for testing and visualize
 the original and the histogram-equalized image.
 
+Visualize the grayscale histograms of the original and the histogram-equalized
+image. **Hint**: To plot multiple images next to each other, you can use
+
+```python
+plt.figure(1)
+plt.subplot(211)
+plt.imshow(...)
+plt.subplot(212)
+plt.imshow(...)
+```
 
 ## Exercise 2.3 (10 points)
 
