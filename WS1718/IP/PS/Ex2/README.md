@@ -6,7 +6,8 @@
 
 Write a Python function which computes a Gaussian pyramid of a grayscale image.
 In particular, the function should take either a grayscale image as input, or
-a RGB color image and compute a N-level Gaussian pyramid decomposition.
+a RGB color image and compute a N-level Gaussian pyramid decomposition. We
+simplify this example
 
 **Note**:
 Do not use the `skimage` provided `skimage.transform.pyramid_gaussian` function,
@@ -86,4 +87,20 @@ def histogram_match(source, target):
     return matched
 ```
 Visualize the CDF of the (1) source, the (2) target and (3) the histogram-equalized
-source image.
+source image. Use `lena.jpg` as source image and `stairs.jpg` as the target image.
+
+### Hints for 2.2 and 2.3
+
+`skimage.exposure.cumulative_distribution` computes the CDF of an image's
+grayscale values. `np.interp` allows you to interpolate. Also, in Python you can
+distribute values based on indices easily, e.g.,
+
+```python
+a = np.array([1,2,3])
+b = np.array([0,0,0,0,2,2])
+```
+This will create a numpy array with values `[1,1,1,1,3,3]`. This is very
+helpful when you already have the matching between grayscale values from
+the source and the target image. For example, once you have the matching
+between grayscale values of the source and the target image, you can simply
+distribute the matching results to the corresponding spatial locations.
