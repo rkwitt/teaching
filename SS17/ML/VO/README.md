@@ -20,7 +20,7 @@ I will provide references or online resources.
 Please, always check the most recent versions (since updates might have occurred). I typically
 update the slides after the lecture to clarify issues raised by the students.
 
-- [Slides](slides.pdf)
+- [Slides](ml.pdf)
 
 ## Books
 
