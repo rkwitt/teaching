@@ -15,3 +15,9 @@ This is also reflected in the material, so do not expect consistency.
 - [Image Processing](WS1718/IP/)
 - [Computer Vision](WS1718/CV/)
 - [Wissenschaftliche Arbeitstechniken](WS1718/WAP/)
+
+# Summer Term 2017
+
+- [Datenbanken 1](https://dbresearch.uni-salzburg.at/teaching/2017ss/db1/)
+- [Machine Learning](SS17/ML)
+- [Seminar Multimediatechnologien](https://www.cosy.sbg.ac.at/~uhl/sesc.html)
