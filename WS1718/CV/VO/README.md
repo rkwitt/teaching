@@ -1,6 +1,6 @@
 # Computer Vision (VO)
 
-## Important dates
+## News / Important dates
 
 - **Course begin**: Oct. 3, 2017 (2.30pm-4pm)
 
@@ -10,11 +10,16 @@ Grading is based on one final exam at the end of the semester (typically the fir
 
 ## Lecture material
 
-will be online once the course starts!
+The course will be more interactive this year, as much of the relevant material
+has changed over the last years. In the first half of the course we will discuss
+more *classic* approaches to problems in computer vision and will then shift
+to more *recent* work on many topics. Mostly, the second part of the course
+is focussed on *deep learning* approaches to recognition, segmentation and
+detection and I will provide the relevant resources and papers below.
 
 ## Resources
 
-- [Deep Learning](http://www.deeplearningbook.org/)
+- [Deep Learning Book](http://www.deeplearningbook.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [scikit-image](http://scikit-image.org/)
 - [OpenCV](http://docs.opencv.org/2.4/index.html)

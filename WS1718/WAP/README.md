@@ -1,9 +1,12 @@
 # Wissenschafliche Arbeitstechniken & Präsentation (WAP)
 
-Wissenschaftliche Arbeitstechniken und Präsentation ist eine **prüfungsimmanente Lehrveranstaltung** und es herrscht daher Anwesenheitspflicht! Bitte beachten
-Sie hier folgende [Richtlinien](https://www.cosy.sbg.ac.at/~held/teaching/wiss_arbeiten/beurteilung.html).
+Diese Lehrveranstaltung bietet eine Anleitung zum wissenschaftlichen Arbeiten
+sowie eine Kurzeinführung in die Benutzung typischer Software-Pakete, wie sie
+im Rahmen der wissenschaftlichen Arbeit zum Einsatz kommen. Soweit
+möglich, wird auch auf das praktische Üben des Stoffs der Lehrveranstaltung
+Wert gelegt.
 
-## Wichtige Daten
+## Neuigkeiten / Wichtige Daten
 
 - **E-Mail**: roland.kwitt AT sbg.ac.at
 - **Start der LV**: 6.10.2017 (8:15-11:00, T02)
@@ -18,6 +21,11 @@ Im Wesentlichen sind die Benotungskriterien meiner LV Gruppe gleich den
 Benotungskriterien in der Gruppe von Ao. Univ.-Prof. Dr. Martin Held.
 Bitte lesen Sie sich die Abgabe + Benotungskriterien sorgfälting durch.
 Hier der [Link](https://www.cosy.sbg.ac.at/~held/teaching/wiss_arbeiten/wiss_arbeiten.html)!
+
+Wissenschaftliche Arbeitstechniken und Präsentation ist eine
+**prüfungsimmanente Lehrveranstaltung** und es herrscht daher Anwesenheitspflicht!
+Bitte beachten Sie dazu
+folgende [Richtlinien](https://www.cosy.sbg.ac.at/~held/teaching/wiss_arbeiten/beurteilung.html).
 
 Grundsätzlich sind folgende **zwei Teile** fuer eine positive Absolvierung der LV
 relevant.
@@ -43,7 +51,7 @@ Hilfe von Slides entwickelt.
 Ich werde die Auswahl an Videos bis spätestens Ende November zur Verfügung
 stellen. Die Beurteilungs- und Abgabekriterien sind [hier](https://www.cosy.sbg.ac.at/~held/teaching/wiss_arbeiten/abgabe.html) zu finden.
 
-### Allgemeines
+### Weiter Hinweise
 
 Ich bewerte die Präsentationen als auch die Projekt Abgaben vor Allem auf
 Basis folgender Kriterien:

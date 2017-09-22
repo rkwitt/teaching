@@ -1,9 +1,4 @@
-# Image Processing (PS)
-
-In the PS to the *Image Processing* course, you will learn how to implement
-many of the algorithms and image processing routines that we discuss in the
-lecture. This ranges from simple histogram equalization to Fourier transforms,
-Wavelet transforms and morphological operations.
+# Image Processing / Grundlagen Bildverarbeitung (PS)
 
 ## Groups
 
@@ -17,6 +12,9 @@ hand-in the exercise sheets will be listed next to the exercise sheet links
 (see below). For a positive grade, you need to have
 more than 50% of all possible points. The grades are then distributed linearly
 up to the max. number of achievable points (excluding the bonus points).
+
+*All* group members will get the same grade, except for cases where it is
+obvious that group members did not participate to the required extent.
 
 ## What happens in the PS?
 
