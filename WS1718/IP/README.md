@@ -10,5 +10,5 @@ many of the algorithms and image processing routines that we discuss in the
 lecture. This ranges from simple histogram equalization to Fourier transforms,
 Wavelet transforms and morphological operations.
 
-- Lecture
+- [Lecture](VO)
 - [Proseminar](PS)
