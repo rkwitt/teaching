@@ -10,8 +10,8 @@ Wert gelegt.
 
 - **E-Mail**: roland.kwitt AT sbg.ac.at
 - **Start der LV**: 6.10.2017 (8:15-11:00, T02)
-- **Gruppeneinteilung**: spätestens bis **13.11.2017** per e-mail an mich!
-- **Deadline für Präsentationsthemen**: 20.11.2016
+- **Gruppeneinteilung**: spätestens bis 13.11.2017 per e-mail an mich!
+- **Deadline für Präsentationsthemen**: 20.11.2017
 - **Präsentationstermin**: Fr. 19.01.2018 (absolute Anwesenheitspflicht)
 - **Deadline zur Abgabe der Projektausarbeitung**: Mitte Feb. 2018
 
