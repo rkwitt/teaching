@@ -2,19 +2,23 @@
 
 ## News / Important dates
 
-- Group membership: **Second** PS date
-- The PS is held **bi-weekly** (see PLUS Online)
+- Group membership: **Oct. 17, 2017**
 
 ## Groups
 
-You will work together in **groups of 3**. Please find your group members
-let me know by the **second** PS date (this is a hard deadline).
+You will work together in **groups of 3**. Please find your group members let
+me know by **Oct. 17, 2017** (this is a **hard** deadline).
 
 ## Grading
 
-Grading is based on the exercise sheets. For a positive grad, you need to have
+Grading is based on your solutions to the exercise sheets. The deadline to
+hand-in the exercise sheets will be listed next to the exercise sheet links
+(see below). For a positive grade, you need to have
 more than 50% of all possible points. The grades are then distributed linearly
-up to the max. number of achievable points.
+up to the max. number of achievable points (excluding the bonus points).
+
+*All* group members will get the same grade, except for cases where it is
+obvious that group members did not participate to the required extent.
 
 ## Handing-in exercise sheets
 
@@ -22,6 +26,9 @@ Each exercise sheets needs to be handed-in in the form of a Jupyter notebook
 (formerly known as IPython notebooks). Even if you do not complete all exercises
 of one exercise sheet, hand in the notebook. The filename of the notebook needs
 to be in the form `GROUPNAME_ExSheet_X.ipynb`.
+
+**Note**: The link to the submission platform will be announced once the
+PS starts.
 
 ### Recommendation
 
@@ -49,4 +56,5 @@ the first PS date!*
 ## Exercise Sheets
 
 - Install Anaconda and play around with Jupyter notebooks (not graded)
-- [Exercise sheet 1](Ex1) - tbd
+- [Exercise sheet 1](Ex1) - Deadline: tba.
+- [Exercise sheet 2](Ex2) - Deadline: tba.

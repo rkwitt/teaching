@@ -1,5 +1,7 @@
 # Exercise sheet 1 (5 points)
 
+## Exercise 1.1
+
 Experiment with the `skimage` Harris corner detector, and explore the effect
 of changes in its parameters. E.g., study the effect of different values of
 Gaussian smoothing and different values of gamma (see slides) in the response
@@ -10,7 +12,7 @@ Use the provided `checkerboard.png` for testing. For a couple of different
 Gaussian smoothing and gamma parameters, visualize the detection results
 overlaid on the image in your Jupyter notebook.
 
-## Hints
+### Hints
 
 To enable inline plotting in Jupyter notebooks add
 
@@ -37,7 +39,7 @@ from skimage import io
 img  = io.imread('checkerboard.png')
 ```
 
-## Resources
+### Resources
 
 To find points of local maxima, look at `skimage.feature.corner_peaks` or
 `skimage.feature.peak_local_max`.
