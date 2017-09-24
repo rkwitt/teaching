@@ -55,7 +55,10 @@ the first PS date!*
 
 ## Exercise Sheets
 
-- Install Anaconda and play around with Jupyter notebooks (not graded)
-- [Exercise sheet 1](Ex1) - Deadline: tba.
-- [Exercise sheet 2](Ex2) - Deadline: tba.
-- [Exercise sheet 3](Ex3) - Deadline: tba.
+**First**, install Anaconda and play around with Jupyter notebooks (not graded)
+
+| Exercise sheets | Deadline |
+| --- | --- |
+| [Exercise sheet 1](Ex1) | tba. |
+| [Exercise sheet 2](Ex2) | tba. |
+| [Exercise sheet 3](Ex3) | tba. |
