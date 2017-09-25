@@ -11,7 +11,7 @@ each frame is annotated by the number of people walking. For
 more details, see the dataset description available at the link
 above.
 
-I will provide you with the implementation of the
+I will provide you with the [implementation](https://gist.github.com/rkwitt/0c781d1c3cc9ae5db8cdf35fa30648df) of the
 `torch.utils.data.Dataset` so that you can use the vanilla
 `torch.utils.data.DataLoader`. Your task is to implement a
 a CNN architecture that allows you to perform the counting
