@@ -30,7 +30,7 @@ the upcoming sheet. **Note**: Attendance of the PS is **mandatory**.
 
 ## Handing-in exercise sheets
 
-Each exercise sheets needs to be handed-in in the form of a Jupyter notebook
+Each exercise sheet needs to be handed-in in the form of a Jupyter notebook
 (formerly known as IPython notebooks). Even if you do not complete all exercises
 of one exercise sheet, hand in the notebook. The filename of the notebook needs
 to be in the form `GROUPNAME_ExSheet_X.ipynb`.
