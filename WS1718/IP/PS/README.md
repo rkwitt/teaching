@@ -1,5 +1,9 @@
 # Image Processing / Grundlagen Bildverarbeitung (PS)
 
+## News / Important dates
+
+- Group membership: Deadline **Oct. 16, 2017**
+
 ## Groups
 
 You will work together in **groups of 3**. Please find your group members let me know
