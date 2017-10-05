@@ -15,6 +15,10 @@ Wert gelegt.
 - **Präsentationstermin**: Fr. 19.01.2018 (absolute Anwesenheitspflicht)
 - **Deadline zur Abgabe der Projektausarbeitung**: Mitte Feb. 2018
 
+## LV Unterlagen
+
+Die LV Slides sind [hier](https://www.cosy.sbg.ac.at/~held/teaching/wiss_arbeiten/wiss_arbeiten.html) zu finden.
+
 ## Benotung
 
 Im Wesentlichen sind die Benotungskriterien meiner LV Gruppe gleich den
