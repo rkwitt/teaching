@@ -2,6 +2,7 @@
 
 ## News / Important dates
 
+- Submission system online, click [here](https://abgaben.cosy.sbg.ac.at/)
 - Group membership: Deadline **Oct. 16, 2017**
 
 ## Groups
@@ -35,8 +36,7 @@ Each exercise sheet needs to be handed-in in the form of a Jupyter notebook
 of one exercise sheet, hand in the notebook. The filename of the notebook needs
 to be in the form `GROUPNAME_ExSheet_X.ipynb`.
 
-**Note**: The link to the submission platform will be announced once the
-PS starts.
+**Submission system**: Submit your exercise solutions [here](https://abgaben.cosy.sbg.ac.at/)
 
 ### Recommendation
 
