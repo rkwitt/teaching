@@ -59,7 +59,7 @@ the first PS date!*
 
 | Exercise sheets | Deadline |
 | --- | --- |
-| [Exercise sheet 1](Ex1) | tba. |
+| [Exercise sheet 1](Ex1) | **Oct. 23, 2017 (8am)** |
 | [Exercise sheet 2](Ex2) | tba. |
 | [Exercise sheet 3](Ex3) | tba. |
 | [Exercise sheet 4](Ex4) | tba. |
