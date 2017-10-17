@@ -27,8 +27,7 @@ Each exercise sheets needs to be handed-in in the form of a Jupyter notebook
 of one exercise sheet, hand in the notebook. The filename of the notebook needs
 to be in the form `GROUPNAME_ExSheet_X.ipynb`.
 
-**Note**: The link to the submission platform will be announced once the
-PS starts.
+**Note**: Please hand-in your assigmnets by E-Mail (@sbg.ac.at address).
 
 ### Recommendation
 
