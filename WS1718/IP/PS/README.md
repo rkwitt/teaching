@@ -65,7 +65,7 @@ the first PS date!*
 
 - Install Anaconda and play around with Jupyter notebooks (not graded)
 - [Exercise sheet 1](Ex1) - Deadline: **Oct. 23, 2017 (8am)**
-- [Exercise sheet 2](Ex2) - Deadline: tba.
+- [Exercise sheet 2](Ex2) - Deadline: **Oct. 30, 2017 (8am)**
 - [Exercise sheet 3](Ex3) - Deadline: tba.
 - [Exercise sheet 4](Ex4) - Deadline: tba.
 - [Exercise sheet 5](Ex5) - Deadline: tba.
