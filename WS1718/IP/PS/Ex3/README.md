@@ -1,5 +1,7 @@
 # Exercise sheet 3
 
+**Deadline**: Nov. 13, 2017
+
 ## Exercise 3.1 (5 points)
 
 Take the `cameraman` image provided in `skimage`
@@ -17,13 +19,14 @@ ratio (PSNR) (see [here](https://en.wikipedia.org/wiki/Peak_signal-to-noise_rati
 in dB
 
 ```python
-def psnr(img):
+def psnr(img1, img2):
     # your code goes here
     return img_psnr
 ```
 
 and plot the PSNR vs. increasing neighborhood sizes of the median filter. Start
-with a 3 x 3 neighborhood. If you want, you do not have to use a square
+with a 3 x 3 neighborhood. In each case, `img1 ` is the original (unfiltered)
+image and `img2` is the filtering result. If you want, you do not have to use a square
 neighborood, but you can also use a circlular neighborood (e.g., using
 `from skimage.morphology.disk`, see documentation).
 
