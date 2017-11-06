@@ -1,6 +1,6 @@
 # Exercise Sheet 2
 
-**Deadline**: tba.
+**Deadline**: Oct. 30, 2017
 
 ## Exercise 2.1 (5 points)
 
