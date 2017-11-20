@@ -5,4 +5,5 @@ The material for this course is based on Prof. Andreas Uhl's
 
 ## Resources
 
-[Wavelets (Book scans)](WaveletResources.pdf)
+- [Proofs for Fourier transform properties](FourierProofs.pdf)
+- [Wavelets (Book scans)](WaveletResources.pdf)
