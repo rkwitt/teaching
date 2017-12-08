@@ -33,4 +33,8 @@ detection and I will provide the relevant resources and papers below.
 
 ## Lecture demos
 
-- [Linear regression with pytorch](https://gist.github.com/rkwitt/11be4f3cdad66b98c1bd4ff48f6c3ac0)
+- [KMeans + GMM](https://github.com/rkwitt/teaching/blob/master/WS1718/CV/VO/demos/kmeans_gmm_demo.ipynb)
+- [PyTorch NN intro](https://github.com/rkwitt/teaching/blob/master/WS1718/CV/VO/demos/pytorch_demo.ipynb)
+- [Linear regression with pytorch and a tiny NN](https://gist.github.com/rkwitt/11be4f3cdad66b98c1bd4ff48f6c3ac0)
+- [Linear regression with gradient descent](https://github.com/rkwitt/teaching/blob/master/WS1718/CV/VO/demos/gd_demo.ipynb)
+
