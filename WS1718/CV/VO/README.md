@@ -14,7 +14,7 @@ Grading is based on one final exam at the end of the semester (typically the fir
 - [Slides-01](cv_01.pdf)
 - [Slides-02](cv_02.pdf)
 - [Slides-03](cv_03.pdf)
-- [Deep Learning Intro](DL-Intro.pdf)
+- [Deep Learning Introduction](DL-Intro.pdf)
 
 The course will be more **interactive** this year, as much of the relevant material
 has changed over the last years. In the first half of the course we will discuss
@@ -30,3 +30,7 @@ detection and I will provide the relevant resources and papers below.
 - [scikit-image](http://scikit-image.org/)
 - [OpenCV](http://docs.opencv.org/2.4/index.html)
 - [PyTorch](http://pytorch.org/)
+
+## Lecture demos
+
+- [Linear regression with pytorch])(https://gist.github.com/rkwitt/11be4f3cdad66b98c1bd4ff48f6c3ac0)
