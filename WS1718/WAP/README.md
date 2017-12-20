@@ -44,16 +44,10 @@ und nicht an Prof. Held zu senden sind.
 
 ### Projekt Ausarbeitung
 
-Hinsichtlich der Thematiken zur Projektausarbeitung, werde ich Ihnen Links
-zu Youtube Videos zur Verfügung stellen. In den Videos werden die Themen
-**Machine Learning** (Prof. Shai Ben-David) und, im Speziellen, **Deep Learning**  (Prof. Nando de Freitas) behandelt. Ihre Aufgabe besteht darin, das in dem
-von mir zugewiesenem Video behandelte Thema auszuarbeiten. Die oben genannten
-Videos sind Aufzeichnungen der jeweiligen Vorlesungen von Prof. Ben-David und
-Prof. de Freitas und werden grösstenteils an der Tafel bzw. interaktiv mit
-Hilfe von Slides entwickelt.
-
-Ich werde die Auswahl an Videos bis spätestens Ende November zur Verfügung
-stellen. Die Beurteilungs- und Abgabekriterien sind [hier](https://www.cosy.sbg.ac.at/~held/teaching/wiss_arbeiten/abgabe.html) zu finden.
+Die Themen der Projektausarbeiten sind die **gleichen** die Sie zur Präsentation 
+gewählt haben. Die Ausarbeitung ist natürlich umfangreicher zu gestalten als die
+tatsächliche Präsentation (ca. 10-15 Seiten). Die Projektausarbeitung ist in LaTeX
+zu erstellen und es gelten folgende [Richtlinien](https://www.cosy.sbg.ac.at/~held/teaching/wiss_arbeiten/abgabe.html).
 
 ### Weiter Hinweise
 
