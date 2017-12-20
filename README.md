@@ -8,6 +8,7 @@ This is also reflected in the material, so do not expect consistency.
 # Summer Term 2018
 
 - [Machine Learning](SS18/ML)
+- [Imaging Beyond Consumer Cameras](SS18/IBCC)
 
 # Winter Term 2017 / 2018
 
