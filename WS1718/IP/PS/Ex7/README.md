@@ -115,3 +115,10 @@ clusters K. Compare the results that you get *with* and *without* adding spatial
 ### Why do we call these superpixels?
 
 The segmentation that you get will be an *over-segmentation* of the image, but most of the boundaries of the objects will be nicely captured. In some sense, this method partitions the image into a set of larger "pixels" (of consistent image appearance) - so called *superpixels* - that can then be used for further processing (e.g., classification).
+
+### Resources
+
+The test image to use can be found [here](https://github.com/rkwitt/teaching/blob/master/WS1718/IP/PS/Ex7/dog.png).
+
+
+
