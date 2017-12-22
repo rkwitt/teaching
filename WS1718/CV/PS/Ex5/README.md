@@ -61,3 +61,4 @@ Y = [
 Use SGD as your optimizer (with a learning rate of, say, 0.01) and run over the data for 10000 epochs (this should be quick even on a CPU). Finally, *report* the prediction results of your trained network when you run X[0] through it. If you plot the 2-D data in X and look at the targets Y, you will see that this network essentially learns an **XOR** function.
 
 **Hint**: You can obviously draw some inspiration from the Gaussian layer example we developed during the X-Mas lecture on Dec. 19, 2017.
+There is a link to the lecture demo on the main course website.
