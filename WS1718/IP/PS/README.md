@@ -68,5 +68,7 @@ the first PS date!*
 - [Exercise sheet 2](Ex2) - Deadline: Oct. 30, 2017 (8am)
 - [Exercise sheet 3](Ex3) - Deadline: Nov. 13, 2017 (8am)
 - [Exercise sheet 4](Ex4) - Deadline: Nov. 20, 2017 (8am)
-- [Exercise sheet 5](Ex5) - Deadline: **Dec. 04, 2017 (8am)**
-- [Exercise sheet 6](Ex6) - Deadline: tba.
+- [Exercise sheet 5](Ex5) - Deadline: Dec. 04, 2017 (8am)
+- [Exercise sheet 6](Ex6) - Deadline: Dec. 18, 2017 (8am)
+- [Exercise sheet 7](Ex7) - tba.
+
