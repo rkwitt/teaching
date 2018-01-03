@@ -3,7 +3,6 @@
 ## News / Important dates
 
 - 1st exam date: **Jan. 30, 2018 (3.30pm-4pm)**
-- Course begin: Oct. 3, 2017 (2.30pm-4pm)
 
 ## Grading
 
