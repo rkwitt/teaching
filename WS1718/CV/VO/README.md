@@ -2,7 +2,7 @@
 
 ## News / Important dates
 
-- 1st exam date: **Jan. 30, 2018 (3.30pm-4pm)**
+- 1st exam date: **Feb. 13, 2018 (3.30pm-4pm)**
 
 ## Grading
 
