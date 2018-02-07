@@ -30,6 +30,7 @@ detection and I will provide the relevant resources and papers below.
 - [scikit-image](http://scikit-image.org/)
 - [OpenCV](http://docs.opencv.org/2.4/index.html)
 - [PyTorch](http://pytorch.org/)
+- [Backpropagation (from lecture)]()
 
 ## Lecture demos
 
