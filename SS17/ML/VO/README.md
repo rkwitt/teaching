@@ -2,8 +2,7 @@
 
 ## News / Important dates
 
-- The course has ended.
-- The date of the 2nd exam will be announced shortly.
+- Please contact me for a 2nd exam date! 
 
 ## Grading
 
