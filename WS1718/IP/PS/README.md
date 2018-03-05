@@ -2,6 +2,7 @@
 
 ## News / Important dates
 
+- **The PS has ended**
 - Submission system online, click [here](https://abgaben.cosy.sbg.ac.at/)
 - Group membership: Deadline **Oct. 16, 2017**
 
@@ -64,11 +65,11 @@ the first PS date!*
 ## Exercise Sheets
 
 - Install Anaconda and play around with Jupyter notebooks (not graded)
-- [Exercise sheet 1](Ex1) - Deadline: Oct. 23, 2017 (8am) [Solution](Ex1/Solution.ipynb)
+- [Exercise sheet 1](Ex1) - Deadline: Oct. 23, 2017 (8am)
 - [Exercise sheet 2](Ex2) - Deadline: Oct. 30, 2017 (8am)
 - [Exercise sheet 3](Ex3) - Deadline: Nov. 13, 2017 (8am)
 - [Exercise sheet 4](Ex4) - Deadline: Nov. 20, 2017 (8am)
 - [Exercise sheet 5](Ex5) - Deadline: Dec. 04, 2017 (8am)
 - [Exercise sheet 6](Ex6) - Deadline: Dec. 18, 2017 (8am)
-- [Exercise sheet 7](Ex7) - **Deadline: Jan. 16, 2018 (8am)**
+- [Exercise sheet 7](Ex7) - Deadline: Jan. 16, 2018 (8am)
 
