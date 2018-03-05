@@ -61,5 +61,5 @@ the first PS date!*
 | [Exercise sheet 1](Ex1) | Finished |
 | [Exercise sheet 2](Ex2) | Finished |
 | [Exercise sheet 3](Ex3) | Finished |
-| [Exercise sheet 4](Ex4) | Jan. 1, 2018 |
-| [Exercise sheet 5](Ex5) | Jan. 8, 2018 |
+| [Exercise sheet 4](Ex4) | Finished |
+| [Exercise sheet 5](Ex5) | Finished |
