@@ -18,7 +18,7 @@ Grading is based on **one final exam** at the end of the course (typically in th
 
 ## Lecture material
 
-1. [Introduction, Preliminaries, Radiography (X-Ray imaging)](ibcc_lecture_00.pdf)
+1. [Introduction, Preliminaries, Radiography (X-Ray imaging)](slides_00.pdf)
 
 ## Resources
 

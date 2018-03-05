@@ -6,4 +6,9 @@
 
 ## Grading
 
+Grading is based on your solution(s) to the exercise sheets, provided
+below.
+
 ## Exercise sheets
+
+- [Exercise sheet A](ex1.pdf) - Deadline: Mar. 13, 2017
