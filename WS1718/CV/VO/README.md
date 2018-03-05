@@ -10,20 +10,25 @@ Grading is based on one final exam at the end of the semester (typically the fir
 
 ## Lecture material
 
+### Part A
+
 - [Slides-00](cv_00.pdf)
 - [Slides-01](cv_01.pdf)
 - [Slides-02](cv_02.pdf)
 - [Slides-03](cv_03.pdf)
+
+### Part B
+
 - [Deep Learning Introduction](DL-Intro.pdf)
 - [Backpropagation (from lecture)](https://github.com/rkwitt/teaching/blob/master/WS1718/CV/VO/backprop.pdf)
-
+- Whiteboard + Online
 
 The course will be more **interactive** this year, as much of the relevant material
-has changed over the last years. In the first half of the course we will discuss
+has changed over the last years. In the first half of the course (Part A), we will discuss
 more *classic* approaches to problems in computer vision and will then shift
-to more *recent* work on many topics. Mostly, the second part of the course
+to more *recent* work on many topics (Part B). Mostly, Part B of the course
 is focussed on *deep learning* approaches to recognition, segmentation and
-detection and I will provide the relevant resources and papers below.
+detection and I will provide the relevant resources and papers.
 
 ## Resources
 
