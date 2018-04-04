@@ -21,3 +21,4 @@ When you want to log-in for the first time, you have to reset your password usin
 ## Exercise sheets
 
 - [Exercise sheet A](ex1.pdf) - Deadline: March 20, 2018 (11pm)
+- Exercise sheet B (Exercises 4 and 5 from Ex. sheet A) - Deadline: April 10, 2018 (11pm)
