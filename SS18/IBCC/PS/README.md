@@ -6,7 +6,7 @@
 
 ## Grading
 
-Grading is based on exercise sheets. You can select that you want to solve. The completed exercises of a PS sheet need to be handed-in 
+Grading is based on exercise sheets. You can select that you want to solve. The completed exercises of a PS sheet need to be handed-in
 by the deadline(s) given below.
 
 Each exercise has a specific value (in points) and you have to have at least half of the total sum of the points of all exercises for a positive grade. However, I will also take the type of solution strategy into account. Also, if someone has a good idea but a wrong solution, this will be appreciated.
@@ -17,4 +17,5 @@ When you want to log-in for the first time, you have to reset your password usin
 
 ## Exercise sheets
 
-- [Exercise sheet A](ex1.pdf) - Deadline: Mar. 18, 2017 (11:59pm)
+- [Exercise sheet A](ex1.pdf) - Deadline: Mar. 18, 2018 (11:59pm)
+- [Exercise sheet B](ex2.pdf) - Deadline: Apr. 09, 2018 (11:59pm)
