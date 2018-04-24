@@ -19,6 +19,10 @@ update the slides after the lecture to clarify issues raised by the students.
 
 - [Slides](ml.pdf)
 
+### Code samples
+
+Code samples can be found [here](code/)
+
 ## Books
 
 Mohri, Rostamizadeh, Talwakar<br>
