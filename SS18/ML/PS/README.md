@@ -24,3 +24,4 @@ When you want to log-in for the first time, you have to reset your password usin
 - Exercise sheet B (Exercises 4 and 5 from Ex. sheet A) - Deadline: April 10, 2018 (11pm)
 - No exercises to be solved till April 18, 2018!
 - [Exercise sheet C](ex3.5.pdf) - Deadline: April 29, 2018 (11pm)
+- [Exercise sheet D](ex4.5.pdf) - Deadline: May 8, 2018 (11pm)
