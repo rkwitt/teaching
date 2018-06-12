@@ -22,7 +22,9 @@ Grading is based on **one final exam** at the end of the course (typically in th
 2. [Computed Tomography (CT)](slides_01.pdf)
 3. [Magnetic Resonance Imaging (MRI)](slides_02.pdf)
 4. [Image Registration](slides_03.pdf)
-5. [Time-of-Flight Imaging](slides_04.pdf)
+5. [Time-of-Flight Imaging - CW](slides_04.pdf)
+6. [Time-of-Flight Imaging - PL](slides_05.pdf)
+7. [Structured Light Imaging](slides_06.pdf)
 
 ## Resources
 
