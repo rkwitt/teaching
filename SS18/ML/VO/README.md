@@ -18,7 +18,7 @@ Please, always check the most recent versions (since updates might have occurred
 update the slides after the lecture to clarify issues raised by the students.
 
 - [Slides](ml.pdf)
-- [Proof for Fundamental Theorem of Learning (Part 6->1)](proofA.pdf)
+- [Proof for Fundamental Theorem of Learning (Part 6 to 1)](proofA.pdf)
 
 ### Code samples
 
