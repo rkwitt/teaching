@@ -2,7 +2,7 @@
 
 ## News / Important dates
 
-- 1st exam date: **Feb. 13, 2018 (3.30pm-4pm)**
+- The course has ended. The new course will start in **Oct. 2018**!
 
 ## Grading
 
