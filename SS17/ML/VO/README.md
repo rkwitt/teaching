@@ -2,7 +2,7 @@
 
 ## News / Important dates
 
-- Please contact me for a 2nd exam date! 
+- The course has ended. The new course will start in **March 2018**!
 
 ## Grading
 
