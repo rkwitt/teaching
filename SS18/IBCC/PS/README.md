@@ -17,9 +17,11 @@ When you want to log-in for the first time, you have to reset your password usin
 
 ## Exercise sheets
 
-- [Exercise sheet A](ex1.pdf) - Deadline: Mar. 18, 2018 (11:59pm)
-- [Exercise sheet B](ex2.pdf) - Deadline: Apr. 09, 2018 (11:59pm)
-- [Exercise sheet C](ex3.pdf) - Not graded (nothing to hand in)
-- [Exercise sheet D](ex4.pdf) - Deadline: May 07, 2018 (11:59pm) - updated!
-- [Exercise sheet E](ex5.pdf) - Deadline: May 22, 2018 (11:59pm) 
-- [Exercise sheet F](ex6.pdf) - Deadline: July 03, 2018 (11:59pm) 
+| Exercise sheets | Deadline |
+| --- | --- |
+| [Exercise sheet A](ex1.pdf) | Finished |
+| [Exercise sheet B](ex2.pdf) | Finished |
+| [Exercise sheet C](ex3.pdf) | Finished |
+| [Exercise sheet D](ex4.pdf) | Finished |
+| [Exercise sheet E](ex5.pdf) | Finished |
+| [Exercise sheet F](ex6.pdf) | Finished |
