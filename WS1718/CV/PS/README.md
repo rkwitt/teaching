@@ -2,7 +2,7 @@
 
 ## News / Important dates
 
-- Group membership: **Oct. 17, 2017**
+- The course has ended.
 
 ## Groups
 
