@@ -2,7 +2,7 @@
 
 ## News
 
-- The PS starts on Mar. 06, 2018 (10am-11am)
+- The course has ended!
 
 ## Grading
 
