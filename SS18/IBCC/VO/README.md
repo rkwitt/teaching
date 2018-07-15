@@ -10,7 +10,7 @@ these imaging modalities and then discuss algorithms to process the data.
 
 ## News / Important dates
 
-- The course starts on Mar. 06, 2018 (9am-10.30am)
+- The course has ended!
 
 ## Grading
 
