@@ -5,6 +5,10 @@ teach can be found here (e.g., links to external resources, exercise sheets, gis
 For some courses, the teaching language is German, for some it's English.
 This is also reflected in the material, so do not expect consistency.
 
+# Winter Term 2018 / 2019
+
+- Computer Vision
+
 # Summer Term 2018
 
 - [Machine Learning](SS18/ML)
