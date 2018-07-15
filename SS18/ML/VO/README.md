@@ -2,7 +2,7 @@
 
 ## News / Important dates
 
-- The course starts on Mar. 07, 2018 (9am-11am)
+- The course has ended. The new course will start in **Summer 2019**!
 
 ## Grading
 
