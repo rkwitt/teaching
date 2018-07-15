@@ -6,7 +6,7 @@ are taken from the book by Shalev-Schwartz and Ben-David.
 
 ## News
 
-- The PS starts on Mar. 07, 2018 (11am-12am)
+- The course has ended! The new course will start in **Summer 2019**!
 
 ## Grading
 
