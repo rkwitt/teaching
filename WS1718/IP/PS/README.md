@@ -2,7 +2,7 @@
 
 ## News / Important dates
 
-- **The PS has ended**
+- The PS has ended
 - Submission system online, click [here](https://abgaben.cosy.sbg.ac.at/)
 - Group membership: Deadline **Oct. 16, 2017**
 
