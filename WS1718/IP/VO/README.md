@@ -5,7 +5,8 @@ The material for this course is based on Prof. Andreas Uhl's
 
 ## News/Important dates
 
-- 1st exam date: **Jan. 29, 2018 (9am-11am)**
+- There will be a 3rd exam date (tba) in Sept. 2018
+- The course has ended!
 
 ## Resources
 
