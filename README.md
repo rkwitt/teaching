@@ -7,7 +7,7 @@ This is also reflected in the material, so do not expect consistency.
 
 # Winter Term 2018 / 2019
 
-- Computer Vision
+- [Computer Vision](WS1819/CV)
 
 # Summer Term 2018
 
