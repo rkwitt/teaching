@@ -21,7 +21,7 @@ specific to computer vision, but cover important topics (architectures, optimiza
 that you try to understand the core ideas, so that we can go over the details in the course.
 
 - *Deep learning*, LeCun, Bengio and Hinton, Nature 2015
-[PDF](https://www.nature.com/articles/nature14539.pdf)
+[PDF](../material/Lecun15a.pdf)
 - *Distilling the knowledge in a neural network*, G. Hinton et al., NIPS 2014 Deep Learning Workshop
 [PDF](https://arxiv.org/abs/1503.02531)
 - *ImageNet classification with deep convolutional neural networks*, Krizhevsky et al., NIPS 2012
