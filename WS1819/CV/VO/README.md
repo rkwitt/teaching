@@ -14,7 +14,11 @@ The **core resource** of the course is the [Deep Learning Book](http://www.deepl
 Courville (available online) which covers most of the deep learning basics. This is supplemented by selection of articles in
 the reading list below.
 
-## Reading list
+## Readling list (book)
+
+- **Oct. 16** Part II: Deep Networks - Modern Practices (up to 6.4.)
+
+## Reading list (articles)
 
 Below is a (far from complete selection) of (recent) deep learning papers that will be relevant to the course. Not all papers are
 specific to computer vision, but cover important topics (architectures, optimization, generative modeling, etc.). I **strongly** recommend
