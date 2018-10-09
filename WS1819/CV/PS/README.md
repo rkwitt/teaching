@@ -135,11 +135,11 @@ Theory/engineering
 ### 6. Masked Autoregressive Flows (MAF)
 
 For those who are into density estimation, this project should be
-interesting to you as you will implement an approach to what is
-known as **neural density estimation**.
-
-#### Assessment
-Theory/Engineering
+interesting to, you as you will implement an approach to what is
+known as **neural density estimation**. In particular, given data, 
+the task is to model the joint density of a set of variables. This
+is different to VAEs or GANs, in that neural density estimators 
+provide *exact* density evaluations.
 
 #### Articles
 
@@ -152,3 +152,6 @@ Estimation*, ICML 2015, [PDF](https://arxiv.org/abs/1502.03509)
 For the project to finish, its enough to revisit the toy example in
 (Papamakarios et al., 2016, Fig. 1). This toy example uses synthetic
 data that is easy to generate and can be used to train the model.
+
+#### Assessment
+Theory/Engineering
