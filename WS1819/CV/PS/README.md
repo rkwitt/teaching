@@ -138,9 +138,6 @@ For those who are into density estimation, this project should be
 interesting to you as you will implement an approach to what is
 known as **neural density estimation**.
 
-#### Assessment
-Theory/Engineering
-
 #### Articles
 
 - Papamakarios et al., *Masked Autoregressive Flow for Density Estimation*, NIPS 2017, [PDF](https://homepages.inf.ed.ac.uk/imurray2/pub/17maf/maf.pdf)
@@ -152,3 +149,6 @@ Estimation*, ICML 2015, [PDF](https://arxiv.org/abs/1502.03509)
 For the project to finish, its enough to revisit the toy example in
 (Papamakarios et al., 2016, Fig. 1). This toy example uses synthetic
 data that is easy to generate and can be used to train the model.
+
+#### Assessment
+Theory/Engineering
