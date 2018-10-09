@@ -135,8 +135,11 @@ Theory/engineering
 ### 6. Masked Autoregressive Flows (MAF)
 
 For those who are into density estimation, this project should be
-interesting to you as you will implement an approach to what is
-known as **neural density estimation**.
+interesting to, you as you will implement an approach to what is
+known as **neural density estimation**. In particular, given data, 
+the task is to model the joint density of a set of variables. This
+is different to VAEs or GANs, in that neural density estimators 
+provide *exact* density evaluations.
 
 #### Articles
 
