@@ -18,6 +18,13 @@ the reading list below.
 
 - **Oct. 16** Part II: Deep Networks - Modern Practices (up to 6.4.)
 
+## Code samples from lecture
+
+Below are links to code samples and Jupyter notebooks from the lecture (I will keep on updating them as we go along).
+
+- [XOR example (10/09/18)](../material/code/XOR-Perceptron.ipynb)
+- [Logistic regression (10/16/18)](../material/code/LogisticRegression.ipynb)
+
 ## Reading list (articles)
 
 Below is a (far from complete selection) of (recent) deep learning papers that will be relevant to the course. Not all papers are
