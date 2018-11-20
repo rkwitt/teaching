@@ -14,9 +14,9 @@ The **core resource** of the course is the [Deep Learning Book](http://www.deepl
 Courville (available online) which covers most of the deep learning basics. This is supplemented by selection of articles in
 the reading list below.
 
-## Readling list (book)
+## Readling list (book/articles)
 
-- **Oct. 16** Part II: Deep Networks - Modern Practices (up to 6.4.)
+- **Nov. 27** tba. (on Nov. 20, evening)
 
 ## Code samples from lecture
 
@@ -24,6 +24,8 @@ Below are links to code samples and Jupyter notebooks from the lecture (I will k
 
 - [XOR example (10/09/18)](../material/code/XOR-Perceptron.ipynb)
 - [Logistic regression (10/16/18)](../material/code/LogisticRegression.ipynb)
+- [MNIST LeNet-style](11/06/18)](../material/code/MNIST-LeNetStyle-Network.ipynb)
+- [ResNets + FineTuning](11/20/18)](../material/code/ResNet_and_FineTuning.ipynb)
 
 ## Reading list (articles)
 
