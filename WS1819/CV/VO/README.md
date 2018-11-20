@@ -27,6 +27,10 @@ Below are links to code samples and Jupyter notebooks from the lecture (I will k
 - [MNIST LeNet-style (11/06/18)](../material/code/MNIST-LeNetStyle-Network.ipynb)
 - [ResNets + FineTuning (11/20/18)](../material/code/ResNet_and_FineTuning.ipynb)
 
+## Data
+
+- [Ants/Bees data](https://drive.google.com/open?id=1izFo-gdrxvDy1klIlu-_RZn3JNTaeogg)
+
 ## Reading list (articles)
 
 Below is a (far from complete selection) of (recent) deep learning papers that will be relevant to the course. Not all papers are
