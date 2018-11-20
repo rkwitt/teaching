@@ -24,8 +24,8 @@ Below are links to code samples and Jupyter notebooks from the lecture (I will k
 
 - [XOR example (10/09/18)](../material/code/XOR-Perceptron.ipynb)
 - [Logistic regression (10/16/18)](../material/code/LogisticRegression.ipynb)
-- [MNIST LeNet-style](11/06/18)](../material/code/MNIST-LeNetStyle-Network.ipynb)
-- [ResNets + FineTuning](11/20/18)](../material/code/ResNet_and_FineTuning.ipynb)
+- [MNIST LeNet-style (11/06/18)](../material/code/MNIST-LeNetStyle-Network.ipynb)
+- [ResNets + FineTuning (11/20/18)](../material/code/ResNet_and_FineTuning.ipynb)
 
 ## Reading list (articles)
 
