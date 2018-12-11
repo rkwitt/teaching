@@ -16,7 +16,12 @@ the reading list below.
 
 ## Readling list (book/articles)
 
-- **Nov. 27** tba. (on Nov. 20, evening)
+- For **Dec. 18** - Chapter 8 (Deep Learning Book)
+
+## Notes from the Lecture
+
+- [Backpropagation](../material/bp.pdf)
+- [Variational autoencoders (VAE)](../material/vae.pdf)
 
 ## Code samples from lecture
 
@@ -26,6 +31,7 @@ Below are links to code samples and Jupyter notebooks from the lecture (I will k
 - [Logistic regression (10/16/18)](../material/code/LogisticRegression.ipynb)
 - [MNIST LeNet-style (11/06/18)](../material/code/MNIST-LeNetStyle-Network.ipynb)
 - [ResNets + FineTuning (11/20/18)](../material/code/ResNet_and_FineTuning.ipynb)
+- [Variational autoencoder (12/04/18)](../material/code/vae.ipynb)
 
 ## Data
 
