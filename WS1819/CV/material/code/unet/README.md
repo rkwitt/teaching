@@ -2,11 +2,11 @@ This code is based upon this [GitHub repo](https://github.com/meetshah1995/pytor
 
 ## Data
 
-The data used during the lecture (NYUv2 depth dataset) can be downloaded [here](https://drive.google.com/open?id=1nXw4qA3tCg-EjzDlxaQyuacBPHlaZO-w)
+The data used during the lecture (NYUv2 depth dataset) can be downloaded [here](https://drive.google.com/open?id=1nXw4qA3tCg-EjzDlxaQyuacBPHlaZO-w).
 
 ## Pretrained model
 
-The pretrained model used during the lecture can be downloaded [here](https://drive.google.com/file/d/1w-44gOgVv8n8_wQ_orEzX2Bb2xQfv2nR/view?usp=sharing)
+The pretrained model used during the lecture can be downloaded [here](https://drive.google.com/file/d/1w-44gOgVv8n8_wQ_orEzX2Bb2xQfv2nR/view?usp=sharing).
 
 ## Training
 
