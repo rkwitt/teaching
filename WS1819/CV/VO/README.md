@@ -31,8 +31,9 @@ Below are links to code samples and Jupyter notebooks from the lecture (I will k
 - [Logistic regression (10/16/18)](../material/code/LogisticRegression.ipynb)
 - [MNIST LeNet-style (11/06/18)](../material/code/MNIST-LeNetStyle-Network.ipynb)
 - [ResNets + FineTuning (11/20/18)](../material/code/ResNet_and_FineTuning.ipynb)
+- [Vanilla autoencoder (11/27/18)](../material/code/AutoEncodingArch.ipynb)
 - [Variational autoencoder (12/04/18)](../material/code/vae.ipynb)
-- [Semantic Segmentation (U-Net, (12/18/18)](../material/code/unet)
+- [Semantic Segmentation (U-Net - (12/18/18)](../material/code/unet)
 
 ## Data
 
