@@ -32,7 +32,7 @@ Below are links to code samples and Jupyter notebooks from the lecture (I will k
 - [MNIST LeNet-style (11/06/18)](../material/code/MNIST-LeNetStyle-Network.ipynb)
 - [ResNets + FineTuning (11/20/18)](../material/code/ResNet_and_FineTuning.ipynb)
 - [Variational autoencoder (12/04/18)](../material/code/vae.ipynb)
-- [Semantic Segmentation (U-Net, (12/18/18)](https://github.com/rkwitt/pytorch-semseg.git)
+- [Semantic Segmentation (U-Net, (12/18/18)](../material/code/unet)
 
 ## Data
 
