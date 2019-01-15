@@ -34,6 +34,7 @@ Below are links to code samples and Jupyter notebooks from the lecture (I will k
 - [Vanilla autoencoder (11/27/18)](../material/code/AutoEncodingArch.ipynb)
 - [Variational autoencoder (12/04/18)](../material/code/vae.ipynb)
 - [Semantic Segmentation (U-Net - (12/18/18)](../material/code/unet)
+- [Convolution Arithmetic (01/08/19)](../material/ConvolutionArithmetic.ipynb)
 
 ## Data
 
