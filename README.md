@@ -5,6 +5,12 @@ teach can be found here (e.g., links to external resources, exercise sheets, gis
 For some courses, the teaching language is German, for some it's English.
 This is also reflected in the material, so do not expect consistency.
 
+# Summer Term 2019
+
+- Machine Learning
+- Imaging Beyond Consumer Cameras
+- Datenbanken 1 (PS)
+
 # Winter Term 2018 / 2019
 
 - [Computer Vision](WS1819/CV)
