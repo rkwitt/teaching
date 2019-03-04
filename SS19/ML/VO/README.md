@@ -14,10 +14,10 @@ The course is rather self-contained and most of the material will be discussed o
 my slides. If something is **not** on my slides (e.g., whiteboard notes, derivations, etc.),
 I will provide references or online resources.
 
-Please, always check the most recent versions (since updates might have occurred). I typically
+Please, **always check the most recent versions** (since updates might have occurred). I typically
 update the slides after the lecture to clarify issues raised by the students.
 
--[Slides](ml.pdf)
+[Slides](ml.pdf)
 
 ### Code samples
 
