@@ -8,7 +8,7 @@ This is also reflected in the material, so do not expect consistency.
 # Summer Term 2019
 
 - [Machine Learning](SS19/ML)
-- Imaging Beyond Consumer Cameras
+- [Imaging Beyond Consumer Cameras](SS19/IBCC)
 - Datenbanken 1 (PS)
 
 # Winter Term 2018 / 2019
