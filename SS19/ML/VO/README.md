@@ -19,6 +19,10 @@ update the slides after the lecture to clarify issues raised by the students.
 
 [Slides](ml.pdf)
 
+### Errata
+
+[PAC learnability of axis-aligned rectangles](aar.pdf)
+
 ### Code samples
 
 available shortly
