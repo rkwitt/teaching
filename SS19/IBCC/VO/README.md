@@ -21,6 +21,7 @@ Grading is based on **one final exam** at the end of the course (typically in th
 1. [Introduction, Preliminaries, Radiography (X-Ray imaging)](slides_00.pdf)
 2. [Computed Tomography (CT)](slides_01.pdf)
 3. [Image registration](slides_03.pdf)
+4. [3D Sensors (Part I)](slide_04.pdf)
 
 
 ## Resources
