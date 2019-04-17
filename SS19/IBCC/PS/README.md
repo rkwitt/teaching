@@ -2,7 +2,7 @@
 
 ## News
 
-- The course has ended!
+- [04/17/19] The submission system work now (starting with Ex. sheet C)
 
 ## Grading
 
