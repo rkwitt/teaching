@@ -19,4 +19,5 @@ When you want to log-in for the first time, you have to reset your password usin
 
 - [Exercise sheet A](ex1.pdf) - Finished
 - [Exercise sheet B](ex2.pdf) - Finished
+- [Exercice sheet C](ex4.pdf) - Monday, April 29, 2019 (11pm)
 
