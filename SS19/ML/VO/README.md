@@ -19,9 +19,11 @@ update the slides after the lecture to clarify issues raised by the students.
 
 [Slides](ml.pdf)
 
-### Errata
+### Proofs
 
-[PAC learnability of axis-aligned rectangles](aar.pdf)
+- [PAC learnability of axis-aligned rectangles](aar.pdf)
+- [Fundamental theorem of PAC learning](ft6to1.pdf)
+- [VC dimension of halfspace classifiers](vc_hsc.pdf)
 
 ### Code samples
 
