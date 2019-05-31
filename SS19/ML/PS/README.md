@@ -25,7 +25,4 @@ When you want to log-in for the first time, you have to reset your password usin
 - [Exercise sheet C](ex3.pdf) - Finished
 - [Exercise sheet D](ex4.pdf) - Finished
 - [Exercise sheet E](ex5.pdf) - Deadline: May 31, 2019 (11pm)
-
-
-
-
+- [Exercise sheet F](ex6.pdf) - Deadline: June 7, 2019 (11pm)
