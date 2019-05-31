@@ -25,6 +25,7 @@ Grading is based on **one final exam** at the end of the course (typically in th
 5. [3D Sensors (Part II)](slides_05.pdf)
 6. [3D Sensors (Part III)](slides_06.pdf)
 7. [Point cloud registration](slides_07.pdf)
+8. [Magnetic Resonance Imaging (MRI)](slides_02.pdf)
 
 
 ## Resources
