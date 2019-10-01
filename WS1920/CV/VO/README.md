@@ -27,7 +27,7 @@ reading up on PyTorch which we will use as our environment for deep learning.
 
 Below is a more detailed list of topics covered in the course.
 
-- Introduction
+- [Introduction](../material/IntroSlides.pdf)
 - [Tensor basics](../material/TensorBasics/TensorBasics.ipynb)
 - [The perceptron](../material/Perceptron/Perceptron.ipynb)
 - Automatic differentiation (AutoGrad)
