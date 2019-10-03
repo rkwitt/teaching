@@ -6,13 +6,18 @@
 
 ## Grading
 
-Grading is based on bi-weekly programming assignments, where we will successively implement **all** parts of a pipeline to solve an image recognition task. All these parts have assigned points and the final grade is based on the sum of all the acquired points.
+The PS is split into **two parts**. In the first part (which lasts till around Nov./Dec.), each student will hand in 
+weekly assignments (published below). The assignments are designed such that once we are done with all assignments, we will have a working CIFAR-10 neural network classifier. As the assignments build on top of each other, I will provide one possible solution once the deadline for an assignment has passed, so that you can start the next assignment without carrying over any errors.
 
-Once an exercise is completed, I will provide one possible solution which will serve as the basis for implementing the next part, and so on.
+In the **second part** you will work together in groups of max. size 3. Each group can choose from a selection of recent research papers on the topic of *regularization* (I will provide links as we go along). Each paper essentially presents a different strategy to regularize training of neural networks. You will then experiment with the technique you choose on the problem of learning from only 500 CIFAR-10 examples (which should be doable on your laptop or Desktop PC even without a GPU). The idea is that you obtain a full understanding on how these techniques work and what effect they have. My goal is that you (1) understand the technique in detail, then (2) implement the technique (although most of these things are already available in PyTorch) and (3) experiment with it to quantify its effects your neural network classifier's performance. Once you are done, write a report which critically reflects on the technique and presents your experimental results (max. 5-8 pages).
 
-Depending on the
-number of students signed up for the course, you will either work alone or
-in groups (of max. size 3). This will be decided once the PS starts.
+Both parts are weighted equally to obtain the final grade (but you have to be positive in each sub-part).
+
+## Handing-in assignments
+
+Assignment have to be handed in (as Jupyter notebooks) at [abgaben.cosy.sbg.ac.at](https://abgaben.cosy.sbg.ac.at/).
+
+For the second part of the proseminar, the report including the code can be handed-in by email.
 
 ## Getting started with PyTorch
 
@@ -86,9 +91,8 @@ structure of the `teaching/WS1920/CV` folder. All the notebooks reside under
 `material`.
 
 
-
 ## Assignments
 
-1. Assignment 1 (due on )
+1. Assignment 1 (due on Oct., 15, 11:59pm)
 2. Assignment 2 (due on )
 3. Assignment 2 (due on )
