@@ -87,8 +87,8 @@ jupyter notebook
 ```
 
 Basically, a new browser tab should open where you see the file system
-structure of the `teaching/WS1920/CV` folder. All the notebooks reside under
-`material`.
+structure of the `teaching/WS1920/CV` folder. Assignment notebooks for 
+the PS reside in the `PS` subfolder.
 
 
 ## Assignments
