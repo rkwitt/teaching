@@ -1,0 +1,37 @@
+digraph{
+  1 [shape=note,style=filled, fillcolor="#e0e0ff",label="loss []"]
+  2 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ MeanBackward0 }"]
+  3 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ PowBackward0 }"]
+  4 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ SubBackward0 }"]
+  5 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ TanhBackward }"]
+  6 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ AddBackward0 | { <output0> 0 | <output1> 1 }  }"]
+  7 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ MvBackward | { <output0> 0 | <output1> 1 }  }"]
+  8 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ AccumulateGrad }"]
+  9 [shape=note,style=filled, fillcolor="#e0e0ff",label="w2 [5, 20]"]
+  10 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ TanhBackward }"]
+  11 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ AddBackward0 | { <output0> 0 | <output1> 1 }  }"]
+  12 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ MvBackward }"]
+  13 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ AccumulateGrad }"]
+  14 [shape=note,style=filled, fillcolor="#e0e0ff",label="w1 [20, 10]"]
+  15 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ AccumulateGrad }"]
+  16 [shape=note,style=filled, fillcolor="#e0e0ff",label="b1 [20]"]
+  17 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ AccumulateGrad }"]
+  18 [shape=note,style=filled, fillcolor="#e0e0ff",label="b2 [5]"]
+  8 -> 9
+  7:output0 -> 8
+  13 -> 14
+  12 -> 13
+  11:output0 -> 12
+  15 -> 16
+  11:output1 -> 15
+  10 -> 11
+  7:output1 -> 10
+  6:output0 -> 7
+  17 -> 18
+  6:output1 -> 17
+  5 -> 6
+  4 -> 5
+  3 -> 4
+  2 -> 3
+  1 -> 2
+}
