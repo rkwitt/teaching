@@ -30,12 +30,12 @@ Below is a more detailed list of topics covered in the course.
 - [Introduction](../material/IntroSlides.pdf)
 - [Tensor basics](../material/TensorBasics/TensorBasics.ipynb)
 - [The perceptron](../material/Perceptron/Perceptron.ipynb)
-- Automatic differentiation (AutoGrad)
-- Gradient-based optimization
+- [Automatic differentiation (AutoGrad)](../material/AutoGrad/AutoGrad.ipynb)
+- [Gradient-based optimization](../material/GradientBasedOptimization/GradientBasedOptimization.ipynb)
+- [AdaLine](../material/AdaLine/AdaLine.ipynb)
+- [Multi-layer perceptrons (MLPs)](../material/MLP/MultiLayerPerceptrons.ipynb)
 - Subgradients
-- Multi-layer perceptrons (MLPs)
 - Backpropagation
-- AdaLine
 - Stochastic gradient descent and variants/extensions
 - Logistic regression
 - Loss functions
