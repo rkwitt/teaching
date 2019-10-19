@@ -87,12 +87,11 @@ jupyter notebook
 ```
 
 Basically, a new browser tab should open where you see the file system
-structure of the `teaching/WS1920/CV` folder. Assignment notebooks for 
+structure of the `teaching/WS1920/CV` folder. Assignment notebooks for
 the PS reside in the `PS` subfolder.
 
 
 ## Assignments
 
 1. [Assignment 1](1-Assignment.ipynb) (due on Oct., 15, 11:59pm)
-2. Assignment 2 (due on )
-3. Assignment 2 (due on )
+2. [Assignment 2](2-Assignment.ipynb) (due on Oct., 23, 8:00am)
