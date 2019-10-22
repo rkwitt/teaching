@@ -94,4 +94,4 @@ the PS reside in the `PS` subfolder.
 ## Assignments
 
 1. [Assignment 1](1-Assignment.ipynb) (due on Oct., 15, 11:59pm)
-2. [Assignment 2](2-Assignment.ipynb) (due on Oct., 23, 8:00am)
+2. [Assignment 2](2-Assignment.ipynb) (due on Oct., 26, 11:59pm)
