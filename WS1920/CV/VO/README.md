@@ -34,11 +34,11 @@ Below is a more detailed list of topics covered in the course.
 - [Gradient-based optimization](../material/GradientBasedOptimization/GradientBasedOptimization.ipynb)
 - [AdaLine](../material/AdaLine/AdaLine.ipynb)
 - [Multi-layer perceptrons (MLPs)](../material/MLP/MultiLayerPerceptrons.ipynb)
-- Subgradients
+- Subgradients (on whiteboard, or read *Chapter 14.2* of *Understanding Machine Learning* by Shalev-Schwartz & Ben-David)
+- [Cross-entropy loss](../material/CE/CE.ipynb)
 - Backpropagation
 - Stochastic gradient descent and variants/extensions
 - Logistic regression
-- Loss functions
 - Data handling
 - Residual networks
 - Image recognition
