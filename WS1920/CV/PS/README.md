@@ -97,7 +97,7 @@ the PS reside in the `PS` subfolder.
 2. [Assignment 2](2-Assignment.ipynb) (due on Oct., 26, 11:59pm)
 3. [Assignment 3](3-Assignment.ipynb) (due on Nov., 25, 11:59pm)
 
-The MNIST training example can be found [here](MNIST-SimpleNetwork-Training.ipynb)
+The MNIST training example can be found [here](MNIST-SimpleNetwork-Training.ipynb).
 
 ## Project topics
 
