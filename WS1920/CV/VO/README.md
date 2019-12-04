@@ -37,6 +37,7 @@ Below is a more detailed list of topics covered in the course.
 - Subgradients (on whiteboard, or read *Chapter 14.2* of *Understanding Machine Learning* by Shalev-Schwartz & Ben-David)
 - [Cross-entropy loss](../material/CE/CE.ipynb)
 - [Residual networks](../material/ResNet_FineTune/ResNet_and_FineTuning.ipynb)
+- (Variational) autoencoders
 - Backpropagation
 - Stochastic gradient descent and variants/extensions
 - Logistic regression
@@ -44,7 +45,6 @@ Below is a more detailed list of topics covered in the course.
 - Image recognition
 - Image segmentation
 - Object detection
-- (Variational) autoencoders
 - Generative adversarial networks (GANs)
 
 ## Data
