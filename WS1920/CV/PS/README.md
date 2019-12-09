@@ -99,9 +99,12 @@ the PS reside in the `PS` subfolder.
 
 ## Assignments
 
-1. [Assignment 1](1-Assignment.ipynb) (due on Oct., 15, 11:59pm)
-2. [Assignment 2](2-Assignment.ipynb) (due on Oct., 26, 11:59pm)
-3. [Assignment 3](3-Assignment.ipynb) (due on Nov., 25, 11:59pm)
+1. [Assignment 1](1-Assignment.ipynb) (due on Oct., 15, 11:59pm, DONE)
+2. [Assignment 2](2-Assignment.ipynb) (due on Oct., 26, 11:59pm, DONE)
+3. [Assignment 3](3-Assignment.ipynb) (due on Nov., 25, 11:59pm, DONE)
+
+The solution to *Assignment 3* (which could and should serve as a basis for the
+  PS projects) can be found [here](CIFAR10.ipynb).
 
 The MNIST training example can be found [here](MNIST-SimpleNetwork-Training.ipynb).
 
