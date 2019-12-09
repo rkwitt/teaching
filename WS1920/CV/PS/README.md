@@ -2,6 +2,7 @@
 
 ## News / Important dates
 
+- [Meeting doodle](https://doodle.com/poll/2xhgwtizd6n74yui)
 - Please let me know the project topic (i.e., paper title) and group membership by **Nov. 29, 2019**
 - We will start the PS on **Oct. 2, 2019 (10:30-11:30am, T03)**
 
