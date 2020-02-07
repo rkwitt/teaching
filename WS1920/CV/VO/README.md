@@ -39,13 +39,8 @@ Below is a more detailed list of topics covered in the course.
 - [Residual networks](../material/ResNet_FineTune/ResNet_and_FineTuning.ipynb)
 - (Variational) autoencoders
 - Backpropagation
-- Stochastic gradient descent and variants/extensions
-- Logistic regression
-- Data handling
-- Image recognition
+- Stochastic gradient descent (and variants/extensions)
 - Image segmentation
-- Object detection
-- Generative adversarial networks (GANs)
 
 ## Data
 
