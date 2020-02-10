@@ -3,6 +3,7 @@
 ## News / Important dates
 
 - We will start with the first lecture on **Oct. 2, 2019 (8.30-10:30pm, T03)**
+- Exam date (1st): **Feb. 21, 2020 (T03)**
 
 ## Grading
 
