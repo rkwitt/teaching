@@ -9,7 +9,8 @@ This is also reflected in the material, so do not expect consistency.
 
 - Machine Learning
 - Imaging Beyond Consumer Cameras
-- Datenbanken 1
+- [Datenbanken 1](https://dbresearch.uni-salzburg.at/teaching/2020ss/db1/)
+
 
 # Winter Term 2019 / 2020
 
