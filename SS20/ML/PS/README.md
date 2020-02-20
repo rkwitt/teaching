@@ -1,18 +1,17 @@
 # Machine Learning (PS)
 
-In the PS to the *Machine Learning* course, we will solve exercises closely
-related to the material we discuss during the lecture. Many of the exercises
-are taken from the book by Shalev-Schwartz and Ben-David.
+In the PS to the *Machine Learning* lecture, we will solve exercises closely
+related to the material we discuss. Many of the exercises are taken (or adapted) from the book by Shalev-Schwartz and Ben-David.
 
 ## News
 
-- The PS starts on **Mon., March 4, 2019**
+- The PS starts on **Mon., March 2, 2020** (11:30am, HS Lise Meitner)
 
 ## Grading
 
-Grading is based on exercise sheets. You can select that you want to solve. The completed exercises of a PS sheet need to be handed-in before the next PS in which we will discuss the solutions (be prepared to present your own).
-
-Each exercise has a specific value (in points) and you have to have at least half of the total sum of the points of all exercises for a positive grade. However, I will also take the (1) type of solution strategy and (2) the presentation into account. Also, if someone has a good idea but a wrong solution, this will be appreciated.
+Grading is based on exercise sheets. Each exercise will have points associated
+with it. There will be a total of 100 points to achieve. A positive grade starts
+at 51 points. The completed exercises of a PS sheet need to be handed-in before the next PS, in which we will discuss the solutions.
 
 **Note**: All exercise sheets have to be handed in online [here](https://abgaben.cosy.sbg.ac.at/).
 
@@ -20,9 +19,4 @@ When you want to log-in for the first time, you have to reset your password usin
 
 ## Exercise sheets
 
-- [Exercise sheet A](ex1.pdf) - Finished
-- [Exercise sheet B](ex2.pdf) - Finished
-- [Exercise sheet C](ex3.pdf) - Finished
-- [Exercise sheet D](ex4.pdf) - Finished
-- [Exercise sheet E](ex5.pdf) - Deadline: May 31, 2019 (11pm)
-- [Exercise sheet F](ex6.pdf) - Deadline: June 7, 2019 (11pm)
+will be announced soon after the course has started!
