@@ -7,8 +7,8 @@ This is also reflected in the material, so do not expect consistency.
 
 # Summer Term 2020
 
-- Machine Learning
-- Imaging Beyond Consumer Cameras
+- [Machine Learning](SS20/ML)
+- [Imaging Beyond Consumer Cameras](SS20/IBCC)
 - [Datenbanken 1](https://dbresearch.uni-salzburg.at/teaching/2020ss/db1/)
 
 
