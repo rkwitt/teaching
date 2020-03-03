@@ -22,7 +22,7 @@ I typically update the slides after the lecture to clarify issues raised by the 
 
 ### Proofs / Notes
 
-Available once the lecture has started.
+[Lecture Notes (03/02/2020)](Lecture_Notes_03022020.pdf)
 
 ## Books
 
