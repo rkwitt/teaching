@@ -19,4 +19,4 @@ When you want to log-in for the first time, you have to reset your password usin
 
 ## Exercise sheets
 
-will be announced soon after the course has started!
+- [Exercise sheet A](ex1.2020.pdf) (**Deadline**: March 22, 2020 at 11:59pm)
