@@ -6,6 +6,7 @@ related to the material we discuss. Many of the exercises are taken (or adapted)
 ## News
 
 - The PS starts on **Mon., March 2, 2020** (11:30am, HS Lise Meitner)
+- The submission system will be open by March 13, 2020
 
 ## Grading
 
@@ -19,4 +20,5 @@ When you want to log-in for the first time, you have to reset your password usin
 
 ## Exercise sheets
 
-- [Exercise sheet A](ex1.2020.pdf) (**Deadline**: March 22, 2020 at 11:59pm)
+- [Exercise sheet A](ex1.1.2020.pdf) (**Deadline**: March 15, 2020 at 11:59pm)
+- [Exercise sheet B](ex1.2.2020.pdf) (**Deadline**: March 29, 2020 at 11:59pm)
