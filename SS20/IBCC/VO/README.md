@@ -19,6 +19,7 @@ Grading is based on **one final exam** at the end of the course.
 ## Lecture material
 
 1. [Introduction, Preliminaries, Radiography (X-Ray imaging)](slides_00.pdf)
+2. [Computed Tomography](slides_01.pdf)
 
 ## Resources
 
