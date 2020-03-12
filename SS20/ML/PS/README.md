@@ -8,6 +8,14 @@ related to the material we discuss. Many of the exercises are taken (or adapted)
 - The PS starts on **Mon., March 2, 2020** (11:30am, HS Lise Meitner)
 - The submission system will be open by March 13, 2020
 
+Due to the current **COVID-19** situation, we will not physically meet for the PS. My plan is to provide short videos on the solutions to the PS exercises (please check this website regularly). I will also setup a Slack channel where you can ask questions (you can ask by e-mail as well).
+
+## Slack channel
+
+The slack channel #machinelearning is on [`visel.slack.com`](https://visel.slack.com). It should be possible to sign up with your
+offical University of Salzburg e-mail address ending in
+`@sbg.ac.at` (`@cosy.sbg.ac.at` and `@stud.sbg.ac.at` work as well).
+
 ## Grading
 
 Grading is based on exercise sheets. Each exercise will have points associated

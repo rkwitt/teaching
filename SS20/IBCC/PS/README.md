@@ -4,7 +4,7 @@
 
 - The PS starts on **March 3, 2020** (10:30am-11:30am, T04)
 
-Due to the current **COVID-19** situation, we will not physically meet for the PS. My plan is to provide short videos on the solutions to the PS exercises. I will also setup a Slack channel where you can ask questions (you can ask by e-mail as well).
+Due to the current **COVID-19** situation, we will not physically meet for the PS. My plan is to provide short videos on the solutions to the PS exercises (please check this website regularly). I will also setup a Slack channel where you can ask questions (you can ask by e-mail as well).
 
 ## Slack channel
 
