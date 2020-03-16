@@ -22,7 +22,15 @@ I typically update the slides after the lecture to clarify issues raised by the 
 
 ### Proofs / Notes
 
-[Lecture Notes (03/02/2020)](Lecture_Notes_03022020.pdf)
+- [Lecture notes (03/02/2020)](Lecture_Notes_03022020.pdf)
+- Lecture notes (09/03/2020)
+
+### Lecture videos
+
+- [Finite hypothesis classes are PAC learnable](https://drive.google.com/open?id=1J-uuW35JamGg9STllAe3N3kN4GBuZMBy)
+- [PAC vs. Agnostic PAC](https://drive.google.com/open?id=1JxIMEBxl8tk88CwFsWzOaEZyVhOq2Qv2)
+- [Uniform convergence - Part I](https://drive.google.com/open?id=10qH-5pfBkoaAUfixv2XKgY27ECJdFa2_)
+- [Uniform convergence - Part II](https://drive.google.com/open?id=1mbT12wu0N7m3FE4ub96H7OabBHGfefT-)
 
 ## Books
 

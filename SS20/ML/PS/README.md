@@ -28,5 +28,5 @@ When you want to log-in for the first time, you have to reset your password usin
 
 ## Exercise sheets
 
-- [Exercise sheet A](ex1.1.2020.pdf) (**Deadline**: March 15, 2020 at 11:59pm)
+- [Exercise sheet A](ex1.1.2020.pdf) (**Deadline**: March 15, 2020 at 11:59pm) - [Solution (Video)](https://drive.google.com/open?id=1A7h76FPtgSy_KGNPhbkDVD9vaQ-ig6iB)
 - [Exercise sheet B](ex1.2.2020.pdf) (**Deadline**: March 29, 2020 at 11:59pm)
