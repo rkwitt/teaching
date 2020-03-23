@@ -31,6 +31,8 @@ I typically update the slides after the lecture to clarify issues raised by the 
 - [PAC vs. Agnostic PAC](https://drive.google.com/open?id=1JxIMEBxl8tk88CwFsWzOaEZyVhOq2Qv2)
 - [Uniform convergence - Part I](https://drive.google.com/open?id=10qH-5pfBkoaAUfixv2XKgY27ECJdFa2_)
 - [Uniform convergence - Part II](https://drive.google.com/open?id=1mbT12wu0N7m3FE4ub96H7OabBHGfefT-)
+- [Learnability of threshold functions](https://drive.google.com/open?id=16KsAmhwzpAfam-JdEL7yfiY6FZfWFHF4)
+- [No-Free-Lunch Theorem](https://drive.google.com/open?id=17z77gOSnLstBuxwUrdriw3PgAahN17Ti)
 
 ## Books
 
