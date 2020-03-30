@@ -33,6 +33,7 @@ I typically update the slides after the lecture to clarify issues raised by the 
 - [Uniform convergence - Part II](https://drive.google.com/open?id=1mbT12wu0N7m3FE4ub96H7OabBHGfefT-)
 - [Learnability of threshold functions](https://drive.google.com/open?id=16KsAmhwzpAfam-JdEL7yfiY6FZfWFHF4)
 - [No-Free-Lunch Theorem](https://drive.google.com/open?id=17z77gOSnLstBuxwUrdriw3PgAahN17Ti)
+- [VC-Dimension (Part I)](https://drive.google.com/open?id=1OgPgFcirW5VzJ4Ix_lHJfIKWzl73Z7-V), [VC-Dimension (Part II)](https://drive.google.com/open?id=1JFJawqvijPrP8Kv7xnmo0VvPoC78-FVi)
 
 ## Books
 
