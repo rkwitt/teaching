@@ -23,7 +23,7 @@ I typically update the slides after the lecture to clarify issues raised by the 
 ### Proofs / Notes
 
 - [Lecture notes (03/02/2020)](Lecture_Notes_03022020.pdf)
-- Lecture notes (09/03/2020)
+- All video lecture notes will be available ASAP as well!
 
 ### Lecture videos
 
@@ -34,6 +34,7 @@ I typically update the slides after the lecture to clarify issues raised by the 
 - [Learnability of threshold functions](https://drive.google.com/open?id=16KsAmhwzpAfam-JdEL7yfiY6FZfWFHF4)
 - [No-Free-Lunch Theorem](https://drive.google.com/open?id=17z77gOSnLstBuxwUrdriw3PgAahN17Ti)
 - [VC-Dimension (Part I)](https://drive.google.com/open?id=1OgPgFcirW5VzJ4Ix_lHJfIKWzl73Z7-V), [VC-Dimension (Part II)](https://drive.google.com/open?id=1JFJawqvijPrP8Kv7xnmo0VvPoC78-FVi)
+- [Proof - Fundamental theorem of learning](https://drive.google.com/open?id=1kN9C8lVz44o_1DqsX7Dbv_T2mW9exxhi)
 
 ## Books
 
