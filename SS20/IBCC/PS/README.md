@@ -27,3 +27,5 @@ When you want to log-in for the first time, you have to reset your password usin
 
 - [Exercise sheet A](exA.pdf) [Deadline: March 27, 2020 (11pm)]
 - [Exercise sheet B](exB.pdf) [Deadline: April 27, 2020 (11pm)], [CodeTemplate](ExSheetB-Template.ipynb)
+- [Exercise sheet C](exC.pdf) [Deadline: May 11, 2020 (11pm)]
+
