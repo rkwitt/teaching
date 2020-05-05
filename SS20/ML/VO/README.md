@@ -35,6 +35,7 @@ I typically update the slides after the lecture to clarify issues raised by the 
 - [No-Free-Lunch Theorem](https://drive.google.com/open?id=17z77gOSnLstBuxwUrdriw3PgAahN17Ti)
 - [VC-Dimension (Part I)](https://drive.google.com/open?id=1OgPgFcirW5VzJ4Ix_lHJfIKWzl73Z7-V), [VC-Dimension (Part II)](https://drive.google.com/open?id=1JFJawqvijPrP8Kv7xnmo0VvPoC78-FVi)
 - [Proof - Fundamental theorem of learning](https://drive.google.com/open?id=1kN9C8lVz44o_1DqsX7Dbv_T2mW9exxhi)
+- [Linear Predictors (Part I)](https://drive.google.com/open?id=16PvEpTUU_Q17UIq1qtnj89lfWD6alipr)
 
 ## Books
 
