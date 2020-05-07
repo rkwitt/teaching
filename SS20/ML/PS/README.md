@@ -31,5 +31,5 @@ When you want to log-in for the first time, you have to reset your password usin
 - [Exercise sheet A](ex1.1.2020.pdf) (**Deadline**: March 15, 2020 at 11:59pm) - [Solution (Video)](https://drive.google.com/open?id=1A7h76FPtgSy_KGNPhbkDVD9vaQ-ig6iB)
 - [Exercise sheet B](ex1.2.2020.pdf) (**Deadline**: March 29, 2020 at 11:59pm) - [Solution (Video)](https://drive.google.com/open?id=1W66Ul9KaYS1WsmYLllHdqYZnSWdJxG58)
 - [Exercise sheet C](ex3.2020.pdf) (**Deadline**: April 10, 2020 at 11:59pm)
-- [Exercise sheet D](ex4.2020.pdf) (**Deadline**: May 8, 2020 at 11:59pm)
+- [Exercise sheet D](ex4.2020.pdf) (**Deadline**: May 9, 2020 at 11:59pm)
 
