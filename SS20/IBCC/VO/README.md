@@ -21,7 +21,7 @@ Grading is based on **one final exam** at the end of the course.
 1. [Introduction, Preliminaries, Radiography (X-Ray imaging)](slides_00.pdf)
 2. [Computed Tomography](slides_01.pdf)
 3. [Magnetic Resonance Imaging](slides_02.pdf), [Video (Part I)](https://drive.google.com/open?id=17Jh6LC0JjfTmQUNO_N3zQa50h8QqjiSM), [Video (Part II)](https://drive.google.com/open?id=1nEFHnnrK6r4HpAs4QfW_WCq4QqkJ5jwV)
-4. [Image Registration](slides_03.pdf) (video will be coming soon!)
+4. [Image Registration](slides_03.pdf), [Video (Part I)](https://drive.google.com/open?id=1FHrAUVwD-PWkhh89gHg3QoVwQAw_IidS)
 
 ## Resources
 
