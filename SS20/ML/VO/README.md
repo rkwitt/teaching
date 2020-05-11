@@ -23,7 +23,10 @@ I typically update the slides after the lecture to clarify issues raised by the 
 ### Proofs / Notes
 
 - [Lecture notes (03/02/2020)](Lecture_Notes_03022020.pdf)
-- All video lecture notes will be available ASAP as well!
+
+Full set of notes (up to now; please check for updates):
+
+- [Lecture notes](Lecture-Status-11-05-2020.pdf)
 
 ### Lecture videos
 
@@ -36,6 +39,8 @@ I typically update the slides after the lecture to clarify issues raised by the 
 - [VC-Dimension (Part I)](https://drive.google.com/open?id=1OgPgFcirW5VzJ4Ix_lHJfIKWzl73Z7-V), [VC-Dimension (Part II)](https://drive.google.com/open?id=1JFJawqvijPrP8Kv7xnmo0VvPoC78-FVi)
 - [Proof - Fundamental theorem of learning](https://drive.google.com/open?id=1kN9C8lVz44o_1DqsX7Dbv_T2mW9exxhi)
 - [Linear Predictors (Part I)](https://drive.google.com/open?id=16PvEpTUU_Q17UIq1qtnj89lfWD6alipr)
+- [Linear Predictors (Part II)](https://drive.google.com/open?id=1Yuy_x1B24ubIy4EeV2_MP5SyGn90q8xi)
+
 
 ## Books
 
