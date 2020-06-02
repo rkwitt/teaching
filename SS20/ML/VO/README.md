@@ -40,6 +40,8 @@ Full set of notes (up to now; please check for updates):
 - [Proof - Fundamental theorem of learning](https://drive.google.com/open?id=1kN9C8lVz44o_1DqsX7Dbv_T2mW9exxhi)
 - [Linear Predictors (Part I)](https://drive.google.com/open?id=16PvEpTUU_Q17UIq1qtnj89lfWD6alipr)
 - [Linear Predictors (Part II)](https://drive.google.com/open?id=1Yuy_x1B24ubIy4EeV2_MP5SyGn90q8xi)
+- [Boosting (Part I)](https://drive.google.com/file/d/1BM6BTaFMxa9GL9f-Uy-QBSom7eofaCS4/view?usp=sharing)
+- [Boosting (Part II)](https://drive.google.com/file/d/1_PIhpag67C7mBsCxgYKJt3cWDjdEp8W9/view?usp=sharing)
 
 
 ## Books
