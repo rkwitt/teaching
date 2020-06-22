@@ -43,6 +43,7 @@ Full set of notes (up to now; please check for updates):
 - [Boosting (Part I)](https://drive.google.com/file/d/1BM6BTaFMxa9GL9f-Uy-QBSom7eofaCS4/view?usp=sharing)
 - [Boosting (Part II)](https://drive.google.com/file/d/1_PIhpag67C7mBsCxgYKJt3cWDjdEp8W9/view?usp=sharing), [Errata](https://drive.google.com/file/d/1Bj6e2Isi1-T6bZPL5jxeTCPuC3tOis8z/view?usp=sharing)
 - [Review of Convex sets, convex functions, Liptschitz continuity and smoothness](https://drive.google.com/file/d/1CkQvoA7VY5GAydOYeX_KqJhqeMCOVj9u/view?usp=sharing)
+- [Convex Learning Problems](https://drive.google.com/file/d/1B5CxpcHS5sKEccqXoect2nK6oHn5ttL8/view?usp=sharing), [Addon](https://drive.google.com/file/d/1vpdjW1KiWvZSMlIx1WFB42T7P3Pa2gNG/view?usp=sharing)
 
 
 ## Books
