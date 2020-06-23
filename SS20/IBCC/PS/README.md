@@ -16,7 +16,7 @@ offical University of Salzburg e-mail address ending in
 
 Grading is based on exercise sheets. The completed exercises of a PS sheet need to be handed-in by the deadline(s) listed below.
 
-Each exercise has a specific value (in points) and you have to have at least half of the total sum of the points of all exercises for a positive grade (total will be 50, hence 21 already gives a positive grade).
+Each exercise has a specific value (in points) and you have to have at least half of the total sum of the points of all exercises for a positive grade (total will be 50, hence 26 already gives a positive grade).
 
 **Note**: All exercise sheets have to be handed in online [here](https://abgaben.cosy.sbg.ac.at/).
 
