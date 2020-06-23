@@ -16,13 +16,13 @@ whatever literature/course material you desire. The procedure is detailed below:
 
 **Each student** who wants to participate in the exam, do the following:
 
-0. Sign-up for the exam within the **PLUS Online** system
+0. Sign-up for the exam within the **PLUS Online** system.
 1. Go to [random.org](https://www.random.org/integer-sets/) and generate 5 random integers between 1 and 15.
 2. Send the output (e.g., `Set 1: 2, 4, 6, 8, 12`) to me via e-mail (`Roland.Kwitt@sbg.ac.at`) with the email
 subject `ML20 exam sequence`.
 3. 10 min. before the exam time, I will release (on the VO website) a PDF with 15 questions. Solve the exercises
 with the numbers matching your personal random sequence (from Step 2).
-4. Each question should be on a **separate page** (annotated with *page number*, *Name* and *Matrikelnummer*)
+4. Each question should be on a **separate page** (annotated with *page number*, *Name* and *Matrikelnummer*).
 4. At the end of the exam time, *scan* or *take a picture* of your student ID and all sheets that have relevant content, zip those files and send it via email to `Roland.Kwitt@sbg.ac.at` (within a 20 min. time window).
 
 During the exam, I will be available on **Google Meet** (I will provide a link before the exam starts) for the time 
@@ -65,6 +65,7 @@ Full set of notes (up to now; please check for updates):
 - [Review of Convex sets, convex functions, Liptschitz continuity and smoothness](https://drive.google.com/file/d/1CkQvoA7VY5GAydOYeX_KqJhqeMCOVj9u/view?usp=sharing)
 - [Convex Learning Problems](https://drive.google.com/file/d/1B5CxpcHS5sKEccqXoect2nK6oHn5ttL8/view?usp=sharing), [Addon](https://drive.google.com/file/d/1vpdjW1KiWvZSMlIx1WFB42T7P3Pa2gNG/view?usp=sharing)
 
+*All material that comes below* (in the next 2 weeks) is **not** relevant for the lecture exam.
 
 ## Books
 
