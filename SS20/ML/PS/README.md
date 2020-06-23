@@ -20,7 +20,7 @@ offical University of Salzburg e-mail address ending in
 
 Grading is based on exercise sheets. Each exercise will have points associated
 with it. There will be a total of 50 points to achieve. A positive grade starts
-at 25 points. The completed exercises of a PS sheet need to be handed-in before the next PS, in which we will discuss the solutions.
+at 26 points. The completed exercises of a PS sheet need to be handed-in before the next PS, in which we will discuss the solutions.
 
 **Note**: All exercise sheets have to be handed in online [here](https://abgaben.cosy.sbg.ac.at/).
 
