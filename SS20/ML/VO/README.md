@@ -2,11 +2,31 @@
 
 ## News / Important dates
 
-- The course will start on **March 2., 2020** (10am-11:30am, HS Lise Meitner)
+- The course will start on **March 2, 2020** (10am-11:30am, HS Lise Meitner)
+- The first exam date is **July 9, 2020** (10am-11:30am)
 
 ## Grading
 
 Grading is based on **one final exam** at the end of the course (typically in the last lecture).
+
+### Information for online exam
+
+The exam this year will be an **online**, written exam. It is an **open-book** exam, so you can use 
+whatever literature/course material you desire. The procedure is detailed below:
+
+**Each student** who wants to participate in the exam, do the following:
+
+0. Sign-up for the exam within the **PLUS Online** system
+1. Go to [random.org](https://www.random.org/integer-sets/) and generate 5 random integers between 1 and 15.
+2. Send the output (e.g., `Set 1: 2, 4, 6, 8, 12`) to me via e-mail (`Roland.Kwitt@sbg.ac.at`) with the email
+subject `ML20 exam sequence`.
+3. 10 min. before the exam time, I will release (on the VO website) a PDF with 15 questions. Solve the exercises
+with the numbers matching your personal random sequence (from Step 2).
+4. Each question should be on a **separate page** (annotated with *page number*, *Name* and *Matrikelnummer*)
+4. At the end of the exam time, *scan* or *take a picture* of your student ID and all sheets that have relevant content, zip those files and send it via email to `Roland.Kwitt@sbg.ac.at` (within a 20 min. time window).
+
+During the exam, I will be available on **Google Meet** (I will provide a link before the exam starts) for the time 
+of the exam, in case there are any questions.
 
 ## Lecture material
 
