@@ -5,7 +5,7 @@
 - The course will start on **March 2, 2020** (10am-11:30am, HS Lise Meitner)
 - The first exam date is **July 9, 2020** (10am-11:30am)
 - The Google Meet link for the exam is [meet.google.com/vjp-eeif-rei](https://meet.google.com/vjp-eeif-rei)
-- The exam sheet will be available at 9:45am on July 9, 2020
+- The exam sheet for the exam on July 9, 2020 is [now online](https://drive.google.com/file/d/1vzZCQ3XFq1CSGDHBpv7s9OEWFmhqdzU2/view?usp=sharing)
 
 ## Grading
 
