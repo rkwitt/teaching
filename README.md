@@ -5,6 +5,11 @@ teach can be found here (e.g., links to external resources, exercise sheets, gis
 For some courses, the teaching language is German, for some it's English.
 This is also reflected in the material, so do not expect consistency.
 
+# Winter Term 2020 / 2021
+
+- [Computer Vision](WS2021/CV)
+- Introduction to Data Science
+
 # Summer Term 2020
 
 - [Machine Learning](SS20/ML)
