@@ -32,7 +32,7 @@ Below is a more detailed list of topics covered in the course, subject to change
 on the progress we make (*links and videos available starting mid-Sep. 2020*).
 
 - Introduction & Vision problems
-- Tensor basics
+- [Tensor basics](../material/01_TensorBasics)
 - The perceptron
 - Automatic differentiation
 - Gradient-based optimization
