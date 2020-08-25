@@ -4,6 +4,9 @@
 
 - We will start with the first lecture on **Oct. 7, 2020** (online)
 
+The course will happen fully online. I will provide lecture videos
+
+
 ## Grading
 
 Grading is based on a **final exam** at the end of the semester (typically the first date for the exam is the last lecture, however, we can find a date other than that which works for most students).
@@ -25,7 +28,25 @@ reading up on PyTorch which we will use as our environment for deep learning.
 
 ## Course topics
 
-Below is a more detailed list of topics covered in the course (*available in Sep. 2020*).
+Below is a more detailed list of topics covered in the course, subject to change depending
+on the progress we make (*links and videos available starting mid-Sep. 2020*).
+
+- Introduction & Vision problems
+- Tensor basics
+- The perceptron
+- Automatic differentiation
+- Gradient-based optimization
+- Backpropagation
+- AdaLine
+- Multilayer perceptrons (MLPs)
+- Stochastic Gradient Descent & Variants
+- Losses
+- Residual learning
+- Autoencoders 
+- Adversarial learning
+- Contrastive learning 
+- Image segmentation
+- Object detection
 
 ## Data
 
