@@ -12,6 +12,7 @@ these imaging modalities and then discuss algorithms to process the data.
 
 - The course starts on **Tue., March 3, 2020** (8:30am, T04)
 - The Google meet link for the exam on **Fri., Sept. 11 (10:00am)** is [here](https://meet.google.com/qji-dfkn-jto)
+- [Exam PDF](https://drive.google.com/file/d/1vzZCQ3XFq1CSGDHBpv7s9OEWFmhqdzU2/view?usp=sharing)
 
 ## Grading
 
