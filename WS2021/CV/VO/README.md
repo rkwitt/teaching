@@ -26,6 +26,10 @@ familiar with Python, as I do use Python almost exclusively (via Jupyter noteboo
 I will provide a short introduction in the PS, though. Also, you can start
 reading up on PyTorch which we will use as our environment for deep learning.
 
+## PyTorch installation
+
+- [Tutorial](https://drive.google.com/file/d/1-Mgvt5JC2lNdqcmPQg47OFPxrwDF7GTe/view?usp=sharing)
+
 ## Course topics
 
 Below is a more detailed list of topics covered in the course, subject to change depending
