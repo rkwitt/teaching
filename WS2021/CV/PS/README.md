@@ -9,7 +9,7 @@
 In this PS, we will essentially implement the recent (2020) paper 
 
 Koshla et al.    
-**Supervised Contrastive Learning**. 
+**Supervised Contrastive Learning**      
 [arXiv](https://arxiv.org/abs/2004.11362)     
 
 *step-by-step*. This means, I will chunk up the implementation of 
