@@ -49,8 +49,8 @@ on the progress we make (*links and videos available starting mid-Sep. 2020*).
 - Autoencoders 
 - Variational Autoencoders (VAEs) 
   - [Lecture video (Part-1)](https://drive.google.com/file/d/1tEMQXbndM1neWjHLexwCXpq4I0InptjZ/view?usp=sharing)
-  - [Lecture video (Part-1)](https://drive.google.com/file/d/1LHaP0ENgHy4H4S8yG6svafQDBul5FDXN/view?usp=sharing)
-  - [Lecture video (Part-1)](https://drive.google.com/file/d/1AXoum7JNvSWpGfk1qZ97U_fPWHL4BxHj/view?usp=sharing)
+  - [Lecture video (Part-2)](https://drive.google.com/file/d/1LHaP0ENgHy4H4S8yG6svafQDBul5FDXN/view?usp=sharing)
+  - [Lecture video (Part-3)](https://drive.google.com/file/d/1AXoum7JNvSWpGfk1qZ97U_fPWHL4BxHj/view?usp=sharing)
   - [Lecture video (Jupyter notebook)]()
   - Jupyter notebook
 - Adversarial learning
