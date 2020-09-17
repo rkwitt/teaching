@@ -28,7 +28,7 @@ reading up on PyTorch which we will use as our environment for deep learning.
 
 ## PyTorch installation
 
-- [Tutorial](https://drive.google.com/file/d/1-Mgvt5JC2lNdqcmPQg47OFPxrwDF7GTe/view?usp=sharing)
+- [Tutorial](https://drive.google.com/file/d/1W4A1H7CqDgDbVh_1uiWRyVJhYyntjzn4/view?usp=sharing)
 
 ## Course topics
 
