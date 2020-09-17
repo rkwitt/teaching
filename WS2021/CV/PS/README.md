@@ -4,11 +4,36 @@
 
 - We will start the PS on **Oct. 14, 2020**
 
-## Grading
+## Assignments / Grading
 
-will be announced soon!
+In this PS, we will essentially implement the recent (2020) paper 
 
-## Getting started with PyTorch
+Koshla et al.    
+**Supervised Contrastive Learning**. 
+[arXiv](https://arxiv.org/abs/2004.11362)     
+
+*step-by-step*. This means, I will chunk up the implementation of 
+the paper into managable steps.
+
+I will provide assignments (for each step) which you have to solve
+until a given deadline. Once the deadline is over, you get 
+*a correct solution*. You can then work with this solution to 
+complete the next assignment (and so on). In this manner, you can
+always start fresh and errors are not carried along.
+
+This is the first time, I will experiment with *Github classroom*
+as a means to publish and hand-in the exercises. This means **you
+will need a GitHub account** for the PS. 
+
+We will implement the paper using [PyTorch](https://pytorch.org/). 
+Below you find a description of the steps to setup PyTorch using 
+Anaconda Python. Once we reach the point where we can start 
+experimenting on a larger-scale, it will be beneficial to have
+a GPU. For that, I do recommend to use *Google Collab* where 
+you can have access to GPU's for free. I will provide a short
+tutorial video on that.
+
+## Preliminaries: Getting started with PyTorch
 
 I do recommend a setup using Anaconda Python. Below is a short howto to install
 Anaconda + PyTorch on a Mac OS X system.
@@ -76,5 +101,4 @@ jupyter notebook
 ```
 
 Basically, a new browser tab should open where you see the file system
-structure of the `teaching/WS1920/CV` folder. Assignment notebooks for
-the PS reside in the `PS` subfolder.
+structure of the `teaching/WS2021/CV` folder.
