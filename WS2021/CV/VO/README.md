@@ -4,7 +4,11 @@
 
 - We will start with the first lecture on **Oct. 7, 2020** (online)
 
-The course will happen **fully online**. I will provide lecture videos as we go along (see below). I am also planning to create a **Slack** channel for the course where we can schedule meetings (via Google meet) to discuss or clarify questions you might have regarding the course material.
+The course will happen **fully online**. I will provide lecture videos as we go along (see below). 
+
+## Slack
+
+We have a Slack channel `#computervision` on [visel.slack.com](visel.slack.com). You can sign up with your `@sbg.ac.at`, `@cosy.sbg.ac.at` or your `@stud.sbg.ac.at` email address. This is quite useful, as you can always ask questions, or we can schedule meetings (via Google meet) where I can answer questions you might have.
 
 ## Grading
 
