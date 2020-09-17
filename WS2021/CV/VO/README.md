@@ -47,7 +47,12 @@ on the progress we make (*links and videos available starting mid-Sep. 2020*).
 - Losses
 - Residual learning
 - Autoencoders 
-- Variational Autoencoders (VAEs) [Part-1](https://drive.google.com/file/d/1tEMQXbndM1neWjHLexwCXpq4I0InptjZ/view?usp=sharing)[Part-3]()[Part-3]()
+- Variational Autoencoders (VAEs) 
+  - [Lecture video (Part-1)](https://drive.google.com/file/d/1tEMQXbndM1neWjHLexwCXpq4I0InptjZ/view?usp=sharing)
+  - [Lecture video (Part-1)]()
+  - [Lecture video (Part-1)]()
+  - [Lecture video (Jupyter notebook)]()
+  - Jupyter notebook
 - Adversarial learning
 - Contrastive learning 
 - Image segmentation
