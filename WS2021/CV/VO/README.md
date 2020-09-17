@@ -4,8 +4,7 @@
 
 - We will start with the first lecture on **Oct. 7, 2020** (online)
 
-The course will happen fully online. I will provide lecture videos
-
+The course will happen **fully online**. I will provide lecture videos as we go along (see below). I am also planning to create a **Slack** channel for the course where we can schedule meetings (via Google meet) to discuss or clarify questions you might have regarding the course material.
 
 ## Grading
 
