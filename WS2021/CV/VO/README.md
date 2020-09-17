@@ -33,7 +33,8 @@ reading up on PyTorch which we will use as our environment for deep learning.
 ## Course topics
 
 Below is a more detailed list of topics covered in the course, subject to change depending
-on the progress we make (*links and videos available starting mid-Sep. 2020*).
+on the progress we make. For many of the topics, I will also provide links to the relevant
+papers (primarily in the `papers` sub-directory within each topic-folder).
 
 - [**Introduction & Vision problems**](../material/IntroSlides.pdf)
 - [**Tensor basics**](../material/01_TensorBasics)
