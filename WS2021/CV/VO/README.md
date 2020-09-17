@@ -37,12 +37,19 @@ on the progress we make (*links and videos available starting mid-Sep. 2020*).
 
 - [Introduction & Vision problems](../material/IntroSlides.pdf)
 - [Tensor basics](../material/01_TensorBasics)
-- The perceptron
-- Automatic differentiation
-- Gradient-based optimization
-- Backpropagation
+  - Lecture video
+- [The perceptron](../material/03_Perceptron)
+  - Lecture video
 - AdaLine
+  - Lecture video
+- Automatic differentiation
+  - Lecture video
+- Gradient-based optimization
+  - Lecture video
+- Backpropagation
+  - Lecture video
 - Multilayer perceptrons (MLPs)
+  - Lecture video
 - Stochastic Gradient Descent & Variants
 - Losses
 - Residual learning
