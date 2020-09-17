@@ -8,7 +8,7 @@ This is also reflected in the material, so do not expect consistency.
 # Winter Term 2020 / 2021
 
 - [Computer Vision](WS2021/CV)
-- Introduction to Data Science
+- [Introduction to Data Science](WS2021/DSI)
 
 # Summer Term 2020
 
