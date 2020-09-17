@@ -35,35 +35,37 @@ reading up on PyTorch which we will use as our environment for deep learning.
 Below is a more detailed list of topics covered in the course, subject to change depending
 on the progress we make (*links and videos available starting mid-Sep. 2020*).
 
-- [Introduction & Vision problems](../material/IntroSlides.pdf)
+- [**Introduction & Vision problems**](../material/IntroSlides.pdf)
 - [**Tensor basics**](../material/01_TensorBasics)
   - Lecture video
-- [The perceptron](../material/03_Perceptron)
+- [**The perceptron**](../material/03_Perceptron)
   - Lecture video
-- AdaLine
+- **AdaLine**
   - Lecture video
-- Automatic differentiation
+- **Automatic differentiation**
   - Lecture video
-- Gradient-based optimization
+- **Gradient-based optimization**
   - Lecture video
-- Backpropagation
+- **Backpropagation**
   - Lecture video
-- Multilayer perceptrons (MLPs)
+- **Multilayer perceptrons (MLPs)**
   - Lecture video
-- Stochastic Gradient Descent & Variants
-- Losses
-- Residual learning
-- Autoencoders 
-- Variational Autoencoders (VAEs) 
+- **Stochastic Gradient Descent (SGD) & Variants**
+  - Lecture video
+- **Loss functions**
+  - Lecture video
+- **Residual learning**
+  - Lecture video
+- **Autoencoding architectures**
+  - Lecture video
+- **Variational Autoencoders (VAEs)**
   - [Lecture video (Part-1)](https://drive.google.com/file/d/1tEMQXbndM1neWjHLexwCXpq4I0InptjZ/view?usp=sharing)
   - [Lecture video (Part-2)](https://drive.google.com/file/d/1LHaP0ENgHy4H4S8yG6svafQDBul5FDXN/view?usp=sharing)
   - [Lecture video (Part-3)](https://drive.google.com/file/d/1AXoum7JNvSWpGfk1qZ97U_fPWHL4BxHj/view?usp=sharing)
   - Lecture video (Jupyter notebook)
   - Jupyter notebook
-- Adversarial learning
-- Contrastive learning 
-- Image segmentation
-- Object detection
+- **Adversarial learning**
+- **Contrastive learning**
 
 ## Data
 
