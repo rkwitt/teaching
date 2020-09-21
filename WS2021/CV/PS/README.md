@@ -21,9 +21,11 @@ until a given deadline. Once the deadline is over, you get
 complete the next assignment (and so on). In this manner, you can
 always start fresh and errors are not carried along.
 
-This is the first time, I will experiment with *Github classroom*
-as a means to publish and hand-in the exercises. This means **you
-will need a GitHub account** for the PS. 
+This is the first time I will experiment with *Github classroom*
+as a means to publish exercises. This means **you
+will need a GitHub account** for the PS. Please enter your 
+Github username and Student ID number (i.e., Matrikelnummer) 
+in the spreadsheet linked [here](https://myfiles.sbg.ac.at/index.php/s/RX5ftDQYT7A3EqT).
 
 We will implement the paper using [PyTorch](https://pytorch.org/). 
 Below you find a description of the steps to setup PyTorch using 
@@ -31,7 +33,7 @@ Anaconda Python. Once we reach the point where we can start
 experimenting on a larger-scale, it will be beneficial to have
 a GPU. For that, I do recommend to use *Google Collab* where 
 you can have access to GPU's for free. I will provide a short
-tutorial video on that.
+tutorial video on that later during the course.
 
 ## Preliminaries: Getting started with PyTorch
 
@@ -82,7 +84,7 @@ import torch
 print(torch.__version__)
 ```
 
-The most recent (stable) version is 1.2 (which is also what you should see as
+The most recent (stable) version is 1.6 (which is also what you should see as
   the output of the `print` statement).
 
 ## Running the course notebooks
