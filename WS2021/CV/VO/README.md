@@ -41,10 +41,10 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 
 - [**Introduction & Vision problems**](../material/IntroSlides.pdf)
 - [**Tensor basics**](../material/01_TensorBasics)
-  - Lecture video
-- [**The perceptron**](../material/03_Perceptron)
   - [Lecture video (Part-1)](https://drive.google.com/file/d/1WJ4O-CxwjCVBG90URcWhUW2No4onNCQ4/view?usp=sharing)
   - [Lecture video (Part-2)](https://drive.google.com/file/d/1kNYWZoED0EZP9idpF9BKt20De-haSLiB/view?usp=sharing)
+- [**The perceptron**](../material/03_Perceptron)
+  - Lecture video
 - **AdaLine**
   - Lecture video
 - **Automatic differentiation**
