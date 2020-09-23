@@ -44,7 +44,8 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Lecture video (Part-1)](https://drive.google.com/file/d/1WJ4O-CxwjCVBG90URcWhUW2No4onNCQ4/view?usp=sharing)
   - [Lecture video (Part-2)](https://drive.google.com/file/d/1kNYWZoED0EZP9idpF9BKt20De-haSLiB/view?usp=sharing)
 - [**The perceptron**](../material/03_Perceptron)
-  - Lecture video
+  - [Lecture video (Part-1)](https://drive.google.com/file/d/1GYIHBW08pPCQ85yS63p-Bx08tW_7jjVx/view?usp=sharing)
+  - [Lecture video (Part-2)](https://drive.google.com/file/d/1ocZ0GGMZai0sOUL0VAp1c2fmCkkAq5Mk/view?usp=sharing)
 - **AdaLine**
   - Lecture video
 - **Automatic differentiation**
