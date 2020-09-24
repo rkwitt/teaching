@@ -19,16 +19,15 @@ Grading is based on a **final exam** at the end of the semester (typically the f
 One of the **core resources** of the course is the [Deep Learning Book](http://www.deeplearningbook.org/) by Goodfellow, Bengio and
 Courville (available online) which covers most of the deep learning basics.
 
-All most all of my course material is available through Jupyter notebooks. Those notebooks can be downloaded from the course Github repository and also contain links to other resources.
-
-To checkout the complete teaching repository (including the WS2021 material), use:
+All \most all of my course material is available through Jupyter notebooks. Those notebooks can be downloaded from the course Github 
+repository and also contain links to other resources. To checkout the complete teaching repository (including the WS2021 material), use:
 
 ```bash
 git clone https://github.com/rkwitt/teaching.git
 cd teaching/WS2021/CV
 ```
 
-All notebooks can be found in the `material` subdirectory. Just go the directory you want, start 
+All notebooks can be found within the `material` subdirectory. Just go the (topic) directory you want, start 
 a Jupyter notebook server and run the notebook via, e.g.:
 
 ```bash
