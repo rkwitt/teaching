@@ -64,7 +64,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - [**Automatic differentiation**](https://github.com/rkwitt/teaching/tree/master/WS2021/CV/material/06_AutoGrad)
   - [Lecture video](https://drive.google.com/file/d/1HK097JUSTYC6rSPR2U-DuulnqoGS0Pth/view?usp=sharing)
 - [**Gradient-based optimization**](https://github.com/rkwitt/teaching/tree/master/WS2021/CV/material/07_GradientBasedOptimization)
-  - [Lecture video (Part-1)](https://drive.google.com/file/d/1C2buA61IPf57IvrwHMv9wM_22HW2a_0F/view?usp=sharing)
+  - [Lecture video (Part-1)](https://drive.google.com/file/d/1oRkuf9aymP8CdEYrKssVoKbTcoKZwcoB/view?usp=sharing)
 - [**AdaLine**](https://github.com/rkwitt/teaching/tree/master/WS2021/CV/material/04-AdaLine)
   - Lecture video
 - **Backpropagation**
