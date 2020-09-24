@@ -46,11 +46,11 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - [**The perceptron**](../material/03_Perceptron)
   - [Lecture video (Part-1)](https://drive.google.com/file/d/1GYIHBW08pPCQ85yS63p-Bx08tW_7jjVx/view?usp=sharing)
   - [Lecture video (Part-2)](https://drive.google.com/file/d/1ocZ0GGMZai0sOUL0VAp1c2fmCkkAq5Mk/view?usp=sharing)
-- **AdaLine**
-  - Lecture video
 - **Automatic differentiation**
-  - Lecture video
+  - [Lecture video](https://drive.google.com/file/d/1HK097JUSTYC6rSPR2U-DuulnqoGS0Pth/view?usp=sharing)
 - **Gradient-based optimization**
+  - [Lecture video (Part-1)](https://drive.google.com/file/d/1C2buA61IPf57IvrwHMv9wM_22HW2a_0F/view?usp=sharing)
+- **AdaLine**
   - Lecture video
 - **Backpropagation**
   - Lecture video
