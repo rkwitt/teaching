@@ -21,6 +21,22 @@ Courville (available online) which covers most of the deep learning basics.
 
 All most all of my course material is available through Jupyter notebooks. Those notebooks can be downloaded from the course Github repository and also contain links to other resources.
 
+To checkout the complete teaching repository (including the WS2021 material), use:
+
+```bash
+git clone https://github.com/rkwitt/teaching.git
+cd teaching/WS2021/CV
+```
+
+All notebooks can be found in the `material` subdirectory. Just go the directory you want, start 
+a Jupyter notebook server and run the notebook via, e.g.:
+
+```bash
+cd teaching/WS2021/CV
+cd material/01_TensorBasics
+jupyter notebook
+```
+
 ## Prerequisites
 
 I do recommend to refresh your **linear algebra**, **statistics** and
