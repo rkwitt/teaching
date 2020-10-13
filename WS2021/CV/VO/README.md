@@ -3,7 +3,7 @@
 ## News / Important dates
 
 - We will start with the first lecture on **Oct. 7, 2020** (online)
-- Let's meet online at 10:00am on Oct. 7 [here](https://meet.google.com/dmx-eqme-jqa) to cover some administrative details
+- The Google meet link for online meetings can be found [here](https://meet.google.com/dmx-eqme-jqa)
 
 The course will happen **fully online**. I will provide lecture videos as we go along (see below). 
 
