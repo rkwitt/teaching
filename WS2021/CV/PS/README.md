@@ -3,6 +3,8 @@
 ## News / Important dates
 
 - We will start the PS on **Oct. 14, 2020**
+- The Google meet link for online meetings can be found [here](https://meet.google.com/dmx-eqme-jqa)
+
 
 ## Assignments / Grading
 
