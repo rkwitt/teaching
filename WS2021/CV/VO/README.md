@@ -69,7 +69,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Lecture video (Part-1)](https://drive.google.com/file/d/1oRkuf9aymP8CdEYrKssVoKbTcoKZwcoB/view?usp=sharing)
 - [**AdaLine**](https://github.com/rkwitt/teaching/tree/master/WS2021/CV/material/04-AdaLine)
   - Lecture video
-- **Multilayer perceptrons (MLPs)**
+- [**Multilayer perceptrons (MLPs)**](../material/09_MLP)
   - [Lecture video](https://drive.google.com/file/d/1Hm6y6xDo7_oEPzyDY__0Ma2Dbs8Hd72p/view?usp=sharing)
 - **Backpropagation**
   - Lecture video
