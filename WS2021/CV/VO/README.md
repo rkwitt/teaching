@@ -77,11 +77,9 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - Lecture video
 - **Residual learning**
   - Lecture video
-- **Backpropagation**
-  - Lecture video
 - **Loss functions**
   - Lecture video
-- **Autoencoding architectures**
+- **Autoencoders**
   - Lecture video
 - **Variational Autoencoders (VAEs)**
   - [Lecture video (Part-1)](https://drive.google.com/file/d/1tEMQXbndM1neWjHLexwCXpq4I0InptjZ/view?usp=sharing)
@@ -89,6 +87,8 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Lecture video (Part-3)](https://drive.google.com/file/d/1AXoum7JNvSWpGfk1qZ97U_fPWHL4BxHj/view?usp=sharing)
   - Lecture video (Jupyter notebook)
   - Jupyter notebook
+- **Backpropagation**
+  - Lecture video
 - **Adversarial learning**
 - **Contrastive learning**
 
