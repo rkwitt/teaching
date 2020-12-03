@@ -72,7 +72,8 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - [**Multilayer perceptrons (MLPs)**](../material/09_MLP)
   - [Lecture video](https://drive.google.com/file/d/1Hm6y6xDo7_oEPzyDY__0Ma2Dbs8Hd72p/view?usp=sharing)
 - [**Stochastic Gradient Descent (SGD) & Variants**](../material/08-SGD)
-  - Lecture video
+  - [Lecture video (Part-1)](https://drive.google.com/file/d/16-jP3hPU3z5S8L4holmxRAqlc7dckH9y/view?usp=sharing)
+  - [Lecture video (Part-2)](https://drive.google.com/file/d/1lLgKoJoYUIKH-1QH32KsWTVOpU4OtFxz/view?usp=sharing)
 - [**Convolutions**](../material/10-ConvNets)
   - Lecture video
 - **Residual learning**
