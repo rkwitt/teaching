@@ -78,8 +78,10 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Lecture video (Part-1)](https://drive.google.com/file/d/1iAiik5TRq6AumtIUrjQJNPrcZ0GGA10P/view?usp=sharing)
 - **Residual learning**
   - Lecture video
-- [**Loss functions**](../material/11-CrossEntropy)
-  - Lecture video
+- [**Loss functions**]
+  - [Cross-Entropy (Binary/Multi-Class)](../material/11-CrossEntropy)
+    - Lecture video  
+  - Supervised contrastive loss
 - **Autoencoders**
   - Lecture video
 - **Variational Autoencoders (VAEs)**
