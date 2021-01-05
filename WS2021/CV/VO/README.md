@@ -76,12 +76,15 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Lecture video (Part-2)](https://drive.google.com/file/d/1lLgKoJoYUIKH-1QH32KsWTVOpU4OtFxz/view?usp=sharing)
 - [**Convolution**](../material/10-ConvNets)
   - [Lecture video (Part-1)](https://drive.google.com/file/d/1iAiik5TRq6AumtIUrjQJNPrcZ0GGA10P/view?usp=sharing)
-- **Residual learning**
-  - Lecture video
 - **Loss functions**
   - [Cross-Entropy (Binary/Multi-Class)](../material/11-CrossEntropy)
-    - Lecture video  
+    - [Lecture video (Part-1)
+    - [Lecture video (Part-2)
   - Supervised contrastive loss
+    - Lecture video
+- [**Residual learning**]()
+  - [Lecture video], [Paper](https://arxiv.org/abs/1512.03385)
+- [Regularization/Normalization & Fine-Tuning]
     - Lecture video
 - **Autoencoders**
   - Lecture video
@@ -89,9 +92,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Lecture video (Part-1)](https://drive.google.com/file/d/1tEMQXbndM1neWjHLexwCXpq4I0InptjZ/view?usp=sharing)
   - [Lecture video (Part-2)](https://drive.google.com/file/d/1LHaP0ENgHy4H4S8yG6svafQDBul5FDXN/view?usp=sharing)
   - [Lecture video (Part-3)](https://drive.google.com/file/d/1AXoum7JNvSWpGfk1qZ97U_fPWHL4BxHj/view?usp=sharing)
-  - Lecture video (Jupyter notebook)
-  - Jupyter notebook
-- **Adversarial learning**
+  - Lecture video (Part-4)
 
 ## Data
 
