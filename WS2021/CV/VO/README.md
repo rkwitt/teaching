@@ -82,6 +82,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Cross-Entropy (Binary/Multi-Class)](../material/11-CrossEntropy)
     - Lecture video  
   - Supervised contrastive loss
+    - Lecture video
 - **Autoencoders**
   - Lecture video
 - **Variational Autoencoders (VAEs)**
@@ -90,10 +91,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Lecture video (Part-3)](https://drive.google.com/file/d/1AXoum7JNvSWpGfk1qZ97U_fPWHL4BxHj/view?usp=sharing)
   - Lecture video (Jupyter notebook)
   - Jupyter notebook
-- **Backpropagation**
-  - Lecture video
 - **Adversarial learning**
-- **Contrastive learning**
 
 ## Data
 
