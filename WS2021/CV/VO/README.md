@@ -78,12 +78,12 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Lecture video (Part-1)](https://drive.google.com/file/d/1iAiik5TRq6AumtIUrjQJNPrcZ0GGA10P/view?usp=sharing)
 - **Loss functions**
   - [Cross-Entropy (Binary/Multi-Class)](../material/11-CrossEntropy)
-    - [Lecture video (Part-1)
+    - [Lecture video (Part-1)](https://drive.google.com/file/d/1PztaJGiFN2iwBWCEesc7AOEGF_wvBdcV/view?usp=sharing)
     - [Lecture video (Part-2)
   - Supervised contrastive loss
     - Lecture video
-- [**Residual learning**]()
-  - [Lecture video], [Paper](https://arxiv.org/abs/1512.03385)
+- [**Residual learning**](../material/12-ResidualLearning)
+  - [Lecture video](https://drive.google.com/file/d/1itWV0V9rEwvQ2r-PJLyipdPfFTNAkcfC/view?usp=sharing), [Google Colab Video](https://drive.google.com/file/d/1vn9XPX5ijzrhzccObolfbq0EaQE9MI7r/view?usp=sharing), [Paper](https://arxiv.org/abs/1512.03385)
 - [Regularization/Normalization & Fine-Tuning]
     - Lecture video
 - **Autoencoders**
