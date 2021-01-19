@@ -81,7 +81,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
     - [Lecture video (Part-1)](https://drive.google.com/file/d/1PztaJGiFN2iwBWCEesc7AOEGF_wvBdcV/view?usp=sharing)
     - [Lecture video (Part-2)
   - Supervised contrastive loss
-    - Lecture video
+    - [Lecture video](https://drive.google.com/file/d/1D1sV4AX5agI42y2AwNgul1zgJDPGY7yY/view?usp=sharing)
 - [**Residual learning**](../material/12-ResidualLearning)
   - [Lecture video](https://drive.google.com/file/d/1itWV0V9rEwvQ2r-PJLyipdPfFTNAkcfC/view?usp=sharing), [Google Colab Video](https://drive.google.com/file/d/1vn9XPX5ijzrhzccObolfbq0EaQE9MI7r/view?usp=sharing), [Paper](https://arxiv.org/abs/1512.03385)
 - Regularization/Normalization & Fine-Tuning
