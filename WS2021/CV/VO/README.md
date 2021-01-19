@@ -79,7 +79,6 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - **Loss functions**
   - [Cross-Entropy (Binary/Multi-Class)](../material/11-CrossEntropy)
     - [Lecture video (Part-1)](https://drive.google.com/file/d/1PztaJGiFN2iwBWCEesc7AOEGF_wvBdcV/view?usp=sharing)
-    - [Lecture video (Part-2)
   - Supervised contrastive loss
     - [Lecture video](https://drive.google.com/file/d/1D1sV4AX5agI42y2AwNgul1zgJDPGY7yY/view?usp=sharing)
 - [**Residual learning**](../material/12-ResidualLearning)
