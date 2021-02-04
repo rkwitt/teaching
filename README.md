@@ -5,6 +5,12 @@ teach can be found here (e.g., links to external resources, exercise sheets, gis
 For some courses, the teaching language is German, for some it's English.
 This is also reflected in the material, so do not expect consistency.
 
+# Summer Term 2021
+
+- Machine Learning
+- Imaging Beyond Consumer Cameras
+- Datenbanken 1
+
 # Winter Term 2020 / 2021
 
 - [Computer Vision](WS2021/CV)
