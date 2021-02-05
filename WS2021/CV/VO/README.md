@@ -2,6 +2,7 @@
 
 ## News / Important dates
 
+- **1st exam date**: Fri., Feb. 26, 10:00am (Google meet link for questions during exam is [here](https://meet.google.com/jtr-srkm-kdp))
 - We will start with the first lecture on **Oct. 7, 2020** (online)
 - The Google meet link for online meetings can be found [here](https://meet.google.com/dmx-eqme-jqa)
 
