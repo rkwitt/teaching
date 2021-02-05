@@ -2,7 +2,7 @@
 
 ## News / Important dates
 
-- **1st exam date: Fri., Feb. 26, 10:00am** (Google meet link for questions during exam is [here](https://meet.google.com/jtr-srkm-kdp))
+- **1st exam date: Fri., Feb. 26, 10:00am** (2hrs) (Google meet link for questions during exam is [here](https://meet.google.com/jtr-srkm-kdp))
 - We will start with the first lecture on **Oct. 7, 2020** (online)
 - The Google meet link for online meetings can be found [here](https://meet.google.com/dmx-eqme-jqa)
 
@@ -15,6 +15,20 @@ We have a Slack channel `#computervision` on [http://visel.slack.com](visel.slac
 ## Grading
 
 Grading is based on a **final exam** at the end of the semester (typically the first date for the exam is the last lecture, however, we can find a date other than that which works for most students).
+
+### Information for exam
+
+The exam is an **open-book** exam, i.e., you can use whatever material you want. I will provide a Google meet link so that you can ask questions during the exam. 
+
+The **procedure** (step-by-step) is as follows:
+
+1. Sign up for exam in PLUS Online
+2. Send me (by e-mail) a list of 5 random integers (e.g., using [random.org](https://www.random.org/integers/)) in the range 1-15
+3. On the exam date, you will get the PDF with *all* questions via e-mail (about 10min before the exam starts)
+4. You answer the five questions that correspond to your sequence of random integers (one sheet of paper per question)
+5. Write your *full name* and *student number* on all sheets of paper
+6. Scan all the pages (or take a picture of sufficient quality)
+7. Send me the scans per e-mail *before* the exam ends
 
 ## Material
 
