@@ -7,7 +7,7 @@ This is also reflected in the material, so do not expect consistency.
 
 # Summer Term 2021
 
-- Machine Learning
+- [Machine Learning](SS21/ML)
 - Imaging Beyond Consumer Cameras
 - Datenbanken 1
 
