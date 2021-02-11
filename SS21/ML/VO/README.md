@@ -51,7 +51,7 @@ cd SS21
 git pull
 ```
 
-### Proofs / Notes
+### Course notes
 
 will be available once the course starts!
 
