@@ -1,31 +1,33 @@
 # Machine Learning (VO)
 
-## News / Important dates
+## News
 
-- The course will be held **fully online**
-- Our Google meet link for Q&A sessions is [here]()
+- The VO will be held **fully online**
+- Our Google meet link for the **Q&A** sessions is [here](https://meet.google.com/zka-jpyj-hmg)
 
 ## Scheduled Q&A sessions
 
-will be announced soon!
+- **`03/01/2021`** (11am)
 
-## General information about online teaching
+## Organization
 
-The course is structured as a series of lectures. For each lecture, I will provide videos that can be downloaded and watched whenever you prefer. I do recommend that you watch them in the provided order. 
+The course is structured as a series of lectures. For each lecture, I will provide *videos* that can be downloaded and watched whenever you prefer. 
 
-I will also provide, on a regular basis, an **online Q&A sessions** (via Google meet), where you can ask questions, or raise issues that have come up while studying the material. My plan is to do this every other week. The dates can be found above.
+*I do recommend that you watch the lecture videos in the provided order.*
+
+I will also provide, on a regular basis, an **online Q&A session** (via Google meet, see link above), where you can ask questions, or raise issues that have come up while studying the material. My plan is to do this every other week (Mondays 11am). The dates can be found [here](#Scheduled-Q&A-sessions).
+
+## Slack channel
+
+The slack channel #machinelearning is on [`visel.slack.com`](https://visel.slack.com). It should be possible to sign up with your offical University of Salzburg e-mail address ending in `@sbg.ac.at` (`@cosy.sbg.ac.at` and `@stud.sbg.ac.at` work as well).
 
 ## Grading
 
-Grading is based on **one final exam** at the end of the course (typically in the last lecture).
-
-### Information for online exam
-
-will be announced soon!
+Grading is based on **one final exam** (open-book type) at the end of the course.
 
 ## Lecture material
 
-The course is rather self-contained and most of the material will be developed step-by-step on the blackboard (which is my iPad now :). To every video, I will also provide a PDF with my notes.
+The course is rather self-contained and most of the material will be developed step-by-step on the blackboard (which is my iPad now :). To every video, I will also provide a PDF with my written notes.
 
 Additionally, you can find most of the material in my supporting [slides](ml.pdf)
 , and in the book by Shalev-Schwartz and Ben-David (see below) which is my main reference for the course.  
@@ -45,7 +47,7 @@ and then regularly do a `git pull`:
 
 ```bash
 cd ~/rkwitt-teaching
-cd SS20
+cd SS21
 git pull
 ```
 
@@ -53,13 +55,11 @@ git pull
 
 will be available once the course starts!
 
-
 ### Lecture videos
 
 will be available once the course starts!
 
-
-## Books
+### Books (as reference)
 
 Mohri, Rostamizadeh, Talwakar<br>
 **Foundations of Machine Learning**<br>
