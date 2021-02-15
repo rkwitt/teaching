@@ -51,13 +51,9 @@ cd SS21
 git pull
 ```
 
-### Course notes
+### Lecture videos & Course notes
 
-will be available once the course starts!
-
-### Lecture videos
-
-will be available once the course starts!
+- Introduction/Preliminaries [Video](https://drive.google.com/file/d/1FHYt2wtIP-h-MD5hsIvgBN-g3QxVBf6T/view?usp=sharing), [Notes](https://drive.google.com/file/d/1aPGjCSCIBQJ5FwZymM6k5kRlSGJ0MAmu/view?usp=sharing)
 
 ### Books (as reference)
 
