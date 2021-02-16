@@ -8,7 +8,7 @@ This is also reflected in the material, so do not expect consistency.
 # Summer Term 2021
 
 - [Machine Learning](SS21/ML)
-- Imaging Beyond Consumer Cameras
+- [Imaging Beyond Consumer Cameras](SS21/IBCC)
 - [Datenbanken 1](https://dbresearch.uni-salzburg.at/teaching/2021ss/db1/)
 
 # Winter Term 2020 / 2021
