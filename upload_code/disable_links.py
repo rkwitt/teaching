@@ -1,6 +1,7 @@
 import owncloud
 import argparse
 import numpy as np
+import pickle
 import json
 import csv
 import sys
@@ -9,9 +10,16 @@ import os
 
 def setup_cmdline_parser():
     parser = argparse.ArgumentParser(description='Submission system setup!')
-    parser.add_argument('--root', dest='root', default=None, help='e.g., /Uploads/ML-10/')
-    parser.add_argument('--config_file', dest='config_file', default=None, help='JSON config file (e.g., config.json)')
-    parser.add_argument('--num_groups', type=int, dest='num_groups', default=-1, help='Number of groups to create')
+    parser.add_argument(
+        '--student_link_file', 
+        dest='student_link_file', 
+        default=None, 
+        help='Student pickle file with link and path information')
+    parser.add_argument(
+        '--config_file', 
+        dest='config_file', 
+        default=None, 
+        help='JSON config file (e.g., config.json)')
     args = parser.parse_args()
     return args
 
@@ -19,7 +27,6 @@ def setup_cmdline_parser():
 def main(argv):
     args = setup_cmdline_parser()
 
-    assert args.root is not None
     assert args.config_file is not None
     if not os.path.exists(args.config_file):
         print('Config file {} not found!'.format(args.config_file))
@@ -34,12 +41,11 @@ def main(argv):
     oc = owncloud.Client(url)
     oc.login(login, app_key)
 
-
-    assert args.num_groups > 0 
-    for g in np.arange(args.num_groups):
-        group_dir = os.path.join(args.root, 'group_{:02d}/'.format(g))
-        share_list = oc.get_shares(group_dir)
-        oc.delete_share(share_list[0].get_id())
+    students = pickle.load( open( args.student_link_file, "rb" ) )
+    for k,v in students.items():
+        share_list = oc.get_shares(v['path'])
+        if len(share_list)>0:
+            oc.delete_share(share_list[0].get_id())
         
 
 if __name__ == '__main__':
