@@ -26,8 +26,8 @@ All the lecture material will be provided in the form of slides, associated lect
 written notes. The release of the videos follows the typical course of the lecture. Please check
 regularly for updates. Once the video is online, the content of the slides is final.
 
-1. Introduction, Preliminaries, Radiography (X-Ray imaging)
-2. Computed Tomography (CT)
+1. [Introduction, Preliminaries, Radiography (X-Ray imaging)](slides_00.pdf)
+2. [Computed Tomography (CT)](slides_01.pdf)
 3. Magnetic Resonance Imaging (MRI)
 4. Image registration
 5. 3D Sensors (Principles, CW modulation)]
