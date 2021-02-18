@@ -22,7 +22,7 @@ group_00 | Max | Mustermann1 | 0101010102
 group_00 | Max | Mustermann2 | 0101010102
 ```
 
-Each group can decide which questions on an exercise sheet to solve. These solutions have to be handed-in by the **deadline** announced [below](#Exercise-sheets). I will provide, for each group and exercise sheet, an upload link (within the same spreadsheet used for the group membership) which can be used to upload the solution(s). At the time of the deadline, these links will be deactivated. Note that the links will be **upload** only. The scanned pages should be composed as **one PDF file** within which each page is numbered (e.g., `1/3`, etc.) and the names of all group members who participated are on the first page. A best-practice example can be found [here](Example-Submission.pdf).
+Each group can decide which questions on an exercise sheet to solve. These solutions have to be handed-in by the **deadline** announced [below](#Exercise-sheets). I will provide, for each group and exercise sheet, an upload link (which will be sent out via e-mail once a new exercise sheet is available) which can be used to upload the solution(s). All members of the same group will have the same upload link. At the time of the deadline, these links will be deactivated. The scanned pages should be composed as **one PDF file** within which each page is numbered (e.g., `1/3`, etc.) and the names of all group members who participated are on the first page. A best-practice example can be found [here](Example-Submission.pdf).
 
 Once the deadline has passed, I will provide a short video explaining one possible solution to each exercise. Note that there is not just one correct solution to most of the exercises. 
 
