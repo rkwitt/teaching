@@ -7,7 +7,7 @@
 
 ## Scheduled Q&A sessions
 
-- **`03/01/2021`** (11am)
+- **`03/01/2021`** (11:30am - *Vorbesprechung* VO/PS combined)
 
 ## Organization
 
