@@ -3,6 +3,11 @@
 ## News
 
 - The PS will be **fully virtual**
+- Our Google meet link for the **Q&A** sessions is [here](https://meet.google.com/zka-jpyj-hmg)
+
+## Scheduled Q&A sessions
+
+- **`03/02/2021`** (10:00am - *Vorbesprechung* VO/PS combined)
 
 ## Slack channel
 
