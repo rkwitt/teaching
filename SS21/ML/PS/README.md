@@ -4,7 +4,7 @@
 
 - The PS will be held **fully online**
 - Our Google meet link for the **Q&A** sessions is [here](https://meet.google.com/zka-jpyj-hmg)
-- [Group membership spreadsheet]([here](https://myfiles.sbg.ac.at/index.php/s/ZYxK73Qd44dQdtb))
+- [Group membership spreadsheet](https://myfiles.sbg.ac.at/index.php/s/ZYxK73Qd44dQdtb)
 
 ## Scheduled Q&A sessions
 
