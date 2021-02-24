@@ -37,9 +37,4 @@ Grading is based on the number of points you collect for the exercise sheets. In
 ## Exercise sheets
 
 - [Exercise sheet A](exA.pdf) (**Deadline**: tba)
-- Exercise sheet B (**Deadline**: tba)
-- Exercise sheet C (**Deadline**: tba)
-- Exercise sheet D (**Deadline**: tba)
-- Exercise sheet E (**Deadline**: tba)
-- Exercise sheet F (**Deadline**: tba)
-
+- [Exercise sheet B](exB.pdf) (**Deadline**: tba)
