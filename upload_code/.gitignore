@@ -1,3 +1,5 @@
 email_config.json
 myfiles_config.json
 test_*.csv
+__pycache__
+Testing.ipynb
