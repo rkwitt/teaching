@@ -1,5 +1,7 @@
 # Creating automatic upload links for submissions
 
+Tested on MAC OS X (Big Sur), running homebrew and Anaconda Python (most recent version as of Feb. '21).
+
 ## Prerequisites
 
 1. Install the `owncloud` Python module via
@@ -46,6 +48,8 @@ python create_dir.py \
 ## Creating upload links
 
 Next, we can create upload links. First, download all participants of a lecture/PS/etc. as a **CSV** file (not *XML* and not *CSV for Excel*), e.g., saved to `student_info.csv`.
+
+**Remark**: It is possible to also use CSV files exported from the exam control panel in PLUS online, where you only have the option to export *CSV for Excel*. These CSV files obviously :) differ from the classic student listing in PLUS Online courses. However, the `create_links.py` code also supports an `--exam` option which allows to use those CSV files as well. 
 
 ### Groups
 
