@@ -40,7 +40,7 @@ I do recommend that you simpy clone my teaching repository (done once) via
 
 ```bash
 cd ~/
-git clone
+git clone https://github.com/rkwitt/teaching.git rkwitt-teaching
 ```
 
 and then regularly do a `git pull`:
