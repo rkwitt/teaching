@@ -7,7 +7,7 @@ import csv
 import sys
 import os
 
-from utils import read_students
+from utils import read_students, read_students_exam
 
 def setup_cmdline_parser():
     parser = argparse.ArgumentParser(description='Submission system setup!')
@@ -21,6 +21,12 @@ def setup_cmdline_parser():
         dest='config_file', 
         default=None, 
         help='JSON config file (e.g., config.json)')
+    parser.add_argument(
+        '--exam', 
+        dest='exam', 
+        action='store_true',
+        default=False, 
+        help='Reading students from an exam registration export in PLUS Online')
     parser.add_argument(
         '--student_file', 
         dest='student_file', 
@@ -80,7 +86,11 @@ def main(argv):
         print('Student file {} not found!'.format(args.student_file))
         sys.exit(-1)
 
-    students = read_students(args.student_file)
+    if args.exam:
+        students = read_students_exam(args.student_file)
+    else:
+        students = read_students(args.student_file)
+
     use_group, group_ids = check_group(students)
 
     group_dirs = None
