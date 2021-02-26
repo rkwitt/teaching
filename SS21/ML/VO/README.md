@@ -53,13 +53,17 @@ git pull
 
 ### Lecture videos & Course notes
 
-- Introduction & Preliminaries (Measure space, measureable functions, probability space, etc.)
+- **Introduction & Preliminaries** (Measure space, measureable functions, probability space, etc.)
   - [Video](https://drive.google.com/file/d/1FHYt2wtIP-h-MD5hsIvgBN-g3QxVBf6T/view?usp=sharing), [Notes (PDF)](https://drive.google.com/file/d/1Kmfia-0ZcIPgnGclkP7aq-4Si3365FoL/view?usp=sharing)
-- Formal model of learning
-- PAC learning
-- Preliminaries (Part-B)
-- Loss functions & Agnostic PAC learning
-
+- **Formal model of learning** (Finite hypothesis classes, PAC learning, sample complexity, ...)
+  - [Video (1)](https://drive.google.com/file/d/1-eEA3vOfCL63rZ3BJ-j3_fFi00FvzU_w/view?usp=sharing)
+  - Video (2)
+  - [Notes (1)](https://drive.google.com/file/d/1Y-KdREhZyqSpMteT85ILMDQS3439sa48/view?usp=sharing)
+- **Preliminaries contd.** (Lebesgue integration, expected value, Markov inequality)
+  - [Video](https://drive.google.com/file/d/11QSXw89Zii-wFvg0Ez4txee8Wi8WNChl/view?usp=sharing)
+  - [Notes](https://drive.google.com/file/d/1rvVyYzTf___HPKbshQGfChJW_1m4qyiq/view?usp=sharing)   
+  
+  
 ### Books (as reference)
 
 Mohri, Rostamizadeh, Talwakar<br>
