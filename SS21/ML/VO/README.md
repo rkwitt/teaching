@@ -53,8 +53,9 @@ git pull
 
 ### Lecture videos & Course notes
 
-- Introduction & Preliminaries (Part-A) [Video](https://drive.google.com/file/d/1FHYt2wtIP-h-MD5hsIvgBN-g3QxVBf6T/view?usp=sharing), [Notes](https://drive.google.com/file/d/1aPGjCSCIBQJ5FwZymM6k5kRlSGJ0MAmu/view?usp=sharing)
-- Formal model of learning (finite hypothesis classes)
+- Introduction & Preliminaries (Measure space, measureable functions, probability space, etc.)
+  - [Video](https://drive.google.com/file/d/1FHYt2wtIP-h-MD5hsIvgBN-g3QxVBf6T/view?usp=sharing), [Notes (PDF)](https://drive.google.com/file/d/1Kmfia-0ZcIPgnGclkP7aq-4Si3365FoL/view?usp=sharing)
+- Formal model of learning
 - PAC learning
 - Preliminaries (Part-B)
 - Loss functions & Agnostic PAC learning
