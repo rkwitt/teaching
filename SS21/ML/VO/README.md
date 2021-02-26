@@ -53,7 +53,8 @@ git pull
 
 ### Lecture videos & Course notes
 
-- **Introduction & Preliminaries** (Measure space, measureable functions, probability space, etc.)
+- **Introduction & Preliminaries** 
+  foobar
   - [Video](https://drive.google.com/file/d/1FHYt2wtIP-h-MD5hsIvgBN-g3QxVBf6T/view?usp=sharing), [Notes (PDF)](https://drive.google.com/file/d/1Kmfia-0ZcIPgnGclkP7aq-4Si3365FoL/view?usp=sharing)
 - **Formal model of learning** (Finite hypothesis classes, PAC learning, sample complexity, ...)
   - [Video (1)](https://drive.google.com/file/d/1-eEA3vOfCL63rZ3BJ-j3_fFi00FvzU_w/view?usp=sharing)
