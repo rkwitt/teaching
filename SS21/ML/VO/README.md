@@ -53,7 +53,11 @@ git pull
 
 ### Lecture videos & Course notes
 
-- Introduction/Preliminaries [Video](https://drive.google.com/file/d/1FHYt2wtIP-h-MD5hsIvgBN-g3QxVBf6T/view?usp=sharing), [Notes](https://drive.google.com/file/d/1aPGjCSCIBQJ5FwZymM6k5kRlSGJ0MAmu/view?usp=sharing)
+- Introduction & Preliminaries (Part-A) [Video](https://drive.google.com/file/d/1FHYt2wtIP-h-MD5hsIvgBN-g3QxVBf6T/view?usp=sharing), [Notes](https://drive.google.com/file/d/1aPGjCSCIBQJ5FwZymM6k5kRlSGJ0MAmu/view?usp=sharing)
+- Formal model of learning (finite hypothesis classes)
+- PAC learning
+- Preliminaries (Part-B)
+- Loss functions & Agnostic PAC learning
 
 ### Books (as reference)
 
