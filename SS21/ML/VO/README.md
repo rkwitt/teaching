@@ -29,8 +29,7 @@ Grading is based on **one final exam** (open-book type) at the end of the course
 
 The course is rather self-contained and most of the material will be developed step-by-step on the blackboard (which is my iPad now :). To every video, I will also provide a PDF with my written notes.
 
-Additionally, you can find most of the material in my supporting [slides](ml.pdf)
-, and in the book by Shalev-Schwartz and Ben-David (see below) which is my main reference for the course.  
+Additionally, you can find most of the material in my supporting [slides](ml.pdf), and in the book by Shalev-Schwartz and Ben-David (see below) which is my main reference for the course.  
 
 ### Staying up-to-date
 
