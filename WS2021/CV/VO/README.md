@@ -5,7 +5,6 @@
 - **1st exam date: Fri., Feb. 26, 10:00am** (2hrs) (Google meet link for questions during exam is [here](https://meet.google.com/jtr-srkm-kdp))
 - We will start with the first lecture on **Oct. 7, 2020** (online)
 - The Google meet link for online meetings can be found [here](https://meet.google.com/dmx-eqme-jqa)
-- Exam [link](https://drive.google.com/file/d/1wRWgC-dlHGUT9nP8cjNUJ6igqDnCBTE4/view?usp=sharing)
 
 The course will happen **fully online**. I will provide lecture videos as we go along (see below). 
 
