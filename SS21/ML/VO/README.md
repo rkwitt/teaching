@@ -53,17 +53,19 @@ git pull
 
 ### Lecture videos & Course notes
 
-- **Introduction & Preliminaries** 
-  foobar
-  - [Video](https://drive.google.com/file/d/1FHYt2wtIP-h-MD5hsIvgBN-g3QxVBf6T/view?usp=sharing), [Notes (PDF)](https://drive.google.com/file/d/1Kmfia-0ZcIPgnGclkP7aq-4Si3365FoL/view?usp=sharing)
-- **Formal model of learning** (Finite hypothesis classes, PAC learning, sample complexity, ...)
-  - [Video (1)](https://drive.google.com/file/d/1-eEA3vOfCL63rZ3BJ-j3_fFi00FvzU_w/view?usp=sharing)
-  - Video (2)
-  - [Notes (1)](https://drive.google.com/file/d/1Y-KdREhZyqSpMteT85ILMDQS3439sa48/view?usp=sharing)
-- **Preliminaries contd.** (Lebesgue integration, expected value, Markov inequality)
-  - [Video](https://drive.google.com/file/d/11QSXw89Zii-wFvg0Ez4txee8Wi8WNChl/view?usp=sharing)
-  - [Notes](https://drive.google.com/file/d/1rvVyYzTf___HPKbshQGfChJW_1m4qyiq/view?usp=sharing)   
+- **Introduction & Preliminaries**     
+  *Some motivation for what we will be talking about; Basics on measurable spaces, measures, measure spaces, measurable functions, probability spaces and random variables*    
+  [Video](https://drive.google.com/file/d/1FHYt2wtIP-h-MD5hsIvgBN-g3QxVBf6T/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Kmfia-0ZcIPgnGclkP7aq-4Si3365FoL/view?usp=sharing)
+- **Formal model & PAC learning**     
+  *Introduction to our formal model for learning, generalization error, empirical error, inductive bias & hypothesis classes, realizability assumption, learnability of finite hypothesis classes, PAC learning*  
+  [Video (Part A)](https://drive.google.com/file/d/1-eEA3vOfCL63rZ3BJ-j3_fFi00FvzU_w/view?usp=sharing), [Notes (Part A)](https://drive.google.com/file/d/1Y-KdREhZyqSpMteT85ILMDQS3439sa48/view?usp=sharing), Video (Part B), Notes (Part B)
   
+- **Preliminaries (continued)**    
+  *Lebesgue integration, expected value, Markov inequality*    
+  [Video](https://drive.google.com/file/d/11QSXw89Zii-wFvg0Ez4txee8Wi8WNChl/view?usp=sharing), [Notes](https://drive.google.com/file/d/1rvVyYzTf___HPKbshQGfChJW_1m4qyiq/view?usp=sharing)   
+
+- **Agnostic PAC learning**    
+  *Loss functions, agnostic PAC learning*   
   
 ### Books (as reference)
 
