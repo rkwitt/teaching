@@ -11,11 +11,11 @@
 
 ## Organization
 
-The course is structured as a series of lectures. For each lecture, I will provide *videos* that can be downloaded and watched whenever you prefer. 
+The course is structured as a series of lectures. For each lecture, I will provide *videos* that can be downloaded and watched whenever you prefer.
 
 *I do recommend that you watch the lecture videos in the provided order.*
 
-I will also provide, on a regular basis, an **online Q&A session** (via Google meet, see link above), where you can ask questions, or raise issues that have come up while studying the material. My plan is to do this every other week (Mondays 11am). The dates can be found [here](#Scheduled-Q&A-sessions).
+I will also provide, on a regular basis, an **online Q&A session** (via Google meet, see link above), where you can ask questions, or raise issues that have come up while studying the material. My plan is to do this every other week (Mondays 11am). The dates can be found [here](#scheduled-qa-sessions).
 
 ## Slack channel
 
@@ -58,14 +58,14 @@ git pull
 - **Formal model & PAC learning**     
   *Introduction to our formal model for learning, generalization error, empirical error, inductive bias & hypothesis classes, realizability assumption, learnability of finite hypothesis classes, PAC learning*  
   [Video (Part A)](https://drive.google.com/file/d/1-eEA3vOfCL63rZ3BJ-j3_fFi00FvzU_w/view?usp=sharing), [Notes (Part A)](https://drive.google.com/file/d/1Y-KdREhZyqSpMteT85ILMDQS3439sa48/view?usp=sharing), Video (Part B), Notes (Part B)
-  
+
 - **Preliminaries (continued)**    
   *Lebesgue integration, expected value, Markov inequality*    
   [Video](https://drive.google.com/file/d/11QSXw89Zii-wFvg0Ez4txee8Wi8WNChl/view?usp=sharing), [Notes](https://drive.google.com/file/d/1rvVyYzTf___HPKbshQGfChJW_1m4qyiq/view?usp=sharing)   
 
 - **Agnostic PAC learning**    
   *Loss functions, agnostic PAC learning*   
-  
+
 ### Books (as reference)
 
 Mohri, Rostamizadeh, Talwakar<br>
