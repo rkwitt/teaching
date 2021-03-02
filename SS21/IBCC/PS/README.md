@@ -27,4 +27,4 @@ Once the deadline has passed, I will provide a short video explaining one possib
 
 ## Exercise sheets
 
-- Exercise sheet A (Deadline: tba)
+- [Exercise sheet A](exA.2021.pdf) (Deadline: tba)
