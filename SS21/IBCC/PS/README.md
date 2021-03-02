@@ -23,7 +23,7 @@ You can decide which questions on an exercise sheet to solve. The solutions have
 
 At the time of the deadline, these links will be deactivated. Note that the links will be **upload** only. For exerises that can be solved on paper, please add your name and student number to each page, number the pages, scan them and convert the scans into **one** PDF to be uploaded (hand-written solutions are OK, as long as they are readable). In case, code has to be submitted, please create **one** ZIP file containing the code (detailed instructions will be available in the exercise sheets).
  
-Once the deadline has passed, I will provide a short video explaining one possible solution to each exercise.
+Once the deadline has passed, I will provide a short video explaining one possible solution to each exercise. There will be **100** achievable points total. A positive grade starts at >50.
 
 ## Exercise sheets
 
