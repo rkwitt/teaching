@@ -23,7 +23,7 @@ The slack channel `#ibcc` is on [`visel.slack.com`](https://visel.slack.com). It
 
 ## Grading
 
-Grading is based on **one final exam** at the end of the course. This exam will also be held online and is an open-book type exam. Exam details will be available towards the end of the summer term.
+Grading is based on **one final exam** at the end of the course. This exam will also be held online and is an open-book type exam. Exam details will be available towards the end of the summer term (and will be announced here and by e-mail).
 
 ## Lecture material
 
@@ -31,7 +31,7 @@ All the lecture material will be provided in the form of slides, associated lect
 written notes. The release of the videos follows the typical course of the lecture. Please check
 regularly for updates. Once the video is online, the content of the slides is final.
 
-1. [Introduction, Preliminaries, Radiography (X-Ray imaging)](slides_00.pdf)
+1. [Introduction, Preliminaries, Radiography (X-Ray imaging)](slides_00.pdf) [Video (Part A)](https://drive.google.com/file/d/1tbshutYN82MGSRGIc_oTfQmTEhdRzvMY/view?usp=sharing)
 2. [Computed Tomography (CT)](slides_01.pdf)
 3. Magnetic Resonance Imaging (MRI)
 4. Image registration
