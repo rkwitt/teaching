@@ -31,10 +31,11 @@ All the lecture material will be provided in the form of slides, associated lect
 written notes. The release of the videos follows the typical course of the lecture. Please check
 regularly for updates. Once the video is online, the content of the slides is final.
 
-1. [Introduction, Preliminaries, Radiography (X-Ray imaging)](slides_00.pdf) [Video (Part A)](https://drive.google.com/file/d/1tbshutYN82MGSRGIc_oTfQmTEhdRzvMY/view?usp=sharing)
-2. [Computed Tomography (CT)](slides_01.pdf)
-3. Magnetic Resonance Imaging (MRI)
-4. Image registration
-5. 3D Sensors (Principles, CW modulation)]
-6. 3D Sensors (Principles, PL modulation)]
-7. Point cloud registration
+1. [Introduction, Preliminaries, Radiography (X-Ray imaging)](slides_00.pdf)
+   - [Video (Part A)](https://drive.google.com/file/d/1tbshutYN82MGSRGIc_oTfQmTEhdRzvMY/view?usp=sharing)
+3. [Computed Tomography (CT)](slides_01.pdf)
+4. Magnetic Resonance Imaging (MRI)
+5. Image registration
+6. 3D Sensors (Principles, CW modulation)]
+7. 3D Sensors (Principles, PL modulation)]
+8. Point cloud registration
