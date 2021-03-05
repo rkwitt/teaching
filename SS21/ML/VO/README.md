@@ -15,7 +15,7 @@ The course is structured as a series of lectures. For each lecture, I will provi
 
 *I do recommend that you watch the lecture videos in the provided order.*
 
-I will also provide, on a regular basis, an **online Q&A session** (via Google meet, see link above), where you can ask questions, or raise issues that have come up while studying the material. My plan is to do this every other week (Mondays 11am). The dates can be found [here](#Scheduled-Q&A-sessions).
+I will also provide, on a regular basis, an **online Q&A session** (via Google meet, see link above), where you can ask questions, or raise issues that have come up while studying the material. My plan is to do this every other week (Mondays 11am). The dates can be found [here](#scheduled-qa-sessions).
 
 ## Slack channel
 
