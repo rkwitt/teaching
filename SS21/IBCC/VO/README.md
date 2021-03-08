@@ -33,6 +33,7 @@ regularly for updates. Once the video is online, the content of the slides is fi
 
 1. [Introduction, Preliminaries, Radiography (X-Ray imaging)](slides_00.pdf)
    - [Video (Part A)](https://drive.google.com/file/d/1tbshutYN82MGSRGIc_oTfQmTEhdRzvMY/view?usp=sharing)
+   - [Video (Part B)](https://drive.google.com/file/d/1EaqUbw3yzgWDx6td6spF_Yy345AhPrmE/view?usp=sharing)
 3. [Computed Tomography (CT)](slides_01.pdf)
 4. Magnetic Resonance Imaging (MRI)
 5. Image registration
