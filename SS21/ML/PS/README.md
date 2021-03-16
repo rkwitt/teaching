@@ -37,5 +37,5 @@ Grading is based on the number of points you collect for the exercise sheets. In
 
 ## Exercise sheets
 
-- [Exercise sheet A](exA.pdf) (Deadline: **03/26/2021** at **23:59am**)
+- [Exercise sheet A](exA.pdf) (Deadline: **`03/26/2021`** at **`23:59am`**)
 - [Exercise sheet B](exB.pdf) (Deadline: tba)
