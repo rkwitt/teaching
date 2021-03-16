@@ -44,7 +44,7 @@ def setup_cmdline_parser():
 
 def check_group(students):
     group_ids = np.array([int(v['group']) for k,v in students.items()])
-    use_group = np.all(group_ids>0)
+    use_group = np.all(group_ids>=0)
     if use_group:
         print('Using {:d} groups'.format(len(np.unique(group_ids))))
     return use_group, np.unique(group_ids)
