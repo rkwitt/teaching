@@ -8,6 +8,8 @@
 ## Scheduled Q&A sessions
 
 - **`03/02/2021`** (10:00am - *Vorbesprechung* VO/PS combined)
+- **`03/23/2021`** (10:00am)
+
 
 ## Slack channel
 
