@@ -29,4 +29,4 @@ Once the deadline has passed, I will provide a short video explaining one possib
 
 ## Exercise sheets
 
-- [Exercise sheet A](exA.2021.pdf) (Deadline: **03/25/2021** at **11:59pm**)
+- [Exercise sheet A](exA.2021.pdf) (Deadline: **`03/25/2021`** at **`11:59pm`**)
