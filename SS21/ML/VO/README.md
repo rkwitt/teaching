@@ -66,7 +66,7 @@ git pull
 
 - **Agnostic PAC learning & Uniform convergence**    
   *Loss functions, agnostic PAC learning, uniform convergence, agnostic PAC learnability of finite hypothesis classes*.   
-   [Video](https://drive.google.com/file/d/1Wt5pmoBISQPgIaa0bJuihAxUZQv5xkZo/view?usp=sharing)
+   [Video](https://drive.google.com/file/d/1Wt5pmoBISQPgIaa0bJuihAxUZQv5xkZo/view?usp=sharing), [Notes](https://drive.google.com/file/d/14ONJqJy7mwqDTfcbQbT5R88WUWQ3_HG4/view?usp=sharing)
   
 ### Books (as reference)
 
