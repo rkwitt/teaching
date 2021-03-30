@@ -42,7 +42,7 @@ def main(argv):
     oc.login(login, app_key)
 
     students = pickle.load( open( args.student_link_file, "rb" ) )
-    for k,v in students.items():
+    for k,v in students.items():        
         share_list = oc.get_shares(v['path'])
         if len(share_list)>0:
             oc.delete_share(share_list[0].get_id())
