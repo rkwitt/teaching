@@ -44,8 +44,6 @@ def setup_cmdline_parser():
 
 def _update_share(oc, path):
     link_info = oc.share_file_with_link(path)
-    # create public upoad link - IF NOT WANTED, just use perms=....
-    #oc.update_share(link_info.get_id(), public_upload=True) #perms=oc.OCS_PERMISSION_SHARE)
     oc.update_share(link_info.get_id(), perms=oc.OCS_PERMISSION_READ)
     return link_info.get_link()
 

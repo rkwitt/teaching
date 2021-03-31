@@ -63,7 +63,7 @@ def main(argv):
 
     students = pickle.load( open( args.student_link_file, "rb" ) )
     for i,(k,v) in enumerate(students.items()):
-        print("Sending {} to {} {}".format(v['link'], v['Vorname'],v['Nachname']))
+        print("Sending {} to {} {} ({})".format(v['read_only_link'], v['Vorname'],v['Nachname'], v['group']))
         m = Message(
             account=a,
             folder=some_folder,

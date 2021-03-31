@@ -38,7 +38,9 @@ regularly for updates. Once the video is online, the content of the slides is fi
    - [Video (Part B)](https://drive.google.com/file/d/1EaqUbw3yzgWDx6td6spF_Yy345AhPrmE/view?usp=sharing)
 2. [Computed Tomography (CT)](slides_01.pdf), [Abdomen CT example](https://drive.google.com/file/d/1rcwC8tboTBbrA6eKxqQ-XtStcIg16ceZ/view?usp=sharing), [Algebraic Reconstruction Techniques (Karczmarz method)](AlgebraicReconstruction.pdf)
    - [Video](https://drive.google.com/file/d/1lJfCLhR3HesKAO21lH4pwan3ATiVRmTb/view?usp=sharing)
-3. Magnetic Resonance Imaging (MRI)
+3. [Magnetic Resonance Imaging](slides_02.pdf)
+   - [Video (Part A)](https://drive.google.com/open?id=17Jh6LC0JjfTmQUNO_N3zQa50h8QqjiSM)
+   - [Video (Part B)](https://drive.google.com/open?id=1nEFHnnrK6r4HpAs4QfW_WCq4QqkJ5jwV)
 4. Image registration
 5. 3D Sensors (Principles, CW modulation)]
 6. 3D Sensors (Principles, PL modulation)]
