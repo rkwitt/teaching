@@ -2,7 +2,8 @@
 
 ## News
 
-- Links to review the **Exercise sheet A** grading have been sent out
+- *Review* links for **Exercise sheet A** have been sent out
+- *Upload* links for **Exercise sheet A** have been sent out
 - The PS will be held **fully online**
 - Our Google meet link for the **Q&A** sessions is [here](https://meet.google.com/zka-jpyj-hmg)
 - [Group membership spreadsheet](https://myfiles.sbg.ac.at/index.php/s/ZYxK73Qd44dQdtb)
@@ -12,7 +13,6 @@
 - **`04/12/2021`** (11:00am)
 - **`03/22/2021`** (11:30am)
 - **`03/01/2021`** (11:30am - *Vorbesprechung* VO/PS combined)
-
 
 ## Organization
 
