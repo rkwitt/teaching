@@ -9,8 +9,10 @@
 
 ## Scheduled Q&A sessions
 
-- **`03/01/2021`** (11:30am - *Vorbesprechung* VO/PS combined)
+- **`04/12/2021`** (11:00am)
 - **`03/22/2021`** (11:30am)
+- **`03/01/2021`** (11:30am - *Vorbesprechung* VO/PS combined)
+
 
 ## Organization
 
@@ -39,4 +41,4 @@ Grading is based on the number of points you collect for the exercise sheets. In
 ## Exercise sheets
 
 - [Exercise sheet A](exA.pdf) (Deadline: **`03/26/2021`** at **`11:59pm`**)
-- [Exercise sheet B](exB.pdf) (Deadline: tba)
+- [Exercise sheet B](exB.pdf) (Deadline: **`04/17/2021`** at **`11:59pm`**
