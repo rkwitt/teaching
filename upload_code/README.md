@@ -4,10 +4,11 @@ Tested on MAC OS X (Big Sur), running homebrew and Anaconda Python (most recent 
 
 ## Prerequisites
 
-1. Install the `owncloud` Python module via
+1. Install the `owncloud` Python module and the `exchangelib` (verison 3.3.2) Python module via
 
     ```bash
     pip install pyocclient
+    pip install exchangelib==3.3.2
     ```
 
 2. Go to 
@@ -69,7 +70,7 @@ This will create upload links for each student. In case of groups, mupliple stud
 
 ## Sending out upload links
 
-To send personalized emails with the upload links, use `send.py`. *This only works with the PLUS Mail system currently*. Create a config file `email_config.json` with the following content:
+To send personalized emails with the upload links, use `send_upload_link.py`. *This only works with the PLUS Mail system currently*. Create a config file `email_config.json` with the following content:
 
 ```json
 {
@@ -97,3 +98,30 @@ python send.py \
 ```
 
 Adjust the `--subject` argument accordingly. As `students_ml_summer_21_exA.p` contains all the relevant student information and link details, this allows to create automatic emails per student, notifying the student about his/her upload link.
+
+## Setting upload folder permissions to READ_ONLY
+
+Use 
+
+```bash
+python set_read_only.py \
+    --config_file myfiles_config.json \
+    --root /Uploads/ML-Summer-21/ExA \
+    --student_link_file students_ml_summer_21_exA.p
+```
+
+This disables any uploads but makes the folders within `/Uploads/ML-Summer-21/ExA` READ_ONLY for students. These folders can then be used to also distribute points and corrections of exercises to students. 
+
+Additionally, `set_read_only.py` updates the pickle file `students_ml_summer_21_exA.p` with read-only links.
+
+## Sending out the read-only links
+
+Finally, you can distribute the read-only links to the students, using syntax similar to `send_upload_links.py`:
+
+```bash
+python send_readonly_link.py \
+    --config email_config.json \
+    --subject Test \
+    --subject "Review link for ExA" \
+    --student_link_file students_ml_summer_21_exA.p
+```
