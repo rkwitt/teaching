@@ -15,9 +15,10 @@ these imaging modalities and then discuss algorithms to process the data.
 
 ## Scheduled Q&A sessions
 
-- **`03/02/2021`** (10:00am - *Vorbesprechung* VO/PS combined)
-- **`03/23/2021`** (10:00am)
 
+- **`04/06/2021`** (10:00am)
+- **`03/23/2021`** (10:00am)
+- **`03/02/2021`** (10:00am - *Vorbesprechung* VO/PS combined)
 
 ## Slack channel
 
