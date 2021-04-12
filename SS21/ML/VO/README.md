@@ -65,7 +65,7 @@ git pull
   
 - **Preliminaries (continued)**    
   *Lebesgue integration, expected value, Markov inequality*    
-  [Video](https://drive.google.com/file/d/11QSXw89Zii-wFvg0Ez4txee8Wi8WNChl/view?usp=sharing), [Notes](https://drive.google.com/file/d/1rvVyYzTf___HPKbshQGfChJW_1m4qyiq/view?usp=sharing)   
+  [Video](https://drive.google.com/file/d/1fMgQeX3juT_TEEQ4YFVlUVOIYjjzFexa/view?usp=sharing), [Notes](https://drive.google.com/file/d/1rvVyYzTf___HPKbshQGfChJW_1m4qyiq/view?usp=sharing)   
 
 - **Agnostic PAC learning & Uniform convergence**    
   *Loss functions, agnostic PAC learning, uniform convergence, agnostic PAC learnability of finite hypothesis classes*.   
