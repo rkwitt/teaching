@@ -2,6 +2,7 @@
 
 ## News
 
+- Low audio volume issue fixed
 - The VO will be held **fully online**
 - Our Google meet link for the **Q&A** sessions is [here](https://meet.google.com/zka-jpyj-hmg)
 
@@ -68,7 +69,12 @@ git pull
 - **Agnostic PAC learning & Uniform convergence**    
   *Loss functions, agnostic PAC learning, uniform convergence, agnostic PAC learnability of finite hypothesis classes*.   
    [Video](https://drive.google.com/file/d/1Wt5pmoBISQPgIaa0bJuihAxUZQv5xkZo/view?usp=sharing), [Notes](https://drive.google.com/file/d/14ONJqJy7mwqDTfcbQbT5R88WUWQ3_HG4/view?usp=sharing)
-  
+ 
+- **No Free Lunch**   
+  *Proof of one no free lunch theorem & Implications*     
+  Video
+
+
 ### Books (as reference)
 
 Mohri, Rostamizadeh, Talwakar<br>
