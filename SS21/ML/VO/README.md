@@ -57,7 +57,7 @@ git pull
 
 - **Introduction & Preliminaries**     
   *Some motivation for what we will be talking about; Basics on measurable spaces, measures, measure spaces, measurable functions, probability spaces and random variables*    
-  [Video](https://drive.google.com/file/d/1FHYt2wtIP-h-MD5hsIvgBN-g3QxVBf6T/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Kmfia-0ZcIPgnGclkP7aq-4Si3365FoL/view?usp=sharing)
+  [Video](https://drive.google.com/file/d/1Al2rAMxerJfhejVU0iUeHZ_0LCVqTpCm/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Kmfia-0ZcIPgnGclkP7aq-4Si3365FoL/view?usp=sharing)
 - **Formal model & PAC learning**     
   *Introduction to our formal model for learning, generalization error, empirical error, inductive bias & hypothesis classes, realizability assumption, learnability of finite hypothesis classes, PAC learning*  
   [Video (Part A)](https://drive.google.com/file/d/1-eEA3vOfCL63rZ3BJ-j3_fFi00FvzU_w/view?usp=sharing), [Video (Part B)](https://drive.google.com/file/d/1Hh3XdwhKMUHG98WTdWcB0ZdVhmpELXCO/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Y-KdREhZyqSpMteT85ILMDQS3439sa48/view?usp=sharing)
