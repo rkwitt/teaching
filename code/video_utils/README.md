@@ -1,4 +1,4 @@
-# Prepend short image-loop sequence to video
+# Prepending a short image-loop sequence to existing video
 
 Sometimes you want to create an intro image for your video and show it for a few seconds (possibly with a fade-to-black effect at the end). It should also be quick
 to do and not require to re-encode the full video. The following code does just that.
@@ -19,7 +19,7 @@ The last two packages are just for cmdline formatting.
 
 ## Usage
 
-Assume you already have a video file `video.mp4` and you created an intro image `dummy.png`, as shown below. Assume they both reside in `/tmp/`.
+Assume you already have a video file `video.mp4` and you created an intro image `dummy.png`, as shown below (e.g., using Powerpoint/Keynote, or whatever you desire). Assume they both reside in `/tmp/`.
 
 ![Dummy intro](Dummy.png "Dummy Intro")
 
