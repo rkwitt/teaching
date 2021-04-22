@@ -28,11 +28,6 @@ def setup_cmdline_parser():
         default=False, 
         help='Reading students from an exam registration export in PLUS Online')
     parser.add_argument(
-        '--student_file', 
-        dest='student_file', 
-        default=None, 
-        help='Student CSV file from PLUS Online')
-    parser.add_argument(
         '--student_link_file', 
         dest='student_link_file', 
         default=None, 
@@ -72,9 +67,9 @@ def main(argv):
     for k,v in students.items():
         if 'group' in v:
             groups[v['group']] = None
-
+        
     for k,v in students.items():
-        if 'group' in v:
+        if ('group' in v) and v['group'] >= 0:
             if groups[v['group']] is None:
                 share_list = oc.get_shares(v['path'])
                 if len(share_list)>0:
@@ -90,6 +85,7 @@ def main(argv):
                 oc.delete_share(share_list[0].get_id())
             link = _update_share(oc, v['path'])
             v['read_only_link'] = link
+            print(v['read_only_link'])
 
     pickle.dump( students, open( args.student_link_file, "wb" ) )
 
