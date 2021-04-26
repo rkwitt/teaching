@@ -73,8 +73,7 @@ git pull
  
 - **No Free Lunch**   
   *Proof of one no free lunch theorem & Implications*     
-  [Video](https://drive.google.com/file/d/1BrJMIWwNK14qxhIpkzQsQa_5-PfmSZIP/view?usp=sharing), Notes (available soon)
-
+  [Video](https://drive.google.com/file/d/1BrJMIWwNK14qxhIpkzQsQa_5-PfmSZIP/view?usp=sharing), [Notes](https://drive.google.com/file/d/1e2ARtpIRRg-N5BmtuY-XsYr7dIC45Pd9/view?usp=sharing)
 
 ### Books (as reference)
 
