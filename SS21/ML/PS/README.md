@@ -2,6 +2,7 @@
 
 ## News
 
+- *Review* links for **Exercise sheet B** have been sent out
 - *Upload* links for **Exercise sheet B** have been sent out
 - *Review* links for **Exercise sheet A** have been sent out
 - *Upload* links for **Exercise sheet A** have been sent out
