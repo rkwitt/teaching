@@ -2,6 +2,10 @@
 
 ## News
 
+- *Review* links for **Exercise sheet B** have been sent out
+- *Review* links for **Exercise sheet A** have been sent out
+- *Upload* links for **Exercise sheet B** have been sent out
+- *Upload* links for **Exercise sheet A** have been sent out
 - The PS will be **fully virtual**
 - Our Google meet link for the **Q&A** sessions is [here](https://meet.google.com/zka-jpyj-hmg)
 
