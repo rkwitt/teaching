@@ -77,7 +77,7 @@ git pull
   
 - **VC Dimension**   
   *Shattering, VC-dimension, growth function*            
-  [Video (Part A)](https://drive.google.com/file/d/1OPQXGnligzh7Hn2lHj9OAqaWc-1mu70G/view?usp=sharing), [Notes (Part A)](https://drive.google.com/file/d/1bAaoHOILQyANGN50oqxBSxIFh5o0b2jS/view?usp=sharing)
+  [Video (Part A)](https://drive.google.com/file/d/1OPQXGnligzh7Hn2lHj9OAqaWc-1mu70G/view?usp=sharing), (https://drive.google.com/file/d/1bAaoHOILQyANGN50oqxBSxIFh5o0b2jS/view?usp=sharing), [Video (Part B)](https://drive.google.com/file/d/17_3NWAladZ2FrN-Hbh_csygp9cOAXggz/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Y07aHDuEshBiOnxeBMPQ9aDlvAAk7uSS/view?usp=sharing)
 
 ### Books (as reference)
 
