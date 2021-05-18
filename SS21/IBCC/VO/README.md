@@ -46,7 +46,7 @@ regularly for updates. Once the video is online, the content of the slides is fi
 4. [Image Registration](slides_03.pdf) 
    - [Video (Part I)](https://drive.google.com/open?id=1FHrAUVwD-PWkhh89gHg3QoVwQAw_IidS)
    - [Video (Part II)](https://drive.google.com/open?id=1yWjXx46InZYM5KoyNl7PSlVHGIfuguRc)
-   - [Mutal Information (Jupyter notebook)](material/MutalInformation.ipynb)
+   - [Mutal Information (Jupyter notebook)](MutalInformation.ipynb)
 5. 3D Sensors (Principles, CW modulation)]
 6. 3D Sensors (Principles, PL modulation)]
 7. Point cloud registration
