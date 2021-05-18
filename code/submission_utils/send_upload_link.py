@@ -75,7 +75,7 @@ def main(argv):
             to_recipients=[Mailbox(email_address=v['email'])]
         )
         m.send_and_save()
-
+        
 
 if __name__ == '__main__':
     main(sys.argv)    
