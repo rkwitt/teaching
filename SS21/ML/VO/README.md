@@ -8,6 +8,7 @@
 
 ## Scheduled Q&A sessions
 
+- **`06/14/2021`** (11:00am)
 - **`05/31/2021`** (11:00am)
 - **`04/26/2021`** (11:00am)
 - **`04/12/2021`** (11:00am)
@@ -79,6 +80,8 @@ git pull
 - **VC Dimension**   
   *Shattering, VC-dimension (with examples), growth function*            
   [Video (Part A)](https://drive.google.com/file/d/1OPQXGnligzh7Hn2lHj9OAqaWc-1mu70G/view?usp=sharing),  [Video (Part B)](https://drive.google.com/file/d/17_3NWAladZ2FrN-Hbh_csygp9cOAXggz/view?usp=sharing), [Video (Part C)](https://drive.google.com/file/d/1ipD9__HP_SdGcL1QYHo-R_dOga4ISImP/view?usp=sharing), [Video (Part D)](https://drive.google.com/file/d/17vOf-NBEEaOnHTFSeAB97HQX36uSbQyW/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Y07aHDuEshBiOnxeBMPQ9aDlvAAk7uSS/view?usp=sharing)
+  
+- **Linear predictors**   
 
 ### Books (as reference)
 
