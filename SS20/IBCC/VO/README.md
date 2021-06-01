@@ -24,4 +24,4 @@ Grading is based on **one final exam** at the end of the course.
 3. [Magnetic Resonance Imaging](slides_02.pdf), [Video (Part I)](https://drive.google.com/open?id=17Jh6LC0JjfTmQUNO_N3zQa50h8QqjiSM), [Video (Part II)](https://drive.google.com/open?id=1nEFHnnrK6r4HpAs4QfW_WCq4QqkJ5jwV)
 4. [Image Registration](slides_03.pdf), [Video (Part I)](https://drive.google.com/open?id=1FHrAUVwD-PWkhh89gHg3QoVwQAw_IidS), [Video (Part II)](https://drive.google.com/open?id=1yWjXx46InZYM5KoyNl7PSlVHGIfuguRc) [Mutal Information (Jupyter notebook)](material/MutalInformation.ipynb)
 5. [3D Sensors (Principles, CW modulation)](slides_04.pdf), [Video](https://drive.google.com/file/d/1gshU2YeWzxwSN99li1L35YCcJx1Zd9uj/view?usp=sharing)
-5. [3D Sensors (Principles, PL modulation)](slides_05.pdf), [Video](https://drive.google.com/file/d/1ecd78utQQA8FDcEfwEGuRmPW5_-bvVIa/view?usp=sharing)
+6. [3D Sensors (Principles, PL modulation)](slides_05.pdf), [Video](https://drive.google.com/file/d/1ecd78utQQA8FDcEfwEGuRmPW5_-bvVIa/view?usp=sharing)
