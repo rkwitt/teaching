@@ -52,4 +52,5 @@ regularly for updates. Once the video is online, the content of the slides is fi
    - [Video](https://drive.google.com/file/d/1gshU2YeWzxwSN99li1L35YCcJx1Zd9uj/view?usp=sharing)
 6. [3D Sensors (Principles, PL modulation)](slides_05.pdf)
    - [Video](https://drive.google.com/file/d/1ecd78utQQA8FDcEfwEGuRmPW5_-bvVIa/view?usp=sharing)
-7. Point cloud registration
+7. [Point cloud registration](slides_07.pdf)
+   - Video (coming soon)
