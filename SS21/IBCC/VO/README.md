@@ -15,6 +15,7 @@ these imaging modalities and then discuss algorithms to process the data.
 
 ## Scheduled Q&A sessions
 
+- **`06/22/2021`** (10:00am)
 - **`05/18/2021`** (10:00am)
 - **`04/13/2021`** (10:00am)
 - **`04/06/2021`** (10:00am)
