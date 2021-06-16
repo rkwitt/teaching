@@ -40,3 +40,4 @@ Once the deadline has passed, I will provide a short video explaining one possib
 - [Exercise sheet A](exA.2021.pdf) (Deadline: **`03/25/2021`** at **`11:59pm`**)
 - [Exercise sheet B](exB.2021.pdf) (Deadline: **`04/15/2021`** at **`11:59pm`**), [Resources](resources/exB)
 - [Exercise sheet C](exC.2021.pdf) (Deadline: **`05/21/2021`** at **`11:59pm`**), [Resources](resources/exC)
+- [Exercise sheet D](exD.2021.pdf) (Deadline: **`06/30/2021`** at **`11:59pm`**), [Resources](resources/exD)
