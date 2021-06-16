@@ -53,4 +53,4 @@ regularly for updates. Once the video is online, the content of the slides is fi
 6. [3D Sensors (Principles, PL modulation)](slides_05.pdf)
    - [Video](https://drive.google.com/file/d/1ecd78utQQA8FDcEfwEGuRmPW5_-bvVIa/view?usp=sharing)
 7. [Point cloud registration / K-d trees](slides_07.pdf), [Point cloud registration demo (LS)](PointCloudRegistration-LeastSquares.ipynb)
-   - Video (coming soon)
+   - [Video](https://drive.google.com/file/d/1QhtG8EVd4pEuE5sbRdFLOKLP0YYV78bs/view?usp=sharing)
