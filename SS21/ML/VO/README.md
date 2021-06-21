@@ -81,7 +81,9 @@ git pull
   *Shattering, VC-dimension (with examples), growth function*            
   [Video (Part A)](https://drive.google.com/file/d/1OPQXGnligzh7Hn2lHj9OAqaWc-1mu70G/view?usp=sharing),  [Video (Part B)](https://drive.google.com/file/d/17_3NWAladZ2FrN-Hbh_csygp9cOAXggz/view?usp=sharing), [Video (Part C)](https://drive.google.com/file/d/1ipD9__HP_SdGcL1QYHo-R_dOga4ISImP/view?usp=sharing), [Video (Part D)](https://drive.google.com/file/d/17vOf-NBEEaOnHTFSeAB97HQX36uSbQyW/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Y07aHDuEshBiOnxeBMPQ9aDlvAAk7uSS/view?usp=sharing)
   
-- **Linear predictors**   
+- **Linear predictors**     
+  *Halfspaces, Logistic Regression*      
+  [Video (Part A)](https://drive.google.com/file/d/1eEooRqc5sv0Q6-E0A6cdqpb7-PHox0rw/view?usp=sharing), [Video (Part B)](https://drive.google.com/file/d/12bgBHBWVeu-Px9GIbJxOERyf-aipGjVC/view?usp=sharing), [Notes](https://drive.google.com/file/d/1jcC0iSLsFYvfRMecGWjs2Xh6hBBEiHrA/view?usp=sharing)
 
 ### Books (as reference)
 
