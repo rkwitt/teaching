@@ -4,6 +4,12 @@ As of winter term 2017/2018, all the teaching material for the courses that I te
 For some courses, the teaching language is German, for some it's English.
 This is also reflected in the material, so do not expect consistency.
 
+
+# Winter Term 2021/2022
+
+- Computer Vision
+- Introduction to Data Science
+
 # Summer Term 2021
 
 - [Machine Learning](SS21/ML)
