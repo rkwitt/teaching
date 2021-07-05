@@ -7,8 +7,8 @@ This is also reflected in the material, so do not expect consistency.
 
 # Winter Term 2021/2022
 
-- Computer Vision
-- Introduction to Data Science
+- [Computer Vision](WS2122/CV)
+- [Introduction to Data Science](WS2122/DSI)
 
 # Summer Term 2021
 
