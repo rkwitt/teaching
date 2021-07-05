@@ -2,44 +2,16 @@
 
 ## News / Important dates
 
-- We will start the PS on **Oct. 14, 2020**
-- The Google meet link for online meetings can be found [here](https://meet.google.com/dmx-eqme-jqa)
-
+Available at the end of the (summer) term break (September).
 
 ## Assignments / Grading
 
-In this PS, we will essentially implement the recent (2020) paper 
+Available at the end of the (summer) term break (September).
 
-Koshla et al.    
-**Supervised Contrastive Learning**      
-[arXiv](https://arxiv.org/abs/2004.11362)     
-
-*step-by-step*. This means, I will chunk up the implementation of 
-the paper into managable steps.
-
-I will provide assignments (for each step) which you have to solve
-until a given deadline. Once the deadline is over, you get 
-*a correct solution*. You can then work with this solution to 
-complete the next assignment (and so on). In this manner, you can
-always start fresh and errors are not carried along.
-
-This is the first time I will experiment with *Github classroom*
-as a means to publish exercises. This means **you
-will need a GitHub account** for the PS. Please enter your 
-Github username and Student ID number (i.e., Matrikelnummer) 
-in the spreadsheet linked [here](https://myfiles.sbg.ac.at/index.php/s/RX5ftDQYT7A3EqT).
-
-We will implement the paper using [PyTorch](https://pytorch.org/). 
-Below you find a description of the steps to setup PyTorch using 
-Anaconda Python. Once we reach the point where we can start 
-experimenting on a larger-scale, it will be beneficial to have
-a GPU. For that, I do recommend to use *Google Collab* where 
-you can have access to GPU's for free. I will provide a short
-tutorial video on that later during the course.
 
 ## Preliminaries: Getting started with PyTorch
 
-I do recommend a setup using Anaconda Python. Below is a short howto to install
+I do recommend a setup using Anaconda Python. Below is a short how to to install
 Anaconda + PyTorch on a Mac OS X system.
 
 ### Download and install Anaconda
