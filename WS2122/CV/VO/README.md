@@ -43,7 +43,7 @@ familiar with Python, as I do use Python almost exclusively (via Jupyter noteboo
 
 Currently, the following tutorial video on installing Anaconda Python and PyTorch is only available in *German*. 
 
-- [Tutorial](https://drive.google.com/file/d/10zHkyBmyxlaSF6u9FPgOPP7Uw9ztQyJ-/view?usp=sharing)
+- [**Tutorial**](https://drive.google.com/file/d/10zHkyBmyxlaSF6u9FPgOPP7Uw9ztQyJ-/view?usp=sharing)
 
 ## Course topics
 
@@ -51,20 +51,20 @@ Below is a more detailed list of topics covered in the course, subject to change
 on the progress we make. For many of the topics, I will also provide links to the relevant
 papers (primarily in the `papers` sub-directory within each topic-folder).
 
-*Videos will be available at the beginning of the winter term!*
+**Note**: Please download the videos! Online viewing is possible (depending on your browser, but quality might be bad).
 
 - Introduction & Vision problems
 
 **Technical preliminaries**
 
-- [Tensor basics](material/01_TensorBasics)
+- [**Tensor basics**](material/01_TensorBasics)
   - [Video (Part 1)](https://drive.google.com/file/d/1m70fcZylLI6310rZnQXbloMuatUHwz2N/view?usp=sharing)
   - [Video (Part 2)](https://drive.google.com/file/d/1GVWYzyqxNFvWDfR2HJqotGkjRAuadiTS/view?usp=sharing)
 - Data Handling
 
 **Core content**
 
-- [The perceptron](material/02_ThePerceptron)
+- [**The perceptron**](material/02_ThePerceptron)
   - [Video (Part 1)](https://drive.google.com/file/d/1enV2K_-UVziiPHuTxW7k2PmZ71YA9pqJ/view?usp=sharing)
   - [Video (Part 2)](https://drive.google.com/file/d/1BSw3L6EhlZSlCAIl83MBSFGCHSU99CRd/view?usp=sharing)
 - Automatic differentiation
