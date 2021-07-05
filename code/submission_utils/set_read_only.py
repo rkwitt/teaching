@@ -71,7 +71,7 @@ def main(argv):
     for k,v in students.items():
         if ('group' in v) and v['group'] >= 0:
             if groups[v['group']] is None:
-            	share_list = oc.get_shares(v['path'])
+                share_list = oc.get_shares(v['path'])
                 if len(share_list)>0:
                     oc.delete_share(share_list[0].get_id())
                 link = _update_share(oc, v['path'])
