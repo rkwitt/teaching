@@ -41,7 +41,9 @@ familiar with Python, as I do use Python almost exclusively (via Jupyter noteboo
 
 ## PyTorch installation
 
-- [Tutorial](https://drive.google.com/file/d/1W4A1H7CqDgDbVh_1uiWRyVJhYyntjzn4/view?usp=sharing)
+Currently, the following tutorial video on installing Anaconda Python and PyTorch is only available in *German*. 
+
+- [Tutorial](https://drive.google.com/file/d/10zHkyBmyxlaSF6u9FPgOPP7Uw9ztQyJ-/view?usp=sharing)
 
 ## Course topics
 
@@ -55,12 +57,16 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 
 **Technical preliminaries**
 
-- Tensor basics
+- [Tensor basics](material/01_TensorBasics)
+  - [Video (Part 1)](https://drive.google.com/file/d/1m70fcZylLI6310rZnQXbloMuatUHwz2N/view?usp=sharing)
+  - [Video (Part 2)](https://drive.google.com/file/d/1GVWYzyqxNFvWDfR2HJqotGkjRAuadiTS/view?usp=sharing)
 - Data Handling
 
 **Core content**
 
-- The perceptron
+- [The perceptron](material/02_ThePerceptron)
+  - [Video (Part 1)](https://drive.google.com/file/d/1enV2K_-UVziiPHuTxW7k2PmZ71YA9pqJ/view?usp=sharing)
+  - [Video (Part 2)](https://drive.google.com/file/d/1BSw3L6EhlZSlCAIl83MBSFGCHSU99CRd/view?usp=sharing)
 - Automatic differentiation
 - Gradient-based optimization
 - AdaLine
