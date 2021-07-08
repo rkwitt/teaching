@@ -32,6 +32,25 @@ The slack channel #machinelearning is on [`visel.slack.com`](https://visel.slack
 
 Grading is based on **one final exam** (open-book type) at the end of the course.
 
+### Information for online exam
+
+The exam this year will be an **online**, written exam. It is an **open-book** exam, so you can use 
+whatever literature/course material you desire. The procedure is detailed below:
+
+**Each student** who wants to participate in the exam (and is signed up in PLUS Online), do the following:
+
+1. Go to [random.org](https://www.random.org/integer-sets/) and generate 5 (unique) random integers in the range of 1 to 15 (if you obtain duplicates, repeat the procedure to obtain five unique numbers).
+2. Send the output (e.g., `2, 4, 6, 8, 12`) to me via e-mail (`Roland.Kwitt@sbg.ac.at`) with the email
+subject `ML21 exam sequence`.
+3. 10 min. before the exam time, I will release (on the VO website) a PDF with **15 questions**. Solve the exercises
+with the numbers matching your personal random sequence (from Step 2). You have the possibility to switch out **one** question for a question you would rather solve. Please clearly state which question was switched (e.g., `1->10`).
+4. Each question should be answered on a **separate page** (annotated with *page number*, *Name* and *Matrikelnummer*).
+5. At the end of the exam time, *scan* or *take a picture* of your student ID and all sheets that have relevant content and zip those files.
+6. I will either provide (for all signed up students) an upload link that you can use to upload the zip file. If that does not work, the failback option is to send the zip file via email to `Roland.Kwitt@sbg.ac.at` (within a 10 min. time window after the exam has ended).
+
+During the exam, I will be available on **Google Meet** (I will provide a link before the exam starts) for the time 
+of the exam, in case there are any questions.
+
 ## Lecture material
 
 The course is rather self-contained and most of the material will be developed step-by-step on the blackboard (which is my iPad now :). To every video, I will also provide a PDF with my written notes.
