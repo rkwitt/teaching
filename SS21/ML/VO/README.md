@@ -2,6 +2,7 @@
 
 ## News
 
+- Exam instructions posted!
 - Low audio volume issue fixed
 - The VO will be held **fully online**
 - Our Google meet link for the **Q&A** sessions is [here](https://meet.google.com/zka-jpyj-hmg)
