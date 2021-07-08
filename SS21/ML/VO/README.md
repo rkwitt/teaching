@@ -43,7 +43,7 @@ whatever literature/course material you desire. The procedure is detailed below:
 1. Go to [random.org](https://www.random.org/integer-sets/) and generate 5 (unique) random integers in the range of 1 to 15 (if you obtain duplicates, repeat the procedure to obtain five unique numbers).
 2. Send the output (e.g., `2, 4, 6, 8, 12`) to me via e-mail (`Roland.Kwitt@sbg.ac.at`) with the email
 subject `ML21 exam sequence`.
-3. 10 min. before the exam time, I will release (on the VO website) a PDF with **15 questions**. Solve the exercises
+3. 10 min. before the exam starts, I will release (on the VO website) a PDF with **15 questions**. Solve the exercises
 with the numbers matching your personal random sequence (from Step 2). You have the possibility to switch out **one** question for a question you would rather solve. Please clearly state which question was switched (e.g., `1->10`).
 4. Each question should be answered on a **separate page** (annotated with *page number*, *Name* and *Matrikelnummer*).
 5. At the end of the exam time, *scan* or *take a picture* of your student ID and all sheets that have relevant content and zip those files.
