@@ -2,7 +2,8 @@
 
 ## News
 
-- Exam instructions posted!
+- Exam upload links (for 16.7.2021, 10:00am) sent out
+- Exam instructions posted
 - Low audio volume issue fixed
 - The VO will be held **fully online**
 - Our Google meet link for the **Q&A** sessions is [here](https://meet.google.com/zka-jpyj-hmg)
