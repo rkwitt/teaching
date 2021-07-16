@@ -2,7 +2,7 @@
 
 ## News
 
-- [Exam PDF](https://drive.google.com/file/d/1yHxGkBrsYIBcjsJwnfFkkf2lyAdMBwOl/view?usp=sharing)
+- Upload links for the exam have been disabled at (11:59am, 16.07.2021)
 - Exam upload links (for 16.7.2021, 10:00am) sent out
 - Exam instructions posted
 - Low audio volume issue fixed
