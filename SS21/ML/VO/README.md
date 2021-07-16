@@ -2,6 +2,7 @@
 
 ## News
 
+- [Exam PDF](https://drive.google.com/file/d/1yHxGkBrsYIBcjsJwnfFkkf2lyAdMBwOl/view?usp=sharing)
 - Exam upload links (for 16.7.2021, 10:00am) sent out
 - Exam instructions posted
 - Low audio volume issue fixed
