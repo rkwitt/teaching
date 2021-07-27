@@ -10,6 +10,7 @@ these imaging modalities and then discuss algorithms to process the data.
 
 ## News / Important dates
 
+- Link to **VO exam** PDF is [here](https://drive.google.com/file/d/1mTUY00lCRdYq0Rg1gLOPKT3zFtv0edv2/view?usp=sharing)
 - The course will be **fully virtual**
 - Our Google meet link for the **Q&A** sessions is [here](https://meet.google.com/zka-jpyj-hmg)
 
