@@ -2,7 +2,7 @@
 
 ## News
 
-- *Grades* made public
+- *Grading* released in PLUS Online
 - *Review* links for **Exercise sheet E** have been sent out
 - *Review* links for **Exercise sheet D** have been sent out
 - *Review* links for **Exercise sheet C** have been sent out
