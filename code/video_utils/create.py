@@ -96,7 +96,7 @@ def concat(args, intro_video_file_name: str):
         inputs={temp_name: [
             '-hide_banner',
             '-loglevel', 'error', 
-            '-f', 'concat']},
+            '-f', 'concat', '-safe', '0']},
         outputs={args.output_video: ['-c', 'copy', '-y', '-movflags', '+faststart']})
 
     t0 = time.time()

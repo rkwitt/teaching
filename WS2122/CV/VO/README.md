@@ -2,7 +2,13 @@
 
 ## News / Important dates
 
-Available at the end of the (summer) term break (September).
+- Begin of lecture: **Oct. 6, 2021**
+
+## General
+
+The computer vision lecture for the winter term 2021/2022 will be held **online** with regular **Q&A sessions**, either in-person or online, depending on how the COVID situation develops in fall. We will decide on the Q&A dates as we progress through the course (but a natural time slot is the assigned time slot for the lecture in PLUS Online).
+
+*All lectures are available as pre-recorded videos, so you can watch them anytime.*
 
 ## Slack
 
@@ -10,15 +16,14 @@ We have a Slack channel `#computervision` on [http://visel.slack.com](visel.slac
 
 ## Grading
 
-Grading is based on a **final exam** at the end of the semester (typically the first date for the exam is the last lecture, however, we can find a date other than that which works for most students).
+Grading is based on a **final exam** at the end of the semester or within the semester break. However, I am quite flexible with respect to that and we will definitely find dates that work for everyone. Typically, the exam is an **open-book** exam where you can use all the material that you desire.
 
 ## Material
 
-One of the **core resources** of the course is the [Deep Learning Book](http://www.deeplearningbook.org/) by Goodfellow, Bengio and
-Courville (available online) which covers most of the deep learning basics.
+One of **resources** I do recommend for the course is the [Deep Learning Book](http://www.deeplearningbook.org/) by Goodfellow, Bengio and
+Courville (available online) which covers most of the deep learning basics (and more advanced topics as well).
 
-Almost all of my course material is available through Jupyter notebooks. Those notebooks can be downloaded from the course Github
-repository and also contain links to other resources. To checkout the complete teaching repository (including the WS2021 material), use:
+Almost all of my course material is available through **Jupyter notebooks** (that accompany the lecture videos). Those notebooks can be downloaded from the course Github repository and also contain links to other resources. To checkout the complete teaching repository (including the WS2021 material), use:
 
 ```bash
 git clone https://github.com/rkwitt/teaching.git
@@ -41,7 +46,7 @@ familiar with Python, as I do use Python almost exclusively (via Jupyter noteboo
 
 ## PyTorch installation
 
-Currently, the following tutorial video on installing Anaconda Python and PyTorch is only available in *German*. 
+Currently, the following tutorial video on installing Anaconda Python and PyTorch is only available in *German*.
 
 - [**Tutorial**](https://drive.google.com/file/d/10zHkyBmyxlaSF6u9FPgOPP7Uw9ztQyJ-/view?usp=sharing)
 
@@ -75,9 +80,10 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - Convolution(s)
 - Loss functions
 - Residual learning
+- Transformers for vision
 - Regularization/Normalization & Fine-Tuning
 - Autoencoders
-- Generative models - Variational Autoencoders (VAEs)
+- Generative models - Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs)
 - Image segmentation
 - Object detection
 
