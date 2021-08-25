@@ -3,6 +3,7 @@
 ## News / Important dates
 
 - Begin of lecture: **Oct. 6, 2021**
+- Google meet link (for Q&A): here (available once course starts)
 
 ## General
 
@@ -12,11 +13,27 @@ The computer vision lecture for the winter term 2021/2022 will be held **online*
 
 ## Slack
 
-We have a Slack channel `#computervision` on [http://visel.slack.com](visel.slack.com). You can sign up with your `@sbg.ac.at`, `@cosy.sbg.ac.at` or your `@stud.sbg.ac.at` email address. This is quite useful, as you can always ask questions, or we can schedule meetings (via Google meet) where I can answer questions you might have.
+We have a Slack channel `#computervision` on [http://visel.slack.com](visel.slack.com). You can sign up with your `@sbg.ac.at`, `@cosy.sbg.ac.at` or your `@stud.sbg.ac.at` email address. This is quite useful, as you can always ask questions, or we can schedule additional meetings (via Google meet) where I can answer any questions you might have.
 
 ## Grading
 
-Grading is based on a **final exam** at the end of the semester or within the semester break. However, I am quite flexible with respect to that and we will definitely find dates that work for everyone. Typically, the exam is an **open-book** exam where you can use all the material that you desire.
+Grading is based on a **final exam** at the end of the semester or within the semester break. However, I am quite flexible with respect to that and we will definitely find dates that work for everyone. The exam will be an **open-book** exam where you can use all the material that you desire.
+
+### Information for online exam
+
+**Each student** who wants to participate in the exam (and is signed up in PLUS Online), please do the following:
+
+1. Go to [random.org](https://www.random.org/integer-sets/) and generate 5 (unique) random integers in the range of 1 to 15 (if you obtain duplicates, repeat the procedure to obtain five unique numbers.
+2. Send the output (e.g., `2, 4, 6, 8, 12`) to me via e-mail (`Roland.Kwitt@sbg.ac.at`) with the email
+subject `CV2122 exam sequence`.
+3. 10 min. before the exam starts, I will release (on this website) a PDF with **15 questions**. Solve the exercises
+with the numbers matching your personal random sequence (from Step 2). You have the possibility to switch out **one** question for a question you would rather solve. Please clearly indicate which question was switched.
+4. Each question should be answered on a **separate page** (annotated with *page number*, *Name* and *Matrikelnummer*).
+5. At the end of the exam time, *scan* or *take a picture* of your student ID and all sheets that have relevant content. Create a PDF `Exam-<YOURSTUDENTNUMBER>.pdf` containing all pages (including the page with your student ID).
+6. I will provide (for all signed up students) an *upload link* (to a university-internal MyFiles folder) that you can use to upload the PDF file. If that does not work, the fallback option is to send the PDF file email to `Roland.Kwitt@sbg.ac.at`.
+
+During the exam, I will be available on **Google Meet** (I will provide a link before the exam starts) for the time
+of the exam, in case there are any questions.
 
 ## Material
 
