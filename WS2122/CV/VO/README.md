@@ -62,14 +62,14 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 
 **Technical preliminaries**
 
-- [**Tensor basics**](material/01_TensorBasics)
+- [**Tensor basics**](material/01.1_TensorBasics)
   - [Video (Part 1)](https://drive.google.com/file/d/1m70fcZylLI6310rZnQXbloMuatUHwz2N/view?usp=sharing)
   - [Video (Part 2)](https://drive.google.com/file/d/1GVWYzyqxNFvWDfR2HJqotGkjRAuadiTS/view?usp=sharing)
-- Data Handling
+- [**Data Handling**](material/01.2_DataHandling )
 
 **Core content**
 
-- [**The perceptron**](material/02_ThePerceptron)
+- [**The perceptron**](material/02_Perceptron)
   - [Video (Part 1)](https://drive.google.com/file/d/1enV2K_-UVziiPHuTxW7k2PmZ71YA9pqJ/view?usp=sharing)
   - [Video (Part 2)](https://drive.google.com/file/d/1BSw3L6EhlZSlCAIl83MBSFGCHSU99CRd/view?usp=sharing)
 - Automatic differentiation

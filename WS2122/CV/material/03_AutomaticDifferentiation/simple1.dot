@@ -1,0 +1,11 @@
+digraph{
+  1 [shape=note,style=filled, fillcolor="#e0e0ff",label="q []"]
+  2 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ CopyBackwards | { <output0> 0 | <output1> 1 }  }"]
+  3 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ NormBackward1 }"]
+  4 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ AccumulateGrad }"]
+  5 [shape=note,style=filled, fillcolor="#e0e0ff",label="x [3]"]
+  4 -> 5
+  3 -> 4
+  2:output1 -> 3
+  1 -> 2
+}
