@@ -51,7 +51,7 @@ All notebooks can be found within the `material` subdirectory. Just go the (topi
 
 ```bash
 cd teaching/WS2122/CV
-cd material/01_TensorBasics
+cd material/01.1_TensorBasics
 jupyter notebook
 ```
 
