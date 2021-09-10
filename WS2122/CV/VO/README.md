@@ -97,10 +97,11 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - Convolution(s)
 - Loss functions
 - Residual learning
-- Transformers for vision
-- Regularization/Normalization & Fine-Tuning
+- Model finetuning
+- Regularization/Normalization 
 - Autoencoders
 - Generative models - Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs)
+- Transformers for vision (Attention mechanisms)
 - Image segmentation
 - Object detection
 
