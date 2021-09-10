@@ -93,10 +93,10 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - Gradient-based optimization
 - AdaLine
 - Multilayer perceptrons (MLPs)
-- Stochastic Gradient Descent (SGD) & Variants
-- Convolution(s)
+- Stochastic gradient descent (SGD) & Variants
+- Convolution(s) & ConvNets
 - Loss functions
-- Residual learning
+- Residual learning (ResNets)
 - Model finetuning
 - Regularization/Normalization 
 - Autoencoders
