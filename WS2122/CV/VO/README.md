@@ -103,7 +103,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - Generative models - Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs)
 - Transformers for vision (Attention mechanisms)
 - Image segmentation
-- Object detection
+- Object detection (if time allows)
 
 ## Data
 
