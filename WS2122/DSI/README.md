@@ -17,7 +17,7 @@ Aus Datenschutzgründen sind die Vortragenden (sowie die Vortragstitel) aus der 
 
 | **Abhaltungstermine**  | Vortragende  |  Inhalt  | Anm. |
 |---|---|---|---|
-| 05.20.2021 | Roland Kwitt, StV Data Science  | Einführung & Vorstellung  |     |
+| 05.10.2021 | Roland Kwitt, StV Data Science  | Einführung & Vorstellung  |     |
 | 12.10.2021 | *  | *  |      |
 | 19.10.2021 | *  | *  |      |
 | 09.11.2021 | *  | *  |      |
