@@ -80,8 +80,8 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 **Technical preliminaries**
 
 - [**Tensor basics**](../material/01.1_TensorBasics)
-  - [Video (Part 1)](https://drive.google.com/file/d/1m70fcZylLI6310rZnQXbloMuatUHwz2N/view?usp=sharing)
-  - [Video (Part 2)](https://drive.google.com/file/d/1GVWYzyqxNFvWDfR2HJqotGkjRAuadiTS/view?usp=sharing)
+  - [Video (Part 1)](https://drive.google.com/file/d/1LX3ChT5pHeVYeKDE4FKXAoOzObo7SsN0/view?usp=sharing)
+  - [Video (Part 2)](https://drive.google.com/file/d/1-qzcMGRZnym5GjZwwGhrBzjSvOHekzzY/view?usp=sharing)
 - [**Data Handling**](../material/01.2_DataHandling )
 
 **Core content**
