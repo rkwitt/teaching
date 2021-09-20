@@ -47,4 +47,4 @@ python create.py --input_video /tmp/video.mp4 \
 
 `create.py` essentially (1) resizes the intro image (here: `dummy.png`) to the same spatial resolution as `video.mp4`, then (2) creates a short video sequence (at the same frame rate as `video.mp4` and adding a silent audio track with the same sample rate and mono/stereo set appropriately, as the audio track in `video.mp4`) that loops through the intro image. Next, (3) fading is added if required and (4) both clips are eventually concatenated. 
 
-The whole process takes about 5 seconds to execute on a 90min video (running on a MacBook Air 2020). Try to get this done in that time using some fancy video editing software. Believe me, if you have to switch out intros regularly, this can be a pain to do.
+**Note**: Currently, concatenation (with `ffmpeg` is not the preferred option) is commented out. Rather use Quicktime for concatentation.

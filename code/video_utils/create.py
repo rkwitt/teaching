@@ -47,7 +47,7 @@ def create_intro_video(args, intro_image_file_name: str, video_info: dict, audio
     file_base = os.path.dirname(intro_image_file_name)
     file_name = os.path.splitext(os.path.basename(intro_image_file_name))[0]
     out_file_name = os.path.join(file_base, file_name + '.mp4')
-    
+
     ff = ffmpy.FFmpeg(
         inputs={intro_image_file_name: 
                 [
@@ -63,7 +63,7 @@ def create_intro_video(args, intro_image_file_name: str, video_info: dict, audio
             [
                 '-f', 'lavfi',
                 '-i', 'anullsrc=channel_layout=mono:sample_rate={}'.format(audio_info['sample_rate']),
-                '-filter_complex', '[0]scale={}:{}:force_original_aspect_ratio=increase,crop={}:{},setsar=1,format=yuvj420p[v]'.format(
+                '-filter_complex', '[0]scale={}:{}:force_original_aspect_ratio=increase,crop={}:{},setsar=1,format=yuv420p[v]'.format(
                     video_info['width'],
                     video_info['height'],
                     video_info['width'],
@@ -168,8 +168,11 @@ def main():
             video_info,
             intro_video_file_name)
 
-    concat(args, intro_video_file_name)
-    print(term.red + term.bold + "DONE!" + term.normal)
+    # 
+    # Rather use Quicktime for concatenation
+    #
+    #concat(args, intro_video_file_name)
+    #print(term.red + term.bold + "DONE!" + term.normal)
 
 if __name__ == "__main__":
     main()
