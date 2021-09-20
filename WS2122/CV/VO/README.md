@@ -65,7 +65,8 @@ familiar with Python, as I do use Python almost exclusively (via Jupyter noteboo
 
 Currently, the following tutorial video on installing Anaconda Python and PyTorch is only available in *German*.
 
-- [**Tutorial**](https://drive.google.com/file/d/10zHkyBmyxlaSF6u9FPgOPP7Uw9ztQyJ-/view?usp=sharing)
+- [**Tutorial** (German)](https://drive.google.com/file/d/1OCG9upipvTwCKdSPm3CIteRbbpuyxyul/view?usp=sharing)
+- Tutorial (English, coming soon)
 
 ## Course topics
 
@@ -87,9 +88,10 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 **Core content**
 
 - [**The perceptron**](../material/02_Perceptron)
-  - [Video (Part 1)](https://drive.google.com/file/d/1enV2K_-UVziiPHuTxW7k2PmZ71YA9pqJ/view?usp=sharing)
-  - [Video (Part 2)](https://drive.google.com/file/d/1BSw3L6EhlZSlCAIl83MBSFGCHSU99CRd/view?usp=sharing)
+  - [Video (Part 1)](https://drive.google.com/file/d/1z3PJJaW_FxzoTsYQyR6xTftVaN3DW045/view?usp=sharing)
+  - [Video (Part 2)](https://drive.google.com/file/d/1jU7X9v7JSoi8zGucxe8TifPkAy5enrnd/view?usp=sharing)
 - Automatic differentiation
+  - [Video](https://drive.google.com/file/d/1P5kKkUzqerHbEb0nuZe1yO-pMyD_hDJ_/view?usp=sharing)
 - Gradient-based optimization
 - AdaLine
 - Multilayer perceptrons (MLPs)
