@@ -92,19 +92,19 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Video (Part 2)](https://drive.google.com/file/d/1jU7X9v7JSoi8zGucxe8TifPkAy5enrnd/view?usp=sharing)
 - Automatic differentiation
   - [Video](https://drive.google.com/file/d/1P5kKkUzqerHbEb0nuZe1yO-pMyD_hDJ_/view?usp=sharing)
-- Gradient-based optimization
-- AdaLine
-- Multilayer perceptrons (MLPs)
-- Stochastic gradient descent (SGD) & Variants
-- Convolution(s) & ConvNets
-- Loss functions
-- Residual learning (ResNets)
-- Model finetuning
+- [Gradient-based optimization](../material/04_GradientBasedOptimization)
+- [AdaLine](../material/05_AdaLine)
+- [Multilayer perceptrons (MLPs)](../material/06_MLP)
+- [Stochastic gradient descent (SGD) & Variants](../material/07_SGD)
+- [Convolution(s) & ConvNets](../material/08_ConvNets)
+- [Loss functions](../material/09_CrossEntropy)
+- [Residual learning (ResNets)](../material/10_ResidualLearning)
+- [Model finetuning](../material/11_Finetuning)
 - Regularization/Normalization 
 - Autoencoders
 - Generative models - Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs)
 - Transformers for vision (Attention mechanisms)
-- Image segmentation
+- [Semantic segmentation](../material/12-Segmentation)
 - Object detection (if time allows)
 
 ## Data
