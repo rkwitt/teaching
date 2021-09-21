@@ -65,9 +65,9 @@ familiar with Python, as I do use Python almost exclusively (via Jupyter noteboo
 
 Currently, the following tutorial video on installing Anaconda Python and PyTorch is only available in *German*.
 
-- [**Tutorial** (GER)](https://drive.google.com/file/d/1OCG9upipvTwCKdSPm3CIteRbbpuyxyul/view?usp=sharing)
-- [**Tutorial** (ENG)](https://drive.google.com/file/d/1UJgkWttFZ4STwSIT_m-9npnSnsgEW3gd/view?usp=sharing)
-- 
+- [**Tutorial** (german)](https://drive.google.com/file/d/1OCG9upipvTwCKdSPm3CIteRbbpuyxyul/view?usp=sharing)
+- [**Tutorial** (english)](https://drive.google.com/file/d/1UJgkWttFZ4STwSIT_m-9npnSnsgEW3gd/view?usp=sharing)
+
 ## Course topics
 
 Below is a more detailed list of topics covered in the course, subject to change depending
