@@ -24,7 +24,7 @@ Grading is based on a **final exam** at the end of the semester or within the se
 **Each student** who wants to participate in the exam (and is signed up in PLUS Online), please do the following:
 
 1. Go to [random.org](https://www.random.org/integer-sets/) and generate 5 (unique) random integers in the range of 1 to 15 (if you obtain duplicates, repeat the procedure to obtain five unique numbers.
-2. Send the output (e.g., `2, 4, 6, 8, 12`) to me via e-mail (`Roland.Kwitt@sbg.ac.at`) with the email
+2. Send the output (e.g., `2, 4, 6, 8, 12f`) to me via e-mail (`Roland.Kwitt@sbg.ac.at`) with the email
 subject `CV2122 exam sequence`.
 3. 10 min. before the exam starts, I will release (on this website) a PDF with **15 questions**. Solve the exercises
 with the numbers matching your personal random sequence (from Step 2). You have the possibility to switch out **one** question for a question you would rather solve. Please clearly indicate which question was switched.
@@ -65,9 +65,9 @@ familiar with Python, as I do use Python almost exclusively (via Jupyter noteboo
 
 Currently, the following tutorial video on installing Anaconda Python and PyTorch is only available in *German*.
 
-- [**Tutorial** (German)](https://drive.google.com/file/d/1OCG9upipvTwCKdSPm3CIteRbbpuyxyul/view?usp=sharing)
-- Tutorial (English, coming soon)
-
+- [**Tutorial** (GER)](https://drive.google.com/file/d/1OCG9upipvTwCKdSPm3CIteRbbpuyxyul/view?usp=sharing)
+- [**Tutorial** (ENG)](https://drive.google.com/file/d/1UJgkWttFZ4STwSIT_m-9npnSnsgEW3gd/view?usp=sharing)
+- 
 ## Course topics
 
 Below is a more detailed list of topics covered in the course, subject to change depending
