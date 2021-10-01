@@ -4,7 +4,7 @@ Die Lehrveranstaltung richtet sich ausschließlich an Studierende im Masterstudi
 
 Die LV *Einführung in Data Science* wird wie letztes Jahr (WS 2020/21) wieder vollständig **ONLINE** stattfinden (immer Dienstags von 17:00-18:00, siehe [Zeitplan](#Zeitplan) unten). Aktuell ist geplant, *Google Meet* zu verwenden - dies kann sich jedoch gegebenenfalls ändern.
 
-**Aktueller Link**: [Hier](https://meet.google.com/cmy-chzn-ypd)
+**Aktueller Link**: [Hier](https://meet.google.com/ksj-wroa-iri)
 
 ## Klausur
 
