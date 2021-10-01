@@ -3,7 +3,7 @@
 ## News / Important dates
 
 - Begin of lecture: **Oct. 6, 2021**
-- Google meet link (for Q&A): here (available once course starts)
+- Google meet link (for Q&A): [here](https://meet.google.com/ksj-wroa-iri)
 
 ## General
 
