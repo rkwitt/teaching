@@ -7,13 +7,13 @@
 
 ## General
 
-The computer vision lecture for the winter term 2021/2022 will be held **online** with regular **Q&A sessions**, either in-person or online, depending on how the COVID situation develops in fall. We will decide on the Q&A dates as we progress through the course (but a natural time slot is the assigned time slot for the lecture in PLUS Online).
+The computer vision lecture for the winter term 2021/2022 will be held fully **ONLINE** with regular **Q&A sessions**, either in-person or online, depending on how the COVID situation develops in fall/winter. We will decide on the Q&A dates as we progress through the course (but a natural time slot is the assigned time slot for the lecture in PLUS Online).
 
 *All lectures are available as pre-recorded videos, so you can watch them anytime.*
 
 ## Slack
 
-We have a Slack channel `#computervision` on [http://visel.slack.com](visel.slack.com). You can sign up with your `@sbg.ac.at`, `@cosy.sbg.ac.at` or your `@stud.sbg.ac.at` email address. This is quite useful, as you can always ask questions, or we can schedule additional meetings (via Google meet) where I can answer any questions you might have.
+We have a Slack channel `#computervision` on [http://visel.slack.com](visel.slack.com). You can sign up with your `@sbg.ac.at`, `@cosy.sbg.ac.at` or your `@stud.sbg.ac.at` email address. This is quite useful, as you can always ask questions, or we can schedule additional online/in-person meetings where I can answer any questions you might have.
 
 ## Grading
 
@@ -37,10 +37,10 @@ of the exam, in case there are any questions.
 
 ## Material
 
-One of **resources** I do recommend for the course is the [Deep Learning Book](http://www.deeplearningbook.org/) by Goodfellow, Bengio and
+One of **literature resources** I do recommend for this course is the [Deep Learning Book](http://www.deeplearningbook.org/) by Goodfellow, Bengio and
 Courville (available online) which covers most of the deep learning basics (and more advanced topics as well).
 
-Almost all of my course material is available through **Jupyter notebooks** (that accompany the lecture videos). Those notebooks can be downloaded from the course Github repository and also contain links to other resources. To checkout the complete teaching repository (including the WS2021 material), use:
+Almost all of my course material is available through **Jupyter notebooks** (that accompany the lecture videos). Those notebooks can be downloaded from the course Github repository and also contain links to other resources. To checkout the complete teaching repository (including the material for this semester), use:
 
 ```bash
 git clone https://github.com/rkwitt/teaching.git
@@ -57,13 +57,12 @@ jupyter notebook
 
 ## Prerequisites
 
-I do recommend to refresh your **linear algebra**, **statistics** and
-**analysis** knowledge before starting the course. Also, please make yourself
-familiar with Python, as I do use Python almost exclusively (via Jupyter notebooks). I will provide a short introduction in the PS, though. Also, you can start reading up on PyTorch which we will use as our environment for deep learning.
+I do recommend to refresh your **linear algebra**, **statistics** and **analysis** knowledge before starting the course. Also, please make yourself
+familiar with Python, as I do use Python almost exclusively (via Jupyter notebooks). Also, you can start reading up on [PyTorch](https://pytorch.org/) which we will use as our environment for implementing deep learning approaches to computer vision.
 
 ## PyTorch installation
 
-Currently, the following tutorial video on installing Anaconda Python and PyTorch is only available in *German*.
+Currently, the following tutorial videos on installing Anaconda Python and PyTorch are available:
 
 - [**Tutorial** (german)](https://drive.google.com/file/d/1OCG9upipvTwCKdSPm3CIteRbbpuyxyul/view?usp=sharing)
 - [**Tutorial** (english)](https://drive.google.com/file/d/1UJgkWttFZ4STwSIT_m-9npnSnsgEW3gd/view?usp=sharing)
@@ -74,9 +73,9 @@ Below is a more detailed list of topics covered in the course, subject to change
 on the progress we make. For many of the topics, I will also provide links to the relevant
 papers (primarily in the `papers` sub-directory within each topic-folder).
 
-**Note**: Please download the videos! Online viewing is possible (depending on your browser, but quality might be bad).
+**Note**: Please *download* the videos! Online viewing is possible (depending on your browser, but quality might be bad, at least this was the feedback I got from previous instances of this course).
 
-- Introduction & Vision problems
+- Introduction & (Computer) vision problems
 
 **Technical preliminaries**
 
