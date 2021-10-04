@@ -87,4 +87,6 @@ structure of the `teaching/WS2122/CV` folder.
 
 ## Assignmentts
 
-tba.
+| | **Deadline**  | **Link**  |
+|---|---|---|
+| Exercise sheet A  | tba  | [here](ExA/) |
