@@ -71,7 +71,7 @@ def create_intro_video(args, intro_image_file_name: str, video_info: dict, audio
                 ),
                 '-map', '[v]',
                 '-map', '1',
-                '-c:v', 'libx264',
+                '-c:v', 'h264',
                 '-c:a', 'aac',
                 '-shortest', 
                 '-y'
@@ -130,8 +130,8 @@ def create_intro_video_fade(args, video_info, intro_video_file_name: str):
             out_file_name: 
             [   
                 '-filter:v', 'fade=out:{}:{}'.format(start_fade_at, (n_frames - start_fade_at)-10),
-                '-c:v', 'libx264',
-                '-preset', 'veryfast',
+                '-c:v', 'h264',
+                #'-preset', 'veryfast',
                 '-c:a', 'copy',
                 '-y'
             ]
