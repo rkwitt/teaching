@@ -13,7 +13,7 @@ The computer vision lecture for the winter term 2021/2022 will be held fully **O
 
 ## Slack
 
-We have a Slack channel `#computervision` on [https://visel.slack.com](visel.slack.com). You can sign up with your `@sbg.ac.at`, `@cosy.sbg.ac.at` or your `@stud.sbg.ac.at` email address. This is quite useful, as you can always ask questions, or we can schedule additional online/in-person meetings where I can answer any questions you might have.
+We have a Slack channel `#computervision` on [slack.com](https://visel.slack.com). You can sign up with your `@sbg.ac.at`, `@cosy.sbg.ac.at` or your `@stud.sbg.ac.at` email address. This is quite useful, as you can always ask questions, or we can schedule additional online/in-person meetings where I can answer any questions you might have.
 
 ## Grading
 
