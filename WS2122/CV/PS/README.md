@@ -87,9 +87,7 @@ structure of the `teaching/WS2122/CV` folder.
 
 ## Assignmentts
 
-The total sum of points across all exercise sheets will be **60**. Hence, positive grades start at >=30 points. The range [30,60] is then linearly spaced to give grades 4,3,2 and 1.
-
 | | **Deadline**  | **Points** | **Link**  |
 |---|---|---|---|
 | Exercise sheet A  | *to be announced*  | **8** (+1)  | [here](ExA/) |
-| Exercise sheet B  | *to be announced*  | **9**       | [here](ExB/) |
+| Exercise sheet B  | *to be announced*  | **10**       | [here](ExB/) |
