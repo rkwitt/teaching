@@ -2,9 +2,13 @@
 
 ## News / Important dates
 
-- Next **Q&A**: Wed., Oct. 20, 2021 (8:45am)
 - Begin of lecture: **Oct. 6, 2021** (8:30am) 
 - Google meet link (for Q&A **and** the first lecture): [here](https://meet.google.com/ksj-wroa-iri)
+
+## Q&A
+
+- Wed., Oct. 20, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
+- Wed., Oct. 13, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 
 ## General
 
