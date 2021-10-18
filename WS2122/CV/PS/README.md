@@ -2,8 +2,14 @@
 
 ## News / Important dates
 
+- *Upload links* for *Exercise sheet A (ExA)* have been sent out
 - Begin of lecture: **Oct. 6, 2021**
 - Google meet link (for Q&A): here (available once course starts)
+
+## Q&A
+
+- Wed., Oct. 20, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
+- Wed., Oct. 13, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 
 ## General
 
