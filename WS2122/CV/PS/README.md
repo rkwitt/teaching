@@ -95,7 +95,7 @@ structure of the `teaching/WS2122/CV` folder.
 
 | | **Deadline**  | **Points** | **Link** | **Status** |
 |---|---|---|---|---|
-| Exercise sheet A  | *to be announced*  | **8** (+1)   | [here](ExA/) | *in preparation* |
+| Exercise sheet A  | *to be announced*  | **8** (+1)   | [here](ExA/) | *Oct. 31, 2021 (11:59pm)* |
 | Exercise sheet B  | *to be announced*  | **10**       | [here](ExB/) | *in preparation* |
 | Exercise sheet C  | *to be announced*  | **8**        | [here](ExC/) | *in preparation* |
 
