@@ -7,6 +7,7 @@
 
 ## Q&A
 
+- Wed., Nov. 03, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Oct. 20, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Oct. 13, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 
@@ -80,7 +81,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 
 **Note**: Please *download* the videos! Online viewing is possible (depending on your browser, but quality might be bad, at least this was the feedback I got from previous instances of this course).
 
-- Introduction & (Computer) vision problems
+- [Introduction & (Computer) vision problems](../material/IntroSlides.pdf)
 
 **Technical preliminaries**
 
