@@ -94,11 +94,14 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - [**The perceptron**](../material/02_Perceptron)
   - [Video (Part 1)](https://drive.google.com/file/d/1z3PJJaW_FxzoTsYQyR6xTftVaN3DW045/view?usp=sharing)
   - [Video (Part 2)](https://drive.google.com/file/d/1jU7X9v7JSoi8zGucxe8TifPkAy5enrnd/view?usp=sharing)
-- Automatic differentiation
+- [Automatic differentiation](../material/03_AutomaticDifferentiation)
   - [Video](https://drive.google.com/file/d/1P5kKkUzqerHbEb0nuZe1yO-pMyD_hDJ_/view?usp=sharing)
 - [Gradient-based optimization](../material/04_GradientBasedOptimization)
+  - Video
 - [AdaLine](../material/05_AdaLine)
+  - Video
 - [Multilayer perceptrons (MLPs)](../material/06_MLP)
+  - Video
 - [Stochastic gradient descent (SGD) & Variants](../material/07_SGD)
 - [Convolution(s) & ConvNets](../material/08_ConvNets)
 - [Loss functions](../material/09_CrossEntropy)
