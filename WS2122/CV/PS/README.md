@@ -2,6 +2,8 @@
 
 ## News / Important dates
 
+- *Upload links* for *Exercise sheet C (ExC)* have been sent out
+- *Upload links* for *Exercise sheet B (ExB)* have been sent out
 - *Upload links* for *Exercise sheet A (ExA)* have been sent out
 - Begin of lecture: **Oct. 6, 2021**
 - Google meet link (for Q&A): here (available once course starts)
