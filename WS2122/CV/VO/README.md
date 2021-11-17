@@ -103,7 +103,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Video](https://drive.google.com/file/d/1RUbrmzDjAknsRxOOs8Jys46ixkEntAOi/view?usp=sharing)
 - [**AdaLine**](../material/05_AdaLine)
   - [Video](https://drive.google.com/file/d/16ck3RdMzwDd-6B7dy9NlIVwgXpo3Po_L/view?usp=sharing)
-- [Multilayer perceptrons (MLPs)](../material/06_MLP)
+- [**Multilayer perceptrons (MLPs)**](../material/06_MLP)
   - [Video](https://drive.google.com/file/d/1qALepmfgofUzwCdaVQzQRQatDBEwi9np/view?usp=sharing) 
 - [Stochastic gradient descent (SGD) & Variants](../material/07_SGD)
 - [Convolution(s) & ConvNets](../material/08_ConvNets)
