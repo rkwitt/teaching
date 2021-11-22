@@ -7,7 +7,8 @@
 
 ## Q&A
 
-- Wed., Nov. 17, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
+- Wed., Nov. 24, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
+- Thu., Nov. 18, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Nov. 10, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Nov. 03, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Oct. 20, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
