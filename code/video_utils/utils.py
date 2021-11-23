@@ -56,7 +56,7 @@ def extract_video_info(meta: dict, verbose = False):
     info = {}
     
     assert len(meta['streams']) == 2
-    assert meta['streams'][0]['codec_name'] == 'h264'
+    assert meta['streams'][1]['codec_name'] == 'h264'
     
     keys_fun = {
         'height': lambda x: int(x),
@@ -71,7 +71,7 @@ def extract_video_info(meta: dict, verbose = False):
               term.normal)
 
     for k,f in keys_fun.items():
-        info[k] = f(meta['streams'][0][k])
+        info[k] = f(meta['streams'][1][k])
         if verbose:
             print(term.blue + \
                   "{:20s}: {}".format(k, str(info[k])) + \
@@ -85,7 +85,7 @@ def extract_audio_info(meta: dict, verbose = False):
     info = {}
     
     assert len(meta['streams']) == 2
-    assert meta['streams'][1]['codec_name'] == 'aac'
+    assert meta['streams'][0]['codec_name'] == 'aac'
 
     keys_fun = {
         'sample_rate': lambda x: int(x),
@@ -99,7 +99,7 @@ def extract_audio_info(meta: dict, verbose = False):
               term.normal)
 
     for k,f in keys_fun.items():
-        info[k] = f(meta['streams'][1][k])
+        info[k] = f(meta['streams'][0][k])
         if verbose:
             print(term.blue + \
                   "{:20s}: {}".format(k, str(info[k])) + \
