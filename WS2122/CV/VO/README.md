@@ -7,7 +7,8 @@
 
 ## Q&A
 
-- Wed., Nov. 17, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
+- Wed., Nov. 24, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
+- Thu., Nov. 18, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Nov. 10, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Nov. 03, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Oct. 20, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
@@ -103,8 +104,11 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Video](https://drive.google.com/file/d/1RUbrmzDjAknsRxOOs8Jys46ixkEntAOi/view?usp=sharing)
 - [**AdaLine**](../material/05_AdaLine)
   - [Video](https://drive.google.com/file/d/16ck3RdMzwDd-6B7dy9NlIVwgXpo3Po_L/view?usp=sharing)
-- [Multilayer perceptrons (MLPs)](../material/06_MLP)
-- [Stochastic gradient descent (SGD) & Variants](../material/07_SGD)
+- [**Multilayer perceptrons (MLPs)**](../material/06_MLP)
+  - [Video](https://drive.google.com/file/d/1qALepmfgofUzwCdaVQzQRQatDBEwi9np/view?usp=sharing) 
+- [**Stochastic gradient descent (SGD) & Variants**](../material/07_SGD)
+  - [Video (Part 1)](https://drive.google.com/file/d/1YxDUYllFihSSR5Vv--P_GSu72C1W45Xq/view?usp=sharing)
+  - [Video (Part 2)](https://drive.google.com/file/d/1ZFP6rooRv1GiSnTOaCaL-8SqvKFgkQGu/view?usp=sharing) 
 - [Convolution(s) & ConvNets](../material/08_ConvNets)
 - [Loss functions](../material/09_CrossEntropy)
 - [Residual learning (ResNets)](../material/10_ResidualLearning)
@@ -127,3 +131,5 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - [scikit-image](http://scikit-image.org/)
 - [PyTorch](http://pytorch.org/)
 - [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic)
+- [Einops](https://einops.rocks/)
+- [Einsum tutorial](https://rockt.github.io/2018/04/30/einsum)
