@@ -10,6 +10,29 @@ Tested on MAC OS X (Big Sur), running homebrew and Anaconda Python (most recent 
     pip install pyocclient
     pip install exchangelib==3.3.2
     ```
+	
+    For the pyocclient (v0.6), you need a fix in the method
+
+	```python
+	def share_file_with_link(self, path, **kwargs):
+	```
+
+    In particular:
+
+	```python
+    if res.status_code == 200:
+        tree = ET.fromstring(res.content)
+        self._check_ocs_status(tree)
+        data_el = tree.find('data')
+        data_el_name = data_el.find('name') # NEW
+        return ShareInfo(
+                            {
+                                'id': data_el.find('id').text,
+                                'path': path,
+                                'url': data_el.find('url').text,
+                                'token': data_el.find('token').text,
+                                'name': data_el_name.text if data_el_name else # ADJUSTED
+	```
 
 2. Go to 
 
