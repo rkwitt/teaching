@@ -110,7 +110,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - [**Stochastic gradient descent (SGD) & Variants**](../material/07_SGD)
   - [Video (Part 1)](https://drive.google.com/file/d/1YxDUYllFihSSR5Vv--P_GSu72C1W45Xq/view?usp=sharing)
   - [Video (Part 2)](https://drive.google.com/file/d/1ZFP6rooRv1GiSnTOaCaL-8SqvKFgkQGu/view?usp=sharing) 
-- [Convolution(s)](../material/08_ConvNets)
+- [**Convolution(s)**](../material/08_ConvNets)
   - [Video](https://drive.google.com/file/d/1zW5U1WqEGmd2y_eM_lKwawVtrAih18r3/view?usp=sharing)
 - [Loss functions](../material/09_CrossEntropy)
 - [Residual learning (ResNets)](../material/10_ResidualLearning)
