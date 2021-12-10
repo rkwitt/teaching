@@ -10,6 +10,7 @@
 
 ## Q&A
 
+- Wed., Dec. 15, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Nov. 24, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Thu., Nov. 18, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Nov. 10, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
@@ -99,11 +100,12 @@ structure of the `teaching/WS2122/CV` folder.
 
 ## Assignmentts
 
-| | **Deadline**  | **Points** | **Link** | **Status** |
-|---|---|---|---|---|
-| Exercise sheet A  | *to be announced*  | **8** (+1)   | [here](ExA/) | *Oct. 31, 2021 (11:59pm)* |
-| Exercise sheet B  | *to be announced*  | **10**       | [here](ExB/) | *Nov. 17, 2021 (11:59pm)* |
-| Exercise sheet C  | *to be announced*  | **8**        | [here](ExC/) | *Nov. 24, 2021 (11:59pm)* |
+| | **Points** | **Link** | **Deadline** |
+|---|---|---|---|
+| Exercise sheet A  | **8** (+1)   | [here](ExA/) | *Oct. 31, 2021 (11:59pm)* |
+| Exercise sheet B  | **10**       | [here](ExB/) | *Nov. 17, 2021 (11:59pm)* |
+| Exercise sheet C  | **8**        | [here](ExC/) | *Nov. 24, 2021 (11:59pm)* |
+| Exercise sheet D  | **14**       | [here](ExD/) | *Dec. 23, 2021 (11:59pm)* |
 
 
 
