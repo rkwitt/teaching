@@ -7,6 +7,7 @@
 
 ## Q&A
 
+- Wed., Jan. 11, 2022 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Dec. 15, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Nov. 24, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Thu., Nov. 18, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
@@ -113,6 +114,8 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - [**Convolution(s)**](../material/08_ConvNets)
   - [Video](https://drive.google.com/file/d/1zW5U1WqEGmd2y_eM_lKwawVtrAih18r3/view?usp=sharing)
 - [Loss functions](../material/09_CrossEntropy)
+  - [Video (Binary cross-entropy)](https://drive.google.com/file/d/1GRqdESQAbvKU7JmurdrwEM4YThZCaD0h/view?usp=sharing)
+  - Video (Cross-entropy)
 - [Residual learning (ResNets)](../material/10_ResidualLearning)
 - [Model finetuning](../material/11_Finetuning)
 - Regularization/Normalization 
