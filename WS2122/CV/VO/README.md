@@ -113,7 +113,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Video (Part 2)](https://drive.google.com/file/d/1ZFP6rooRv1GiSnTOaCaL-8SqvKFgkQGu/view?usp=sharing) 
 - [**Convolution(s)**](../material/08_ConvNets)
   - [Video](https://drive.google.com/file/d/1zW5U1WqEGmd2y_eM_lKwawVtrAih18r3/view?usp=sharing)
-- [Loss functions](../material/09_CrossEntropy)
+- [**Loss functions**](../material/09_CrossEntropy)
   - [Video (Binary cross-entropy)](https://drive.google.com/file/d/1GRqdESQAbvKU7JmurdrwEM4YThZCaD0h/view?usp=sharing)
   - Video (Cross-entropy)
 - [Residual learning (ResNets)](../material/10_ResidualLearning)
