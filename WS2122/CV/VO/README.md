@@ -115,7 +115,7 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Video](https://drive.google.com/file/d/1zW5U1WqEGmd2y_eM_lKwawVtrAih18r3/view?usp=sharing)
 - [**Loss functions**](../material/09_CrossEntropy)
   - [Video (Binary cross-entropy)](https://drive.google.com/file/d/1GRqdESQAbvKU7JmurdrwEM4YThZCaD0h/view?usp=sharing)
-  - Video (Cross-entropy)
+  - [Video (Cross-entropy)](https://drive.google.com/file/d/1zZzOoI9cNbc0MX1AqZwerHAmExTL8-6j/view?usp=sharing)
 - [Residual learning (ResNets)](../material/10_ResidualLearning)
 - [Model finetuning](../material/11_Finetuning)
 - Regularization/Normalization 
