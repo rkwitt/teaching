@@ -43,4 +43,4 @@ Aus Datenschutzgründen sind die Vortragenden (sowie die Vortragstitel) aus der 
 
 **Think Python** (2nd edition)    
 A. Downey    
-[PDF](https://greenteapress.com/thinkpython2/thinkpython2.pdf) -->
+[PDF](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
