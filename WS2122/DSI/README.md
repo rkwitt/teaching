@@ -34,15 +34,12 @@ Aus Datenschutzgründen sind die Vortragenden (sowie die Vortragstitel) aus der 
 
 ## Zusatzmaterial
 
-Im Laufe der LV verfügbar!
-
-
-<!-- ## Python 60-min Overview
+### Python 60-min Overview
 
 - [Python Introduction](PythonIntroduction.ipynb)
 - [Example CSV file](biostats.csv)
 
-## Recommended (free) book
+### Recommended (free) book
 
 **Think Python** (2nd edition)    
 A. Downey    
