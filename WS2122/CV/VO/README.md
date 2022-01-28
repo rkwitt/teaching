@@ -116,10 +116,13 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - [**Loss functions**](../material/09_CrossEntropy)
   - [Video (Binary cross-entropy)](https://drive.google.com/file/d/1GRqdESQAbvKU7JmurdrwEM4YThZCaD0h/view?usp=sharing)
   - [Video (Cross-entropy)](https://drive.google.com/file/d/1zZzOoI9cNbc0MX1AqZwerHAmExTL8-6j/view?usp=sharing)
-- [Residual learning (ResNets)](../material/10_ResidualLearning)
+- [**Residual learning (ResNets)**](../material/10_ResidualLearning)
   - [Video](https://drive.google.com/file/d/1YfK8Ng_SnrfHWMXM55KpMqo6FY_Xwhue/view?usp=sharing)
   - [Colab Demo](https://drive.google.com/file/d/1lSPU-5nMjf8sSJZjVwRkQyZ_eXaksaLP/view?usp=sharing)  
 - [Model finetuning](../material/11_Finetuning)
+
+**Possible extensions**
+
 - Regularization/Normalization 
 - Autoencoders
 - Generative models - Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs)
