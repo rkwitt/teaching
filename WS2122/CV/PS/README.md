@@ -2,6 +2,8 @@
 
 ## News / Important dates
 
+- *Upload links* for *Exercise sheet E (ExE)* have been sent out
+- *Upload links* for *Exercise sheet D (ExE)* have been sent out
 - *Upload links* for *Exercise sheet C (ExC)* have been sent out
 - *Upload links* for *Exercise sheet B (ExB)* have been sent out
 - *Upload links* for *Exercise sheet A (ExA)* have been sent out
@@ -10,6 +12,8 @@
 
 ## Q&A
 
+- Wed., Feb. 02, 2022 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
+- Wed., Jan. 12, 2022 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Dec. 15, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Wed., Nov. 24, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
 - Thu., Nov. 18, 2021 (8:45am) [here](https://meet.google.com/ksj-wroa-iri)
