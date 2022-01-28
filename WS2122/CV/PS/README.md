@@ -3,7 +3,7 @@
 ## News / Important dates
 
 - *Upload links* for *Exercise sheet E (ExE)* have been sent out
-- *Upload links* for *Exercise sheet D (ExE)* have been sent out
+- *Upload links* for *Exercise sheet D (ExD)* have been sent out
 - *Upload links* for *Exercise sheet C (ExC)* have been sent out
 - *Upload links* for *Exercise sheet B (ExB)* have been sent out
 - *Upload links* for *Exercise sheet A (ExA)* have been sent out
