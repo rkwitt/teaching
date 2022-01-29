@@ -110,7 +110,7 @@ structure of the `teaching/WS2122/CV` folder.
 | Exercise sheet B  | **10**       | [here](ExB/) | *Nov. 17, 2021 (11:59pm)* |
 | Exercise sheet C  | **8**        | [here](ExC/) | *Nov. 24, 2021 (11:59pm)* |
 | Exercise sheet D  | **14**       | [here](ExD/) | *Dec. 23, 2021 (11:59pm)* |
-| Exercise sheet E  | **8**        | [here](ExE/) | *Feb. 4,  2022 (11:59pm)* |
+| Exercise sheet E  | **8**        | [here](ExE/) | *Feb. 11,  2022 (11:59pm)* |
 
 Total number of possible points: **48 (+1)**
 
