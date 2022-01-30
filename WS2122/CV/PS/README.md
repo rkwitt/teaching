@@ -102,7 +102,7 @@ jupyter notebook
 Basically, a new browser tab (in your default browser) should open where you see the file system
 structure of the `teaching/WS2122/CV` folder.
 
-## Assignmentts
+## Assignments
 
 | | **Points** | **Link** | **Deadline** |
 |---|---|---|---|
