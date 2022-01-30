@@ -4,7 +4,7 @@ This course covers the topic of **medical imaging**, in particular, different ki
 
 ## News
 
-- The Google Meet link for **Q&A** sessions will be available soon!
+- The Google Meet link for **Q&A** sessions: [here](https://meet.google.com/dmx-eqme-jqa)
 - The VO will be held **fully online**
 
 ## Scheduled Q&A sessions
