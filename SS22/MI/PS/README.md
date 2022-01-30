@@ -35,4 +35,4 @@ Grading is based on the number of points you collect for the exercise sheets.
 |---|---|---|---|
 | Exercise sheet A  | **tba**    | tba | *tba* |    
 
-<span style="color:blue">Total possible points: **tba**</span>
+Total possible points: **tba**
