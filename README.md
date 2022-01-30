@@ -5,6 +5,12 @@ For some courses, the teaching language is German, for some it's English.
 This is also reflected in the material, so do not expect consistency.
 
 
+# Summer Term 2022
+
+- [Machine Learning](SS22/ML)
+- [Medical Imaging](SS22/MI)
+- Datenbanken 1
+
 # Winter Term 2021/2022
 
 - [Computer Vision](WS2122/CV)
