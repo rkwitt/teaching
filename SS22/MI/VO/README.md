@@ -4,21 +4,13 @@ This course covers the topic of **medical imaging**, in particular, different ki
 
 ## News
 
-- The Google Meet link for **Q&A** sessions: [here](https://meet.google.com/dmx-eqme-jqa)
-- The VO will be held **fully online**
-
-## Scheduled Q&A sessions
-
-- **`03/01/2022`** (8:45am - *Vorbesprechung* VO/PS combined)
+- The lecture begins on **Tue., March 1, 2022** at **8:45am** (not 8:30am)
 
 ## Organization
 
-Given the current COVID situation and according to the PLUS guidelines, teaching this course **fully online** seems to be the most reasonable variant.
-The course is structured as a series of lectures. For each lecture, I will provide *videos* that can be downloaded and watched whenever you prefer. 
+Given the current COVID + teaching guidelines (see [here](https://www.plus.ac.at/news/lehre-ab-maerz-2022/?pgrp=218&is_paged=0)), the lecture will be held in person. The course is structured as a series of lectures. For each lecture, I will provide *videos* that can be downloaded and watched whenever you prefer. Even though, the lecture is **in person**, students have access to these videos as supplementary material. 
 
 *I do recommend that you watch the lecture videos in the provided order.*
-
-I will also provide, on a regular basis, an **online Q&A session** (via Google meet, see link above), where you can ask questions, or raise issues that have come up while studying the material. My plan is to do this every (or every other) week. The dates can be found [here](#scheduled-qa-sessions).
 
 ## Slack channel
 
@@ -26,7 +18,7 @@ The slack channel `#medicalimaging` is on [`visel.slack.com`](https://visel.slac
 
 ## Grading
 
-Grading is based on **one final exam** at the end of the course. This exam will also be held online and is an open-book type exam. Exam details will be available towards the end of the summer term (and will be announced here and by e-mail).
+Grading is based on **one final exam** at the end of the course. 
 
 ## Lecture material
 
