@@ -2,16 +2,11 @@
 
 ## News
 
-- The Google Meet link for **Q&A** sessions: [here](https://meet.google.com/dmx-eqme-jqa)
-- The VO will be held **fully online**
-
-## Scheduled Q&A sessions
-
-- **`03/07/2022`** (10:30am - *Vorbesprechung* VO/PS combined)
+- The PS begins on **Monday, March 7, 2022** at **10:30am**
 
 ## Organization
 
-Given the current COVID situation and according to the PLUS guidelines, teaching this course **fully online** seems to be the most reasonable variant.
+Given the current COVID + teaching guidelines (see [here](https://www.plus.ac.at/news/lehre-ab-maerz-2022/?pgrp=218&is_paged=0)), the PS will be held in person. 
 
 The PS is based on exercise sheets. Each question on an exercise sheet has an associated number of points. You can work together in groups of **three**. The group membership has to be fixed by the time the first exercise sheet is released. Please coordinate with your group colleagues and enter the group information into the spreadsheet [here](https://myfiles.sbg.ac.at/index.php/s/3mXePBWzY78Pc86). While the spreadsheet format should be pretty clear, here is an example of one group with three members:
 
