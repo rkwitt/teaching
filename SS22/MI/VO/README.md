@@ -44,4 +44,9 @@ git pull
 
 ### Lecture videos & Course notes
 
-coming soon!
+- Introduction + X-Ray imaging
+- Computed Tomography (CT)
+- Magnetic Resonance Tomography (MRT)
+- Ultrasound (US)
+- Image registration
+- Point cloud registration
