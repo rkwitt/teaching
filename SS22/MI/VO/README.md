@@ -6,14 +6,14 @@ This course covers the topic of **medical imaging**, in particular, different ki
 
 - The lecture begins on **Tue., March 1, 2022** at **8:45am** (not 8:30am)
 
-# Schedule
+## Schedule
 
 | **Date** | **Content** | **Notes** |
 |---|---|---|
 | 03/01/2022  | Introduction + X-Ray imaging (Part 1)   | none |    
 | 03/08/2022  | Introduction + X-Ray imaging (Part 2)   | none |    
-| 03/15/2022  |    | *cancelled* |    
-| 03/22/2022  | Computed Tomography (CT)   | none |    
+| 03/15/2022  |                                         | *cancelled* |    
+| 03/22/2022  | Computed Tomography (CT)                | none |    
 
 ## Organization
 
