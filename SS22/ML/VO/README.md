@@ -4,6 +4,14 @@
 
 - Lecture begins on **Monday, March 7, 2022** at **9am**
 
+## Schedule & Progress
+
+| **Date** | **Content** | **Notes** |
+|---|---|---|
+| 03/07/2022  | Introduction & Preliminaries        | none |    
+| 03/14/2022  |                                     | *cancelled* |    
+| 03/21/2022  | Formal model & PAC learning         | none |  
+
 ## Organization
 
 Given the current COVID + teaching guidelines (see [here](https://www.plus.ac.at/news/lehre-ab-maerz-2022/?pgrp=218&is_paged=0)), the lecture will be held in person. The course is structured as a series of lectures. For each lecture, I will provide *videos* that can be downloaded and watched whenever you prefer. Even though, the lecture is **in person**, students have access to these videos as supplementary material.
@@ -47,6 +55,10 @@ git pull
 - **Introduction & Preliminaries**     
   *Some motivation for what we will be talking about; Basics on measurable spaces, measures, measure spaces, measurable functions, probability spaces and random variables*    
   [Video](https://drive.google.com/file/d/1Al2rAMxerJfhejVU0iUeHZ_0LCVqTpCm/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Kmfia-0ZcIPgnGclkP7aq-4Si3365FoL/view?usp=sharing)
+
+- **Formal model & PAC learning**     
+  *Introduction to our formal model for learning, generalization error, empirical error, inductive bias & hypothesis classes, realizability assumption, learnability of finite hypothesis classes, PAC learning*  
+  [Video (Part A)](https://drive.google.com/file/d/1PG_tPQkOZI04j8UOZxqFx2nGL_0ewgyR/view?usp=sharing), [Video (Part B)](https://drive.google.com/file/d/1CC6eaf0OWwttTl-g5e4b6wMPpKC6e7jG/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Y-KdREhZyqSpMteT85ILMDQS3439sa48/view?usp=sharing)
 
 ### Books (for reference)
 
