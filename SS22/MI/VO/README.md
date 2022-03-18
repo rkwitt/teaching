@@ -6,6 +6,15 @@ This course covers the topic of **medical imaging**, in particular, different ki
 
 - The lecture begins on **Tue., March 1, 2022** at **8:45am** (not 8:30am)
 
+# Schedule
+
+| **Date** | **Content** | **Notes** |
+|---|---|---|
+| 03/01/2022  | Introduction + X-Ray imaging (Part 1)   | none |    
+| 03/08/2022  | Introduction + X-Ray imaging (Part 2)   | none |    
+| 03/15/2022  |    | *cancelled* |    
+| 03/22/2022  | Computed Tomography (CT)   | none |    
+
 ## Organization
 
 Given the current COVID + teaching guidelines (see [here](https://www.plus.ac.at/news/lehre-ab-maerz-2022/?pgrp=218&is_paged=0)), the lecture will be held in person. The course is structured as a series of lectures. For each lecture, I will provide *videos* that can be downloaded and watched whenever you prefer. Even though, the lecture is **in person**, students have access to these videos as supplementary material. 
