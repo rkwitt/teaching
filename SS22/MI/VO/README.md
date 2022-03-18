@@ -55,4 +55,4 @@ git pull
 6. Image registration
 7. Point cloud registration
 
-*more to come*
+*More content to come during the summer term.*
