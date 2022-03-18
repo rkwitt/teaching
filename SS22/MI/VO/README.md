@@ -44,6 +44,8 @@ git pull
 
 ### Lecture videos & Course notes
 
+*Some of the lecture videos are with an introductory slide that says "Imaging Beyond Consumer Cameras" - These were my recordings for the medical imaging content as part of the 2021 version of this lecture of 2021*.
+
 1. [Introduction + X-Ray imaging](slides_00.pdf)
    - [Video (Part A)](https://drive.google.com/file/d/1tbshutYN82MGSRGIc_oTfQmTEhdRzvMY/view?usp=sharing)
    - [Video (Part B)](https://drive.google.com/file/d/1EaqUbw3yzgWDx6td6spF_Yy345AhPrmE/view?usp=sharing)
