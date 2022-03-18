@@ -6,7 +6,7 @@ This course covers the topic of **medical imaging**, in particular, different ki
 
 - The lecture begins on **Tue., March 1, 2022** at **8:45am** (not 8:30am)
 
-## Schedule
+## Schedule & Progress
 
 | **Date** | **Content** | **Notes** |
 |---|---|---|
