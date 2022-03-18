@@ -9,7 +9,7 @@
 | **Date** | **Content** | **Notes** |
 |---|---|---|
 | 03/07/2022  | Organization of the PS         | none |    
-| 03/14/2022  |                                | *skipped* |    
+| 03/14/2022  |                                | *cancelled* |    
 | 03/21/2022  | Overview of *Exercise sheet A* | none |
 
 ## Organization
