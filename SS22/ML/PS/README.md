@@ -40,6 +40,6 @@ Grading is based on the number of points you collect for the exercise sheets.
 
 | | **Points** | **Link** | **Deadline** |
 |---|---|---|---|
-| Exercise sheet A  | **16**   | [here](exA) | *03/27/2022 (11:59pm)* |    
+| Exercise sheet A  | **16**   | [here](exA.pdf) | *03/27/2022 (11:59pm)* |    
 
 Total points possible: **tba**
