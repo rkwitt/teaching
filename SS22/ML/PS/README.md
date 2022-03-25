@@ -2,6 +2,7 @@
 
 ## News
 
+- Upload links for *Exercise sheet A* have been sent out
 - The PS begins on **Monday, March 7, 2022** at **10:30am**
 
 ## Schedule & Progress
@@ -11,6 +12,7 @@
 | 03/07/2022  | Organization of the PS         | none |    
 | 03/14/2022  |                                | *cancelled* |    
 | 03/21/2022  | Overview of *Exercise sheet A* | none |
+| 03/28/2022  | Q&A for *Exercise sheet A* | none |
 
 ## Organization
 
@@ -40,6 +42,6 @@ Grading is based on the number of points you collect for the exercise sheets.
 
 | | **Points** | **Link** | **Deadline** |
 |---|---|---|---|
-| Exercise sheet A  | **16**   | [here](exA.pdf) | *03/27/2022 (11:59pm)* |    
+| Exercise sheet A  | **16**   | [here](exA.pdf) | *04/03/2022 (11:59pm)* |    
 
 Total points possible: **tba**
