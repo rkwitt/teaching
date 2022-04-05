@@ -63,6 +63,8 @@ git pull
    - [Video (Part B)](https://drive.google.com/file/d/1EaqUbw3yzgWDx6td6spF_Yy345AhPrmE/view?usp=sharing)
 3. [Computed Tomography (CT)](slides_01.pdf), [Abdomen CT example](https://drive.google.com/file/d/1rcwC8tboTBbrA6eKxqQ-XtStcIg16ceZ/view?usp=sharing), [Algebraic Reconstruction Techniques (Karczmarz method)](AlgebraicReconstruction.pdf)
    - [Video](https://drive.google.com/file/d/1lJfCLhR3HesKAO21lH4pwan3ATiVRmTb/view?usp=sharing)
+   - Supplementary material:
+      -
 5. Magnetic Resonance Tomography (MRT)
 6. Ultrasound (US)
 7. Image registration
