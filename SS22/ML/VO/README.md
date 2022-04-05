@@ -63,6 +63,10 @@ git pull
 - **Formal model & PAC learning**     
   *Introduction to our formal model for learning, generalization error, empirical error, inductive bias & hypothesis classes, realizability assumption, learnability of finite hypothesis classes, PAC learning*  
   [Video (Part A)](https://drive.google.com/file/d/1PG_tPQkOZI04j8UOZxqFx2nGL_0ewgyR/view?usp=sharing), [Video (Part B)](https://drive.google.com/file/d/1CC6eaf0OWwttTl-g5e4b6wMPpKC6e7jG/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Y-KdREhZyqSpMteT85ILMDQS3439sa48/view?usp=sharing)
+  
+- **Preliminaries (continued)**    
+  *Lebesgue integration, Expected value, Markov inequality*    
+  [Video](https://drive.google.com/file/d/1fMgQeX3juT_TEEQ4YFVlUVOIYjjzFexa/view?usp=sharing), [Notes](https://drive.google.com/file/d/1rvVyYzTf___HPKbshQGfChJW_1m4qyiq/view?usp=sharing)   
 
 ### Books (for reference)
 
