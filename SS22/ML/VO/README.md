@@ -12,7 +12,7 @@
 | 03/14/2022  |                                     | *cancelled* |    
 | 03/21/2022  | Formal model & PAC learning (Part 1)| none |  
 | 03/28/2022  | Formal model & PAC learning (Part 2)| none |  
-| 04/04/2022  | Lebesque integration, Expected values, Markov inequality | none |  
+| 04/04/2022  | Lebesque integration, Expected value, Markov inequality | none |  
 
 
 
