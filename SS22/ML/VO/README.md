@@ -10,7 +10,11 @@
 |---|---|---|
 | 03/07/2022  | Introduction & Preliminaries        | none |    
 | 03/14/2022  |                                     | *cancelled* |    
-| 03/21/2022  | Formal model & PAC learning         | none |  
+| 03/21/2022  | Formal model & PAC learning (Part 1)| none |  
+| 03/28/2022  | Formal model & PAC learning (Part 2)| none |  
+| 04/04/2022  | Lebesque integration, Expected values, Markov inequality | none |  
+
+
 
 ## Organization
 
