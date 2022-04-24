@@ -13,6 +13,8 @@
 | 03/14/2022  |                                | *cancelled* |    
 | 03/21/2022  | Overview of *Exercise sheet A* | none |
 | 03/28/2022  | Q&A for *Exercise sheet A* | none |
+| 04/04/2022  | Discussion of solution(s) to *Exercise sheet A* | none |
+| 04/25/2022  | Q&A for *Exercise sheet B* | none |
 
 ## Organization
 
