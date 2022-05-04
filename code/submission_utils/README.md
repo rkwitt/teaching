@@ -122,6 +122,15 @@ python send.py \
 
 Adjust the `--subject` argument accordingly. As `students_ml_summer_21_exA.p` contains all the relevant student information and link details, this allows to create automatic emails per student, notifying the student about his/her upload link.
 
+### Update (May 2022)
+
+Due to the technical inability of the university email service, I have switched to send my automatic 
+upload/review links for students via GMAIL (using OAuth2 authentication). A useful resource to setup
+GMAIL appropriately can be found [here](https://chozinthet20602.medium.com/sending-email-with-python-using-gmail-api-33628e36306a). 
+The functionality of the script above remains the same, only that there is a `--credential_file` cmdline argument now, which
+accepts the JSON credentials created (and downloaded) via the Google API.
+
+
 ## Setting upload folder permissions to READ_ONLY
 
 Use 
