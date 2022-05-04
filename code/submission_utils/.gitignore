@@ -3,3 +3,5 @@ myfiles_config.json
 test_*.csv
 __pycache__
 Testing.ipynb
+credentials.json
+token.json

@@ -74,8 +74,8 @@ def main(argv):
                 v['link']),
             to_recipients=[Mailbox(email_address=v['email'])]
         )
-        #print(m)
-        m.send_and_save()
+        print(m)
+        #m.send_and_save()
         
 
 if __name__ == '__main__':
