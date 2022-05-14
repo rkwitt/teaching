@@ -73,8 +73,8 @@ git pull
    - [Video (Part B)](https://drive.google.com/open?id=1nEFHnnrK6r4HpAs4QfW_WCq4QqkJ5jwV)
    - [Notes from SS2020 with annotated slides](https://drive.google.com/file/d/1_W4APX5DKWPVopO2CO2LO1guFF3BdYhr/view?usp=sharing)
    - [Notes from SS2022](NMR-Notes-2022.pdf)
-6. Ultrasound (US)
-7. Image registration
-8. Point cloud registration
+6. Image registration
+7. Point cloud registration
+8. Ultrasound (US)
 
 *More content to come during the summer term.*
