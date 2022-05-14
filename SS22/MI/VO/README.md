@@ -10,13 +10,16 @@ This course covers the topic of **medical imaging**, in particular, different ki
 
 | **Date** | **Content** | **Notes** |
 |---|---|---|
-| 03/01/2022  | Introduction + X-Ray imaging (Part 1)   | none |    
-| 03/08/2022  | Introduction + X-Ray imaging (Part 2)   | none |    
-| 03/15/2022  |                                         | *cancelled* |    
-| 03/22/2022  | Computed Tomography (CT, Part 1)        | none |    
-| 03/29/2022  | Computed Tomography (CT, Part 2)        | none |    
+| 03/01/2022  | Introduction + X-Ray imaging (Part 1)     | none |    
+| 03/08/2022  | Introduction + X-Ray imaging (Part 2)     | none |    
+| 03/15/2022  |                                           | *cancelled* |    
+| 03/22/2022  | Computed Tomography (CT, Part 1)          | none |    
+| 03/29/2022  | Computed Tomography (CT, Part 2)          | none |    
 | 04/05/2022  | Magnetic Resonance Imaging (MRI, Part 1)  | none |    
-
+| 04/26/2022  | Magnetic Resonance Imaging (MRI, Part 2)  | none |    
+| 05/03/2022  |                                           | *cancelled* |    
+| 05/10/2022  | Magnetic Resonance Imaging (MRI, Part 3)  | none |    
+| 05/17/2022  | Image Registration                        | none |    
 
 ## Organization
 
