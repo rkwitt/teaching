@@ -2,6 +2,7 @@
 
 ## News
 
+- Upload links for Exercise sheet B have been sent out
 - Upload links for Exercise sheet A have been sent out
 - The PS begins on **Tue., March 1, 2022** at **10:30am**
 
