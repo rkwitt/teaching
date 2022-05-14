@@ -71,7 +71,8 @@ git pull
 5. [Magnetic Resonance Imaging](slides_02.pdf)
    - [Video (Part A)](https://drive.google.com/open?id=17Jh6LC0JjfTmQUNO_N3zQa50h8QqjiSM)
    - [Video (Part B)](https://drive.google.com/open?id=1nEFHnnrK6r4HpAs4QfW_WCq4QqkJ5jwV)
-   - [Notes](https://drive.google.com/file/d/1_W4APX5DKWPVopO2CO2LO1guFF3BdYhr/view?usp=sharing)
+   - [Notes from SS2020 with annotated slides](https://drive.google.com/file/d/1_W4APX5DKWPVopO2CO2LO1guFF3BdYhr/view?usp=sharing)
+   - [Notes from SS2022](NMR-Notes-2022.pdf)
 6. Ultrasound (US)
 7. Image registration
 8. Point cloud registration
