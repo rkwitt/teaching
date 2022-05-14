@@ -17,7 +17,7 @@
 | 05/02/2022  |                                                         | *cancelled* |  
 | 05/09/2022  | No-Free-Lunch (NFL, Part 1)                             | none |
 | 05/16/2022  | No-Free-Lunch (NFL, Part 2) + VC Dimension (Part 1)     | none |
-| 05/23/2022  | VC Dimension (Part 2)                                   | none |
+| 05/23/2022  |                                    | none |
 | 05/30/2022  |                                    | none |
 | 06/13/2022  |                                    | none |
 | 06/20/2022  |                                    | none |
