@@ -13,8 +13,10 @@
 | 03/21/2022  | Formal model & PAC learning (Part 1)| none |  
 | 03/28/2022  | Formal model & PAC learning (Part 2)| none |  
 | 04/04/2022  | Lebesque integration, Expected value, Markov inequality | none |  
-
-
+| 04/25/2022  | Agnostic PAC learning + Uniform Convergence             | none |  
+| 05/02/2022  |                                                         | *cancelled* |  
+| 05/09/2022  | No-Free-Lunch (NFL, Part 1)                             | none |
+| 04/16/2022  | No-Free-Lunch (NFL, Part 2) + VC Dimension (Part 1)     | none |
 
 ## Organization
 
