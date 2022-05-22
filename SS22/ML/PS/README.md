@@ -6,17 +6,6 @@
 - Upload links for *Exercise sheet A* have been sent out
 - The PS begins on **Monday, March 7, 2022** at **10:30am**
 
-## Schedule & Progress
-
-| **Date** | **Content** | **Notes** |
-|---|---|---|
-| 03/07/2022  | Organization of the PS         | none |    
-| 03/14/2022  |                                | *cancelled* |    
-| 03/21/2022  | Overview of *Exercise sheet A* | none |
-| 03/28/2022  | Q&A for *Exercise sheet A* | none |
-| 04/04/2022  | Discussion of solution(s) to *Exercise sheet A* | none |
-| 04/25/2022  | Overview of *Exercise sheet B* | none |
-
 ## Organization
 
 Given the current COVID + teaching guidelines (see [here](https://www.plus.ac.at/news/lehre-ab-maerz-2022/?pgrp=218&is_paged=0)), the PS will be held in person. 
