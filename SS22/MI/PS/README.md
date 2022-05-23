@@ -32,6 +32,7 @@ Grading is based on the number of points you collect for the exercise sheets.
 |---|---|---|---|
 | Exercise sheet A  | **21**    | [here](exA.pdf) | *April 3, 2022 (11:59pm)* |    
 | Exercise sheet B  | **10**    | [here](exB.pdf), [code](resources/ExB) | *May 20, 2022 (11:59pm)* |    
+| Exercise sheet C  | **14**    | [here](exC.pdf), [code](resources/ExC) | *June 5, 2022 (11:59pm)* |    
 
 
 Total possible points: **tba**
