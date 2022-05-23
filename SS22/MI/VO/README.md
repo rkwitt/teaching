@@ -19,7 +19,9 @@ This course covers the topic of **medical imaging**, in particular, different ki
 | 04/26/2022  | Magnetic Resonance Imaging (MRI, Part 2)  | none |    
 | 05/03/2022  |                                           | *cancelled* |    
 | 05/10/2022  | Magnetic Resonance Imaging (MRI, Part 3)  | none |    
-| 05/17/2022  | Image Registration                        | none |    
+| 05/17/2022  | Image Registration  (Part I)              | none |    
+| 05/24/2022  | Image Registration  (Part 2)              | none |    
+
 
 ## Organization
 
