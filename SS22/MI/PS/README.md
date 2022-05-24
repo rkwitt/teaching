@@ -18,7 +18,7 @@ At the time of the deadline, these links will be deactivated. Note that the link
 
 ## Slack channel
 
-The slack channel `#ibcc` is on [`visel.slack.com`](https://visel.slack.com). It should be possible to sign up with your
+The slack channel `#medicalimaging` is on [`visel.slack.com`](https://visel.slack.com). It should be possible to sign up with your
 offical University of Salzburg e-mail address ending in
 `@sbg.ac.at` (`@cosy.sbg.ac.at` and `@stud.sbg.ac.at` work as well).
 
