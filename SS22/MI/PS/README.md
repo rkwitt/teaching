@@ -37,4 +37,4 @@ Grading is based on the number of points you collect for the exercise sheets.
 | Exercise sheet D  | **14**    | [here](resources/ExD) | *July 3, 2022 (11:59pm)* |    
 
 
-Total possible points: **tba**
+Total possible points: **59**
