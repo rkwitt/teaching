@@ -47,31 +47,31 @@ git pull
 
 - **Introduction & Preliminaries**     
   *Some motivation for what we will be talking about; Basics on measurable spaces, measures, measure spaces, measurable functions, probability spaces and random variables*    
-  [Video](https://drive.google.com/file/d/1Al2rAMxerJfhejVU0iUeHZ_0LCVqTpCm/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Kmfia-0ZcIPgnGclkP7aq-4Si3365FoL/view?usp=sharing)
+  [Video](https://drive.google.com/file/d/1Al2rAMxerJfhejVU0iUeHZ_0LCVqTpCm/view?usp=sharing), [Notes 2021](https://drive.google.com/file/d/1Kmfia-0ZcIPgnGclkP7aq-4Si3365FoL/view?usp=sharing)
 
 - **Formal model & PAC learning**     
   *Introduction to our formal model for learning, generalization error, empirical error, inductive bias & hypothesis classes, realizability assumption, learnability of finite hypothesis classes, PAC learning*  
-  [Video (Part A)](https://drive.google.com/file/d/1PG_tPQkOZI04j8UOZxqFx2nGL_0ewgyR/view?usp=sharing), [Video (Part B)](https://drive.google.com/file/d/1CC6eaf0OWwttTl-g5e4b6wMPpKC6e7jG/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Y-KdREhZyqSpMteT85ILMDQS3439sa48/view?usp=sharing)
+  [Video (Part A)](https://drive.google.com/file/d/1PG_tPQkOZI04j8UOZxqFx2nGL_0ewgyR/view?usp=sharing), [Video (Part B)](https://drive.google.com/file/d/1CC6eaf0OWwttTl-g5e4b6wMPpKC6e7jG/view?usp=sharing), [Notes 2021](https://drive.google.com/file/d/1Y-KdREhZyqSpMteT85ILMDQS3439sa48/view?usp=sharing)
   
 - **Preliminaries (continued)**    
   *Lebesgue integration, Expected value, Markov inequality*    
-  [Video](https://drive.google.com/file/d/1fMgQeX3juT_TEEQ4YFVlUVOIYjjzFexa/view?usp=sharing), [Notes](https://drive.google.com/file/d/1rvVyYzTf___HPKbshQGfChJW_1m4qyiq/view?usp=sharing)   
+  [Video](https://drive.google.com/file/d/1fMgQeX3juT_TEEQ4YFVlUVOIYjjzFexa/view?usp=sharing), [Notes 2021](https://drive.google.com/file/d/1rvVyYzTf___HPKbshQGfChJW_1m4qyiq/view?usp=sharing)   
   
 - **Agnostic PAC learning & Uniform convergence**    
   *General loss functions, agnostic PAC learning, uniform convergence, agnostic PAC learnability of finite hypothesis classes*.   
    [Video](https://drive.google.com/file/d/13NjZKaOHqkAUrTLKQy7kQ_mphpntowrN/view?usp=sharing), [Notes](https://drive.google.com/file/d/14ONJqJy7mwqDTfcbQbT5R88WUWQ3_HG4/view?usp=sharing), [Errata](agnostic_pac_learning_and_uniform_convergence_ERRATA.pdf)
 
 - **No-Free-Lunch (NFL)**   
-  *Proof of one no free lunch theorem & Implications, Bias/Complexity tradeoff*     
-  [Notes 2022](NFL-Notes-2022.pdf )
+  *Proof of one no free lunch theorem & Implications, Bias/Complexity tradeoff*  
+  [Video](https://drive.google.com/file/d/1BrJMIWwNK14qxhIpkzQsQa_5-PfmSZIP/view?usp=sharing), [Notes 2021](https://drive.google.com/file/d/1e2ARtpIRRg-N5BmtuY-XsYr7dIC45Pd9/view?usp=sharing), [Notes 2022](NFL-Notes-2022.pdf )
 
 - **VC Dimension**     
   *Shattering, VC Dimension, Fundamental theorem of statistical learning*      
-  [Video (Part A)](https://drive.google.com/file/d/1OPQXGnligzh7Hn2lHj9OAqaWc-1mu70G/view?usp=sharing),  [Video (Part B)](https://drive.google.com/file/d/17_3NWAladZ2FrN-Hbh_csygp9cOAXggz/view?usp=sharing), [Video (Part C)](https://drive.google.com/file/d/1ipD9__HP_SdGcL1QYHo-R_dOga4ISImP/view?usp=sharing), [Video (Part D)](https://drive.google.com/file/d/17vOf-NBEEaOnHTFSeAB97HQX36uSbQyW/view?usp=sharing), [Notes](https://drive.google.com/file/d/1Y07aHDuEshBiOnxeBMPQ9aDlvAAk7uSS/view?usp=sharing), [Notes 2022](VCDimension-Notes-2022.pdf)
+  [Video (Part A)](https://drive.google.com/file/d/1OPQXGnligzh7Hn2lHj9OAqaWc-1mu70G/view?usp=sharing),  [Video (Part B)](https://drive.google.com/file/d/17_3NWAladZ2FrN-Hbh_csygp9cOAXggz/view?usp=sharing), [Video (Part C)](https://drive.google.com/file/d/1ipD9__HP_SdGcL1QYHo-R_dOga4ISImP/view?usp=sharing), [Video (Part D)](https://drive.google.com/file/d/17vOf-NBEEaOnHTFSeAB97HQX36uSbQyW/view?usp=sharing), [Notes 2021](https://drive.google.com/file/d/1Y07aHDuEshBiOnxeBMPQ9aDlvAAk7uSS/view?usp=sharing), [Notes 2022](VCDimension-Notes-2022.pdf)
 
 - **Linear predictors**     
   *Halfspace classifiers (+ Logistic regression; not covered 2022)*     
-  [Video (Part A)](https://drive.google.com/file/d/1eEooRqc5sv0Q6-E0A6cdqpb7-PHox0rw/view?usp=sharing), [Video (Part B)](https://drive.google.com/file/d/12bgBHBWVeu-Px9GIbJxOERyf-aipGjVC/view?usp=sharing), [Notes](https://drive.google.com/file/d/1jcC0iSLsFYvfRMecGWjs2Xh6hBBEiHrA/view?usp=sharing), [Notes 2022](LinearPredictors-Notes.pdf)
+  [Video (Part A)](https://drive.google.com/file/d/1eEooRqc5sv0Q6-E0A6cdqpb7-PHox0rw/view?usp=sharing), [Video (Part B)](https://drive.google.com/file/d/12bgBHBWVeu-Px9GIbJxOERyf-aipGjVC/view?usp=sharing), [Notes 2021](https://drive.google.com/file/d/1jcC0iSLsFYvfRMecGWjs2Xh6hBBEiHrA/view?usp=sharing), [Notes 2022](LinearPredictors-Notes.pdf)
 
 - **Boosting**
   *AdaBoost*
