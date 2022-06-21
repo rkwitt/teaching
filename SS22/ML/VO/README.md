@@ -2,29 +2,8 @@
 
 ## News
 
+- **Exam (1st): July 13, 2022 at 9:30am** (place will be announced in PLUS Online)
 - Lecture begins on **Monday, March 7, 2022** at **9am**
-
-## Schedule & Progress
-
-| **Date** | **Content** | **Notes** |
-|---|---|---|
-| 03/07/2022  | Introduction & Preliminaries        | none |    
-| 03/14/2022  |                                     | *cancelled* |    
-| 03/21/2022  | Formal model & PAC learning (Part 1)| none |  
-| 03/28/2022  | Formal model & PAC learning (Part 2)| none |  
-| 04/04/2022  | Lebesque integration, Expected values, Markov inequality, etc. | none |  
-| 04/25/2022  | Agnostic PAC learning + Uniform Convergence             | none |  
-| 05/02/2022  |                                                         | *cancelled* |  
-| 05/09/2022  | No-Free-Lunch (NFL, Part 1)                             | none |
-| 05/16/2022  | No-Free-Lunch (NFL, Part 2) + VC Dimension (Part 1)     | none |
-| 05/23/2022  |                                    | none |
-| 05/30/2022  |                                    | none |
-| 06/13/2022  |                                    | none |
-| 06/20/2022  |                                    | none |
-| 06/27/2022  |                                    | none |
-
-
-
 
 ## Organization
 
@@ -83,7 +62,16 @@ git pull
    [Video](https://drive.google.com/file/d/13NjZKaOHqkAUrTLKQy7kQ_mphpntowrN/view?usp=sharing), [Notes](https://drive.google.com/file/d/14ONJqJy7mwqDTfcbQbT5R88WUWQ3_HG4/view?usp=sharing), [Errata](agnostic_pac_learning_and_uniform_convergence_ERRATA.pdf)
 
 - **No-Free-Lunch (NFL)**   
-  *Proof of one no free lunch theorem & Implications, Bias/Complexity tradeoff*  
+  *Proof of one no free lunch theorem & Implications, Bias/Complexity tradeoff*     
+  [Notes 2022](NFL-Notes-2022.pdf )
+
+- **VC Dimension**     
+  *Shattering, VC Dimension, Fundamental theorem of statistical learning*      
+  [Notes 2022](VCDimension-Notes-2022.pdf)
+
+- **Linear predictors**     
+  *Halfspace classifiers*     
+  [Notes 2022](LinearPredictors-Notes.pdf)
 
 
 ### Books (for reference)

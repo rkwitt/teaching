@@ -2,6 +2,7 @@
 
 ## News
 
+- Upload links for *Exercise sheet D* have been sent out
 - Upload links for *Exercise sheet C* have been sent out
 - Upload links for *Exercise sheet B* have been sent out
 - Upload links for *Exercise sheet A* have been sent out
@@ -38,6 +39,6 @@ Grading is based on the number of points you collect for the exercise sheets.
 | Exercise sheet A  | **16**   | [here](exA.pdf) | *April 3, 2022 (11:59pm)* | 
 | Exercise sheet B  | **10**   | [here](exB.pdf) | *May 8, 2022 (11:59pm)* | 
 | Exercise sheet C  | **11**   | [here](exC.pdf) | *June 3, 2022 (11:59pm)* | 
+| Exercise sheet D  | **12**   | [here](exD.pdf) | *July 3, 2022 (11:59pm)* | 
 
-
-Total points possible: **tba**
+Total points possible: **49**
