@@ -64,4 +64,4 @@ git pull
    - [Video (Part B)](https://drive.google.com/open?id=1yWjXx46InZYM5KoyNl7PSlVHGIfuguRc)
    - [Mutal Information (Jupyter notebook)](MutalInformation.ipynb)
    - [Notes from SS2022](ICP-LeastSquares-Notes-2022.pdf)
-7. [Point cloud registration]((slides_07.pdf))
+7. [Point cloud registration](slides_07.pdf)
