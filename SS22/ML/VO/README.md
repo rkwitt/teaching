@@ -45,7 +45,7 @@ git pull
 
 ### Lecture videos & Course notes
 
-*For reference, below you find videos (for most parts) of the material covered in the lecture. Some videos are from earlier years. In addition, you can also find my notes during the lecture (including the ones from earlier years). On some topics my notes for 2022 differ to the 2021 notes, as I have left out some parts. Relevant to the exam is obviously only the material covered in the summer term 2022* 
+*For reference, below you find videos (for most parts) of the material covered in the lecture. Some videos are from earlier years. In addition, you can also find my notes during the lecture (including the ones from earlier years). On some topics, my notes for 2022 differ to the 2021 notes, as I have left out some parts. Relevant to the exam is obviously only the material covered in the summer term 2022.* 
 
 
 - **Introduction & Preliminaries**     
