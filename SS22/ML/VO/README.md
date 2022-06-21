@@ -45,6 +45,9 @@ git pull
 
 ### Lecture videos & Course notes
 
+*For reference, below you find videos (for most parts) of the material covered in the lecture. Some videos are from earlier years. In addition, you can also find my notes during the lecture (including the ones from earlier years). On some topics my notes for 2022 differ to the 2021 notes, as I have left out some parts. Relevant to the exam is obviously only the material covered in the summer term 2022* 
+
+
 - **Introduction & Preliminaries**     
   *Some motivation for what we will be talking about; Basics on measurable spaces, measures, measure spaces, measurable functions, probability spaces and random variables*    
   [Video](https://drive.google.com/file/d/1Al2rAMxerJfhejVU0iUeHZ_0LCVqTpCm/view?usp=sharing), [Notes 2021](https://drive.google.com/file/d/1Kmfia-0ZcIPgnGclkP7aq-4Si3365FoL/view?usp=sharing)
@@ -59,7 +62,7 @@ git pull
   
 - **Agnostic PAC learning & Uniform convergence**    
   *General loss functions, agnostic PAC learning, uniform convergence, agnostic PAC learnability of finite hypothesis classes*.   
-   [Video](https://drive.google.com/file/d/13NjZKaOHqkAUrTLKQy7kQ_mphpntowrN/view?usp=sharing), [Notes](https://drive.google.com/file/d/14ONJqJy7mwqDTfcbQbT5R88WUWQ3_HG4/view?usp=sharing), [Errata](agnostic_pac_learning_and_uniform_convergence_ERRATA.pdf)
+   [Video](https://drive.google.com/file/d/13NjZKaOHqkAUrTLKQy7kQ_mphpntowrN/view?usp=sharing), [Notes 2021](https://drive.google.com/file/d/14ONJqJy7mwqDTfcbQbT5R88WUWQ3_HG4/view?usp=sharing), [Errata](agnostic_pac_learning_and_uniform_convergence_ERRATA.pdf)
 
 - **No-Free-Lunch (NFL)**   
   *Proof of one no free lunch theorem & Implications, Bias/Complexity tradeoff*  
