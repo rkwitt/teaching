@@ -4,24 +4,8 @@ This course covers the topic of **medical imaging**, in particular, different ki
 
 ## News
 
+- **Exam date (1st): July 20, 2022 at 10am** (place will be announced in PLUS Online)
 - The lecture begins on **Tue., March 1, 2022** at **8:45am** (not 8:30am)
-
-## Schedule & Progress
-
-| **Date** | **Content** | **Notes** |
-|---|---|---|
-| 03/01/2022  | Introduction + X-Ray imaging (Part 1)     | none |    
-| 03/08/2022  | Introduction + X-Ray imaging (Part 2)     | none |    
-| 03/15/2022  |                                           | *cancelled* |    
-| 03/22/2022  | Computed Tomography (CT, Part 1)          | none |    
-| 03/29/2022  | Computed Tomography (CT, Part 2)          | none |    
-| 04/05/2022  | Magnetic Resonance Imaging (MRI, Part 1)  | none |    
-| 04/26/2022  | Magnetic Resonance Imaging (MRI, Part 2)  | none |    
-| 05/03/2022  |                                           | *cancelled* |    
-| 05/10/2022  | Magnetic Resonance Imaging (MRI, Part 3)  | none |    
-| 05/17/2022  | Image Registration  (Part I)              | none |    
-| 05/24/2022  | Image Registration  (Part 2)              | none |    
-
 
 ## Organization
 
@@ -75,8 +59,9 @@ git pull
    - [Video (Part B)](https://drive.google.com/open?id=1nEFHnnrK6r4HpAs4QfW_WCq4QqkJ5jwV)
    - [Notes from SS2020 with annotated slides](https://drive.google.com/file/d/1_W4APX5DKWPVopO2CO2LO1guFF3BdYhr/view?usp=sharing)
    - [Notes from SS2022](NMR-Notes-2022.pdf)
-6. Image registration
-7. Point cloud registration
-8. Ultrasound (US)
-
-*More content to come during the summer term.*
+6. [Image Registration](slides_03.pdf) 
+   - [Video (Part A)](https://drive.google.com/open?id=1FHrAUVwD-PWkhh89gHg3QoVwQAw_IidS)
+   - [Video (Part B)](https://drive.google.com/open?id=1yWjXx46InZYM5KoyNl7PSlVHGIfuguRc)
+   - [Mutal Information (Jupyter notebook)](MutalInformation.ipynb)
+   - [Notes from SS2022](ICP-LeastSquares-Notes-2022.pdf)
+7. [Point cloud registration]((slides_07.pdf))

@@ -2,6 +2,9 @@
 
 ## News
 
+**Exam date (1st): July 20, 10am** (place will be announced in PLUS Online)
+
+- Upload links for Exercise sheet D have been sent out
 - Upload links for Exercise sheet C have been sent out
 - Upload links for Exercise sheet B have been sent out
 - Upload links for Exercise sheet A have been sent out
