@@ -2,7 +2,7 @@
 
 ## News
 
-- **Exam (1st): July 13, 2022 at 9:30am** (place will be announced in PLUS Online)
+- **Exam (1st): July 13, 2022 at 9:30am** (room **T03**, see PLUS Online) - this is a *regular exam*, not an *open-book* one
 - Lecture begins on **Monday, March 7, 2022** at **9am**
 
 ## Organization
