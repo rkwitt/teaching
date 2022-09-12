@@ -5,8 +5,9 @@ For some courses, the teaching language is German, for some it's English. This i
 
 # Winter Term 2022/2023
 
-- Computer Vision
-- AI Eingangswerkstatt
+- [Computer Vision](WS2223/CV)
+- [AI Eingangswerkstatt (VO)](WS2223/AI/VO)
+- [Seminar Multimediatechnologien](WS2223/SEMT/)
 
 # Summer Term 2022
 
