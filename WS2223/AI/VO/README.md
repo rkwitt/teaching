@@ -15,14 +15,14 @@ Die Vorlesung *AI Eingangswerstatt* führt Studierende in das Studium (Aufbau, A
 
 ## Benotung 
 
-Schriftliche Prüfung am Ende des Semesters.
+**Schriftliche Prüfung** am Ende des Semesters.
 
 ## Unterlagen (Folien)
 
 Als Lehrveranstaltungsunterlagen dienen die Folien (werden am Beginn der LV hier zur Verfügung gestellt). Im Laufe der VO kann es sein, dass ich die Folien aktualisiere. 
 Ich werde den unten stehenden Link immer mit einem Datum versehen, sodass es klar ist um welche Version der Folien es sich handelt. Bitte nutzen Sie als Vorbereitung auf die Prüfung die **aktuellste** Version der Folien.
 
-- [Folien (ver-03-10-22)]()
+- [Folien (ver-03-10-22)](folien-03-10-22.pdf)
 
 ## Literatur
 
