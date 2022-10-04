@@ -2,7 +2,7 @@
 
 ## News / Important dates
 
-- Begin of lecture: **Oct. 65, 2022 at 8:30am*
+- Begin of lecture: **Oct. 5, 2022 at 8:30am*
 - **Location**: T03 (Itzling, Jakob-Haringer Str. 2, FB AIHI/Informatik) 
 
 ## General
