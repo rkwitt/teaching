@@ -67,6 +67,12 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
   - [Video (Part 2)](https://drive.google.com/file/d/1-qzcMGRZnym5GjZwwGhrBzjSvOHekzzY/view?usp=sharing)
 - [**Data Handling**](../material/01.2_DataHandling )
 
+**Core content**
+
+- [**The perceptron**](../material/02_Perceptron)
+  - [Video (Part 1)](https://drive.google.com/file/d/1z3PJJaW_FxzoTsYQyR6xTftVaN3DW045/view?usp=sharing)
+  - [Video (Part 2)](https://drive.google.com/file/d/1jU7X9v7JSoi8zGucxe8TifPkAy5enrnd/view?usp=sharing)
+
 ## Data
 
 - [Ants/Bees data](https://drive.google.com/open?id=1izFo-gdrxvDy1klIlu-_RZn3JNTaeogg)
