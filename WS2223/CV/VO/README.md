@@ -76,6 +76,9 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - [**Automatic differentiation**](../material/03_AutomaticDifferentiation)     
   - [Video](https://drive.google.com/file/d/1P5kKkUzqerHbEb0nuZe1yO-pMyD_hDJ_/view?usp=sharing)
 
+- [**Gradient-based optimization**](../material/04_GradientBasedOptimization)
+  - [Video](https://drive.google.com/file/d/1RUbrmzDjAknsRxOOs8Jys46ixkEntAOi/view?usp=sharing)
+
 ## Data
 
 - [Ants/Bees data](https://drive.google.com/open?id=1izFo-gdrxvDy1klIlu-_RZn3JNTaeogg)
