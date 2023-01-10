@@ -79,6 +79,24 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 - [**Gradient-based optimization**](../material/04_GradientBasedOptimization)
   - [Video](https://drive.google.com/file/d/1RUbrmzDjAknsRxOOs8Jys46ixkEntAOi/view?usp=sharing)
 
+- [**Multilayer perceptrons (MLPs)**](../material/05_MLP)
+  - [Video](https://drive.google.com/file/d/1qALepmfgofUzwCdaVQzQRQatDBEwi9np/view?usp=sharing) 
+
+- [**Stochastic gradient descent (SGD) & Variants**](../material/06_SGD)  
+  - [Video (Part 1)](https://drive.google.com/file/d/1YxDUYllFihSSR5Vv--P_GSu72C1W45Xq/view?usp=sharing)     
+  - [Video (Part 2)](https://drive.google.com/file/d/1ZFP6rooRv1GiSnTOaCaL-8SqvKFgkQGu/view?usp=sharing)     
+
+- [**Convolution(s)**](../material/07_ConvNets)
+  - [Video](https://drive.google.com/file/d/1zW5U1WqEGmd2y_eM_lKwawVtrAih18r3/view?usp=sharing)    
+
+- [**Cross-Entropy**](../material/08_CrossEntropy)    
+  - [Video](https://drive.google.com/file/d/1zZzOoI9cNbc0MX1AqZwerHAmExTL8-6j/view?usp=sharing)    
+
+- [**Residual learning (ResNets)**](../material/09_ResidualLearning)
+  - [Video](https://drive.google.com/file/d/1YfK8Ng_SnrfHWMXM55KpMqo6FY_Xwhue/view?usp=sharing)
+
+
+
 ## Data
 
 - [Ants/Bees data](https://drive.google.com/open?id=1izFo-gdrxvDy1klIlu-_RZn3JNTaeogg)
