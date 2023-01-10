@@ -3,6 +3,12 @@ As of winter term 2017/2018, all the teaching material for the courses that I te
 
 For some courses, the teaching language is German, for some it's English. This is also reflected in the material, so do not expect consistency.
 
+# Summer Term 2023
+
+- Machine Learning / Statistical Learning Theory
+- Medical Imaging
+- Datenbanken 1 (PS)
+
 # Winter Term 2022/2023
 
 - [Computer Vision](WS2223/CV)
