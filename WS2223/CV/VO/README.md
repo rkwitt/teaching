@@ -62,40 +62,25 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 
 **Technical preliminaries**
 
-- [**Tensor basics**](../material/01.1_TensorBasics)
-  - [Video (Part 1)](https://drive.google.com/file/d/1LX3ChT5pHeVYeKDE4FKXAoOzObo7SsN0/view?usp=sharing)
-  - [Video (Part 2)](https://drive.google.com/file/d/1-qzcMGRZnym5GjZwwGhrBzjSvOHekzzY/view?usp=sharing)
+- [**Tensor basics**](../material/01.1_TensorBasics), [Video (Part 1)](https://drive.google.com/file/d/1LX3ChT5pHeVYeKDE4FKXAoOzObo7SsN0/view?usp=sharing), [Video (Part 2)](https://drive.google.com/file/d/1-qzcMGRZnym5GjZwwGhrBzjSvOHekzzY/view?usp=sharing)
 - [**Data Handling**](../material/01.2_DataHandling )
 
 **Core content**
 
-- [**The perceptron**](../material/02_Perceptron)
-  - [Video (Part 1)](https://drive.google.com/file/d/1z3PJJaW_FxzoTsYQyR6xTftVaN3DW045/view?usp=sharing)
-  - [Video (Part 2)](https://drive.google.com/file/d/1jU7X9v7JSoi8zGucxe8TifPkAy5enrnd/view?usp=sharing)
+- [**The perceptron**](../material/02_Perceptron), [Video (Part 1)](https://drive.google.com/file/d/1z3PJJaW_FxzoTsYQyR6xTftVaN3DW045/view?usp=sharing), [Video (Part 2)](https://drive.google.com/file/d/1jU7X9v7JSoi8zGucxe8TifPkAy5enrnd/view?usp=sharing)
+- [**Automatic differentiation**](../material/03_AutomaticDifferentiation), [Video](https://drive.google.com/file/d/1P5kKkUzqerHbEb0nuZe1yO-pMyD_hDJ_/view?usp=sharing)
 
-- [**Automatic differentiation**](../material/03_AutomaticDifferentiation)     
-  - [Video](https://drive.google.com/file/d/1P5kKkUzqerHbEb0nuZe1yO-pMyD_hDJ_/view?usp=sharing)
+- [**Gradient-based optimization**](../material/04_GradientBasedOptimization), [Video](https://drive.google.com/file/d/1RUbrmzDjAknsRxOOs8Jys46ixkEntAOi/view?usp=sharing)
 
-- [**Gradient-based optimization**](../material/04_GradientBasedOptimization)
-  - [Video](https://drive.google.com/file/d/1RUbrmzDjAknsRxOOs8Jys46ixkEntAOi/view?usp=sharing)
+- [**Multilayer perceptrons (MLPs)**](../material/05_MLP), [Video](https://drive.google.com/file/d/1qALepmfgofUzwCdaVQzQRQatDBEwi9np/view?usp=sharing) 
 
-- [**Multilayer perceptrons (MLPs)**](../material/05_MLP)
-  - [Video](https://drive.google.com/file/d/1qALepmfgofUzwCdaVQzQRQatDBEwi9np/view?usp=sharing) 
+- [**Stochastic gradient descent (SGD) & Variants**](../material/06_SGD), [Video (Part 1)](https://drive.google.com/file/d/1YxDUYllFihSSR5Vv--P_GSu72C1W45Xq/view?usp=sharing), [Video (Part 2)](https://drive.google.com/file/d/1ZFP6rooRv1GiSnTOaCaL-8SqvKFgkQGu/view?usp=sharing)     
 
-- [**Stochastic gradient descent (SGD) & Variants**](../material/06_SGD)  
-  - [Video (Part 1)](https://drive.google.com/file/d/1YxDUYllFihSSR5Vv--P_GSu72C1W45Xq/view?usp=sharing)     
-  - [Video (Part 2)](https://drive.google.com/file/d/1ZFP6rooRv1GiSnTOaCaL-8SqvKFgkQGu/view?usp=sharing)     
+- [**Convolution(s)**](../material/07_ConvNets), [Video](https://drive.google.com/file/d/1zW5U1WqEGmd2y_eM_lKwawVtrAih18r3/view?usp=sharing)    
 
-- [**Convolution(s)**](../material/07_ConvNets)
-  - [Video](https://drive.google.com/file/d/1zW5U1WqEGmd2y_eM_lKwawVtrAih18r3/view?usp=sharing)    
+- [**Cross-Entropy**](../material/08_CrossEntropy), [Video](https://drive.google.com/file/d/1zZzOoI9cNbc0MX1AqZwerHAmExTL8-6j/view?usp=sharing)    
 
-- [**Cross-Entropy**](../material/08_CrossEntropy)    
-  - [Video](https://drive.google.com/file/d/1zZzOoI9cNbc0MX1AqZwerHAmExTL8-6j/view?usp=sharing)    
-
-- [**Residual learning (ResNets)**](../material/09_ResidualLearning)
-  - [Video](https://drive.google.com/file/d/1YfK8Ng_SnrfHWMXM55KpMqo6FY_Xwhue/view?usp=sharing)
-
-
+- [**Residual learning (ResNets)**](../material/09_ResidualLearning), [Video](https://drive.google.com/file/d/1YfK8Ng_SnrfHWMXM55KpMqo6FY_Xwhue/view?usp=sharing)
 
 ## Data
 
