@@ -2,6 +2,7 @@
 
 ## Neuigkeiten
 
+- Voraussichtliches Prüfungsdatum (1.ter Termin): **Freitag, 3.2.2023, 10:00*
 - Beginn der Lehrveranstaltung: **Montag, 3.10.222, 9:00**
 - **Ort** der Lehrveranstaltung: Rechnerübungsraum (in Itzling, Jakob-Haringer Str. 2, FB AIHI/Informatik)
 
@@ -16,6 +17,14 @@ Die Vorlesung *AI Eingangswerstatt* führt Studierende in das Studium (Aufbau, A
 ## Benotung 
 
 **Schriftliche Prüfung** am Ende des Semesters.
+
+### Prüfungsstoff (Studierende BA Informatik)
+
+wird in der Woche vom 16-20.1.2023 (online) bekanntgegeben.
+
+### Prüfungsstoff (Studierende BA Artificial Intelligence)
+
+wird in der Woche vom 16-20.1.2023 (online) bekanntgegeben.
 
 ## Unterlagen (Folien)
 
