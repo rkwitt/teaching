@@ -37,4 +37,4 @@ Ich werde den unten stehenden Link immer mit einem Datum versehen, sodass es kla
 
 ## Literatur
 
-Die empfohlene Literatur zur VO ist die englische Version des Klassikers *Artificial Intelligence: A Modern Approach (4th ed.)* von Stuart Russel und Peter Norvig.
+Die empfohlene Literatur zur VO ist die englische Version des Klassikers *Artificial Intelligence: A Modern Approach (4th ed.)* von Stuart Russel und Peter Norvig (RN).
