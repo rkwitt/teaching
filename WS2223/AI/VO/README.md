@@ -22,7 +22,9 @@ Die Vorlesung *AI Eingangswerstatt* führt Studierende in das Studium (Aufbau, A
 Als Lehrveranstaltungsunterlagen dienen die Folien (werden am Beginn der LV hier zur Verfügung gestellt). Im Laufe der VO kann es sein, dass ich die Folien aktualisiere. 
 Ich werde den unten stehenden Link immer mit einem Datum versehen, sodass es klar ist um welche Version der Folien es sich handelt. Bitte nutzen Sie als Vorbereitung auf die Prüfung die **aktuellste** Version der Folien.
 
-- [Folien (ver-04-12-22)](folien-04-12-22.pdf)
+- [Folien (ver-15-01-23)](folien-15-01-23.pdf)
+- [RN (Kapitel3)](RN_Ch3.pdf)
+- [RN (Kapitel4)](RN_Ch4.pdf)
 
 ## Literatur
 
