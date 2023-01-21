@@ -20,11 +20,13 @@ Die Vorlesung *AI Eingangswerstatt* führt Studierende in das Studium (Aufbau, A
 
 ### Prüfungsstoff (Studierende BA Informatik)
 
-wird in der Woche vom 16-20.1.2023 (online) bekanntgegeben.
+Inhalt der Folien zum Thema *Intelligente Agenten* (inklusive *Was ist eigentlich künstliche Intelligenz*). Zum Nachlesen finden Sie den 
+Inhalt in Kapitel 1 und 2 des Buches zur Vorlesung (die Kapitel sind unten verlinkt).
 
 ### Prüfungsstoff (Studierende BA Artificial Intelligence)
 
-wird in der Woche vom 16-20.1.2023 (online) bekanntgegeben.
+Inhalt der Folien (exklusive *Studienrecht* und *Organisatorische Struktur der PLUS*), 
+sowie der handschriftlichen Notizen zum Thema *Suche*. Zum Nachlesen finden Sie den Inhalt der Folien auch in den Kapiteln 2,3 und 4 im Buch zur Vorlesung (die Kapitel sind unten verlinkt).
 
 ## Unterlagen (Folien)
 
@@ -32,8 +34,11 @@ Als Lehrveranstaltungsunterlagen dienen die Folien (werden am Beginn der LV hier
 Ich werde den unten stehenden Link immer mit einem Datum versehen, sodass es klar ist um welche Version der Folien es sich handelt. Bitte nutzen Sie als Vorbereitung auf die Prüfung die **aktuellste** Version der Folien.
 
 - [Folien (ver-15-01-23)](folien-15-01-23.pdf)
-- [RN (Kapitel3)](RN_Ch3.pdf)
-- [RN (Kapitel4)](RN_Ch4.pdf)
+- [Notizen (zu Suche, wird nach der letzen VO noch aktualisiert)](Notizen.pdf)
+- [RN (Kapitel 1)](RN_Ch1.pdf)
+- [RN (Kapitel 2)](RN_Ch2.pdf)
+- [RN (Kapitel 3)](RN_Ch3.pdf)
+- [RN (Kapitel 4)](RN_Ch4.pdf)
 
 ## Literatur
 
