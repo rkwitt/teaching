@@ -82,6 +82,8 @@ papers (primarily in the `papers` sub-directory within each topic-folder).
 
 - [**Residual learning (ResNets)**](../material/09_ResidualLearning), [Video](https://drive.google.com/file/d/1YfK8Ng_SnrfHWMXM55KpMqo6FY_Xwhue/view?usp=sharing)
 
+- [**Model finetuning**](../material/10_Finetuning)
+
 ## Data
 
 - [Ants/Bees data](https://drive.google.com/open?id=1izFo-gdrxvDy1klIlu-_RZn3JNTaeogg)
