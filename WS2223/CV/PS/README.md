@@ -2,6 +2,7 @@
 
 ## News / Important dates
 
+- Deadline (report): **Feb. 19, 2023 (11:59pm)**
 - Please enter group memberships and paper titles [here](https://myfiles.sbg.ac.at/index.php/s/PzZkbNt92XxfBHQ) till Oct. 12, 2022
 - Begin of lecture: **Oct. 5, 2022 at 10:30am**
 - **Location**: T03 (Itzling, Jakob-Haringer Str. 2, FB AIHI/Informatik) 
