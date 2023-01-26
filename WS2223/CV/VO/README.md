@@ -2,8 +2,8 @@
 
 ## News / Important dates
 
-- Exam date: **Feb. 10, 2023 (9am)**
-- Begin of lecture: **Oct. 5, 2022 at 8:30am*
+- Exam date: **Feb. 10, 2023 (9am)** (bereits im PLUS Online eingetragen)
+- Begin of lecture: **Oct. 5, 2022 at 8:30am**
 - **Location**: T03 (Itzling, Jakob-Haringer Str. 2, FB AIHI/Informatik) 
 
 ## General
