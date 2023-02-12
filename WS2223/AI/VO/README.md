@@ -2,7 +2,7 @@
 
 ## Neuigkeiten
 
-- Voraussichtliches Prüfungsdatum (1.ter Termin): **Freitag, 13.2.2023, 11:00**
+- Voraussichtliches Prüfungsdatum (1.ter Termin): **Montag, 13.2.2023, 11:00 (T02)*
 - Beginn der Lehrveranstaltung: **Montag, 3.10.222, 9:00**
 - **Ort** der Lehrveranstaltung: Rechnerübungsraum (in Itzling, Jakob-Haringer Str. 2, FB AIHI/Informatik)
 
