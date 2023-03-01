@@ -6,9 +6,7 @@
 
 ## Organization
 
-The lecture will be held in person. In addition, I provide lecture videos from previous years, just in case you want to
-repeat certain parts of the material. However, the material developed throughout the course (2023) is the only relevant 
-resource for the exam.
+The lecture will be held in person. In addition, I provide lecture videos from previous years, just in case you want to re-watch certain parts of the material. However, the material developed throughout the course (2023) is the **only** relevant resource for the exam.
 
 *Remark: I do recommend that you watch the lecture videos in the provided order.*
 
@@ -42,13 +40,14 @@ and then *regularly* do a `git pull`:
 ```bash
 cd ~/rkwitt-teaching
 git pull
+cd SS23/ML
 ```
 
 This gives you a clone of the *full* teaching repository. The only part relevant to the course is within `SS23/ML`.
 
 ### Lecture videos & Course notes
 
-*For reference, you find videos (for most parts) of the material covered in the lecture below. The videos are from earlier years (as mentioned above). In addition, you can also find my notes during the lecture (including the ones from earlier years). On some topics, my notes (for this year) will differ to the earlier ones as I have left out parts or included new material. Relevant to the exam is obviously only the material covered in the summer term 2023.* 
+*For reference, you find videos (for most parts) of the material covered in the lecture below. The videos are from previous years (as mentioned above). In addition, you can also find my notes during the lecture (including the ones from earlier years). On some topics, my notes (for this year 2023) will differ to the notes from earlier years as I have left out parts or included new material. Relevant to the exam is obviously only the material covered in the summer term 2023.* 
 
 
 - **Introduction & Preliminaries**     
