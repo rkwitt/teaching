@@ -5,7 +5,7 @@ For some courses, the teaching language is German, for some it's English. This i
 
 # Summer Term 2023
 
-- Machine Learning / Statistical Learning Theory
+- [Machine Learning / Statistical Learning Theory](SS23/ML)
 - Medical Imaging
 - Datenbanken 1 (PS)
 
