@@ -7,7 +7,7 @@ For some courses, the teaching language is German, for some it's English. This i
 
 - [Machine Learning / Statistical Learning Theory](SS23/ML)
 - [Medical Imaging](SS23/MI)
-- [Datenbanken 1 (PS)][https://dbresearch.uni-salzburg.at/teaching/2023ss/db1/]
+- [Datenbanken 1 (PS)](https://dbresearch.uni-salzburg.at/teaching/2023ss/db1/)
 
 # Winter Term 2022/2023
 
