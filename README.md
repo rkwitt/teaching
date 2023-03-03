@@ -6,8 +6,8 @@ For some courses, the teaching language is German, for some it's English. This i
 # Summer Term 2023
 
 - [Machine Learning / Statistical Learning Theory](SS23/ML)
-- Medical Imaging
-- Datenbanken 1 (PS)
+- [Medical Imaging](SS23/MI)
+- Datenbanken 1 (PS)[https://dbresearch.uni-salzburg.at/teaching/2023ss/db1/]
 
 # Winter Term 2022/2023
 
