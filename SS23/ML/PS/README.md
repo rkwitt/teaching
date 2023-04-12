@@ -27,7 +27,7 @@ Grading is based on the number of points you collect for the exercise sheets.
 | | **Points** | **Link** | **Deadline** |
 |---|---|---|---|
 | Exercise sheet A  | 14   | [exA](exA.pdf) | 28.03.2023 | 
-| Exercise sheet B  | tba.   | tba. | tba. | 
+| Exercise sheet B  | 7    | [exB](exB.pdf) | 25.04.2023 | 
 | Exercise sheet C  | tba.   | tba. | tba. | 
 | Exercise sheet D  | tba.   | tba. | tba. | 
 | Exercise sheet E  | tba.   | tba. | tba. | 
