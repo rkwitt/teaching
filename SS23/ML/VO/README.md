@@ -49,6 +49,7 @@ This gives you a clone of the *full* teaching repository. The only part relevant
 
 *For reference, you find videos (for most parts) of the material covered in the lecture below. The videos are from previous years (as mentioned above). In addition, you can also find my notes during the lecture (including the ones from earlier years). On some topics, my notes (for this year 2023) will differ to the notes from earlier years as I have left out parts or included new material. Relevant to the exam is obviously only the material covered in the summer term 2023.* 
 
+[Notes](notes.pdf)
 
 - **Introduction & Preliminaries**     
   *Some motivation for what we will be talking about; Basics on measurable spaces, measures, measure spaces, measurable functions, probability spaces and random variables*    
