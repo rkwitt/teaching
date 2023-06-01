@@ -29,7 +29,7 @@ Grading is based on the number of points you collect for the exercise sheets.
 | Exercise sheet A  | 14   | [exA](exA.pdf) | 28.03.2023 | 
 | Exercise sheet B  | 7    | [exB](exB.pdf) | 25.04.2023 | 
 | Exercise sheet C  | 4    | [exC](exC.pdf) | 09.05.2023 | 
-| Exercise sheet D  | tba.   | tba. | tba. | 
+| Exercise sheet D  | 12   | [exD](exD.pdf) | 13.06.2023 | 
 | Exercise sheet E  | tba.   | tba. | tba. | 
 
 Maybe we will have more than those exercise sheets.
