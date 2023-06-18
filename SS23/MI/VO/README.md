@@ -55,7 +55,7 @@ git pull
    - [Algebraic Reconstruction Techniques (Karczmarz method)](AlgebraicReconstruction.pdf)
    - [Abdomen CT example](https://drive.google.com/file/d/1rcwC8tboTBbrA6eKxqQ-XtStcIg16ceZ/view?usp=sharing)
 
-3. [Magnetic Resonance Imaging](slides_02.pdf)
+3. [Magnetic Resonance Imaging (MRI)](slides_02.pdf)
    - [Video (Part A)](https://drive.google.com/open?id=17Jh6LC0JjfTmQUNO_N3zQa50h8QqjiSM)
    - [Video (Part B)](https://drive.google.com/open?id=1nEFHnnrK6r4HpAs4QfW_WCq4QqkJ5jwV)
    - [Notes](NMR_Physics_2023.pdf)
