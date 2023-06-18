@@ -59,6 +59,7 @@ git pull
    - [Video (Part A)](https://drive.google.com/open?id=17Jh6LC0JjfTmQUNO_N3zQa50h8QqjiSM)
    - [Video (Part B)](https://drive.google.com/open?id=1nEFHnnrK6r4HpAs4QfW_WCq4QqkJ5jwV)
    - [Notes](NMR_Physics_2023.pdf)
+   - [Bloch simulator](https://www.drcmr.dk/bloch)
 
 6. [Image Registration](slides_03.pdf) 
    - [Video (Part A)](https://drive.google.com/open?id=1FHrAUVwD-PWkhh89gHg3QoVwQAw_IidS)
