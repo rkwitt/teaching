@@ -6,8 +6,8 @@ For some courses, the teaching language is German, for some it's English. This i
 # Winter Term 2023/2024
 
 - [Machine Learning](WS2324/ML)
-- AI Eingangswerkstatt (VO)
-- Computer Vision
+- [AI Eingangswerkstatt (VO)](WS2324/AI/)
+- [Computer Vision](WS2324/CV/)
 
 # Summer Term 2023
 
