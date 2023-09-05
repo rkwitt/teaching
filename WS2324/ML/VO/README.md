@@ -1,5 +1,9 @@
 # Machine Learning (VO)
 
+**Lehrveranstaltungsleiter**: Univ-Prof. Dr. Roland Kwitt    
+**Kontakt**: am Besten per *E-Mail* unter `roland [dot] kwitt [at] plus [dot] ac [dot] at`
+
+
 ## News
 
 - Vorlesungsbeginn: **Montag, 2.Oktober 2023** um **14:00** (Hörsaal T01, Jakob-Haringer Str. 2)
