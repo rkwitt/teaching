@@ -7,7 +7,7 @@
 
 ## General
 
-*Many of the lectures are available as pre-recorded videos, from earlier years. You can watch them anytime, but note that part of the material might not exactly match the material presented in the 2023/2024 lecture*.
+*Many of the lectures are available as pre-recorded videos, from earlier (COVID)years. You can watch them anytime, but note that part of the material might not exactly match the material presented in the 2023/2024 lecture* and there will be additional content this year.
 
 ## Slack
 
