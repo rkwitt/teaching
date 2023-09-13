@@ -81,11 +81,9 @@ Below is a more detailed list of topics covered in the course, subject to change
 
 - [**Model finetuning**](../material/10_Finetuning)
 
-- (Variational) Auto-Encoders
+- [**Vision Transformers (ViT) and Attention**](../material/11_ViT)
 
-- Vision Transformers (ViT) and Attention
-
-- Segmentation & Object detection
+- [**(Variational) Auto-Encoders (VAEs)**](../material/12_VAE)
 
 ## Data
 
