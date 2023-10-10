@@ -7,15 +7,22 @@
 
 ## Grading
 
-At the beginning of the PS, you will get a selection of influential (recent) research papers from which you can choose one. Work through the paper, implement it (or large parts of it, based on publicly-available reference implementation(s)), and experiment with the approach - try to reproduce some (or all) experiments of the paper, or be creative and think about new, alternative things you can test. Working on toy examples, e.g., using synthetic data is fine. Then write up a summary of the paper, explain the key ideas and document your results and findings. This report should not be more than 8 pages (excluding references). Grading will be based on the quality of the handed-in report (including the documented source code). You can also base your code off of some pre-existing code (e.g., from GitHub), but make sure you understand what's going on - otherwise, it will be very hard to do any serious experiments with it. 
+This year (2023), all groups will work on the same research paper (see below). Our goal is **not** to implement everything from scratch, but to use a publicly-available reference implementation (see link below) and to make yourself familiar with the key ideas. At a minimum, you should be able to finetune (we will cover that in the lecture) a pre-trained ConvNeXt model on your dataset (e.g., CIFAR10). It is essential that you understand the key ideas of the paper and how these are realized in the reference implementation (which relies on PyTorch). Otherwise, it will be hard to play around with different hyperparameters, or to disable certain parts of the model to understand the effects, etc. *In our PS sessions, I will help you understand the paper as well as the implementation*. The whole idea is to replicate an actual practical situation, where you are given a dataset and task (in our case classification) and you want to use a state-of-the-art model for the task. 
+
+Eventually, you will write a report (max. 8 pages, excluding references, see template below) which summarizes the key aspects of the paper, and which documents your results and findings. Feel free to also point out parts of the work where, e.g., the descriptions in the paper differ from the implementation, or descriptions are unclear. 
 
 **Note**: you can work together in groups of max. size **three**. Please enter your group members (and paper title) in this Excel spreadsheet [here](https://myfiles.sbg.ac.at/index.php/s/PzZkbNt92XxfBHQ) by Oct. 11, 2023.
 
 *Each week, during the PS, I will meet with 2 groups (for 30 minutes each) and offer in-person support, explanations, etc. for the project.*
 
-### Selection of research papers
+### Research paper
 
-will be announced at the beginning of the PS.
+This year, **all** groups will work on the same paper: 
+
+Liu et al.    
+**A ConvNet for the 2020s**    
+CVPR 2022     
+[Official repository](https://github.com/facebookresearch/ConvNeXt)
 
 ### LaTeX template
 
