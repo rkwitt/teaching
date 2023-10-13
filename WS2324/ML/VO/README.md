@@ -58,21 +58,21 @@ Online verfügbar [hier](https://hastie.su.domains/Papers/ESLII.pdf)
 Zur Vorbereitung auf die jeweils nächste Vorlesungseinheit, bitte ich Sie 
 die nachfolgenden Kapitel (od. Teile dieser Kapitel, je nach Angabe) in den jeweiligen Büchern zu lesen.
 
-|  Termin | Kapitel  | Buch |
-|---|---|---|
-| 02.10.2023  |  - | - |
-| 09.10.2023  |   | |
-| 16.10.2023  |   | |
-| 23.10.2023  |   | |
-| 30.10.2023  |   | |
-| 06.11.2023  |   | |
-| 13.11.2023  |   | |
-| 20.11.2023  |   | |
-| 27.11.2023  |   | |
-| 04.12.2023  |   | |
-| 11.12.2023  |   | |
-| 18.12.2023  |   | |
-| 08.01.2024  |   | |
-| 15.01.2024  |   | |
-| 22.01.2024  |   | |
-| 29.01.2024  |   | |
+|  Termin | Kapitel  | Buch | Notizen |
+|---|---|---|---|
+| 02.10.2023  |  - | - | - |
+| 09.10.2023  |  Kapitel 1  | PML22a | |
+| 16.10.2023  |  Kapitel 9, 10 | PML22a | |
+| 23.10.2023  |   | | |
+| 30.10.2023  |   | | |
+| 06.11.2023  |   | | |
+| 13.11.2023  |   | | |
+| 20.11.2023  |   | | |
+| 27.11.2023  |   | | |
+| 04.12.2023  |   | | |
+| 11.12.2023  |   | | |
+| 18.12.2023  |   | | |
+| 08.01.2024  |   | | |
+| 15.01.2024  |   | | |
+| 22.01.2024  |   | | |
+| 29.01.2024  |   | | |
