@@ -1,4 +1,4 @@
-# Machine Learning (UE)
+# Machine Learning (PS)
 
 **Lehrveranstaltungsleiter**: Dr. Florian Graf  
 **Kontakt**: `florian [dot] graf [at] plus [dot] ac [dot] at`
@@ -17,7 +17,7 @@
 ## Übungsblätter
 Die Übungsaufgaben sind in **einzeln** zu bearbeiten und (sofern nicht anders vermerkt) in der darauffolgenden Woche **zu Beginn der Vorlesung** abzugeben (Montag 14:00). Alternativ ist eine Abgabe per E-Mail möglich.
 
-- Blatt 1 (erscheint Di. 17. Oktober)
+- [Blatt 1](Material/blatt1.pdf) (Abgabe Mo. 23. Oktober, 14:00 Uhr)
 
 ## Bewertung
 
