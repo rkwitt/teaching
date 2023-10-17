@@ -24,6 +24,11 @@ Liu et al.
 CVPR 2022     
 [Official repository](https://github.com/facebookresearch/ConvNeXt)
 
+
+### Group schedule
+
+- Oct. 17 - Groups **1** and **2**
+
 ### LaTeX template
 
 For your report use the [NeurIPS 22 LaTex template](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles).
