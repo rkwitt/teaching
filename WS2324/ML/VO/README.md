@@ -6,7 +6,8 @@
 
 ## News
 
-- Vorlesungsbeginn: **Montag, 2.Oktober 2023** um **14:00** (Hörsaal T01, Jakob-Haringer Str. 2)
+- Wir beginnen die VO offiziell um **14:15**
+- Vorlesungsbeginn: **Montag, 2.Oktober 2023** um **14:15** (Hörsaal T01, Jakob-Haringer Str. 2)
 - Bitte die VO nicht mit *Statistical Learning Theory** verwechseln (diese war früher aus historischen Gründen auch als *Machine Learning* benannt).
 
 ## Organisatorisches
