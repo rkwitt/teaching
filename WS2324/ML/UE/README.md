@@ -6,6 +6,7 @@
 
 ## News
 
+- Die Bewertung von Blatt 1 wurde angepasst. Es gibt nun 25 Punkte (6+10+9), davon sind 15 Bonus.
 - Erster Termin ist **Mittwoch, 18. Oktober 2023**.
 
 ## Organisatorisches
