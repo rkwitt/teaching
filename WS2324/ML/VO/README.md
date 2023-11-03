@@ -66,7 +66,7 @@ Weiters finden Sie [hier](https://drive.google.com/file/d/1Xj_4w2fgzvKFLAFQ7Ikdo
 | 09.10.2023  |  Kapitel 1  | PML22a | |
 | 16.10.2023  |  Kapitel 9  | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) 16-10-23.pdf|
 | 23.10.2023  |  Kapitel 2  | PML22a | |
-| 30.10.2023  |  Kapitel 9  | PML22a | Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  30-10-23.pdf|
+| 30.10.2023  |  Kapitel 9  | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  30-10-23.pdf|
 | 06.11.2023  |  Kapitel 10 | PML22a | |
 | 13.11.2023  |   | | |
 | 20.11.2023  |   | | |
