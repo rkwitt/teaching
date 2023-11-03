@@ -58,15 +58,16 @@ Online verfügbar [hier](https://hastie.su.domains/Papers/ESLII.pdf)
 
 Zur Vorbereitung auf die jeweils nächste Vorlesungseinheit, bitte ich Sie 
 die nachfolgenden Kapitel (od. Teile dieser Kapitel, je nach Angabe) in den jeweiligen Büchern zu lesen. Nach der Vorlesung stehen Ihnen meine Notizen als PDF zur Verfügung. 
+Weiters finden Sie [hier](https://drive.google.com/file/d/1Xj_4w2fgzvKFLAFQ7IkdoJQwkhe7Ocyz/view?usp=drive_link) das PDF zu PML22a wobei jene Teile die wir durchgenommen haben (in den jeweiligen Kapiteln) grün markiert sind (andere sind rot).
 
 |  Termin | Kapitel  | Buch | Notizen |
 |---|---|---|---|
 | 02.10.2023  |  - | - | - |
-| 09.10.2023  |  Kapitel 1  | PML22a |  |
+| 09.10.2023  |  Kapitel 1  | PML22a | |
 | 16.10.2023  |  Kapitel 9  | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) 16-10-23.pdf|
-| 23.10.2023  |   | | |
-| 30.10.2023  |   | | |
-| 06.11.2023  |   | | |
+| 23.10.2023  |  Kapitel 2  | PML22a | |
+| 30.10.2023  |  Kapitel 9  | PML22a | Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  30-10-23.pdf|
+| 06.11.2023  |  Kapitel 10 | PML22a | |
 | 13.11.2023  |   | | |
 | 20.11.2023  |   | | |
 | 27.11.2023  |   | | |
