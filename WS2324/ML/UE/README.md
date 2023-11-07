@@ -19,11 +19,12 @@
 Die Übungsaufgaben sind in **Dreiergruppen** zu bearbeiten und (sofern nicht anders vermerkt) in der darauffolgenden Woche **zu Beginn der Vorlesung** abzugeben (Montag 14:00). Alternativ ist eine Abgabe per E-Mail möglich.
 
 - [Blatt 1](Material/blatt1.pdf) (Abgabe Mo. 23. Oktober, 14:00 Uhr)
-- [Blatt 2](Material/blatt2.pdf) (Abgabe Mo. 30. Oktober, 14:00 Uhr)
+- [Blatt 2](Material/blatt2.pdf), [Lösung](Material/loesung2.pdf) (Abgabe Mo. 30. Oktober, 14:00 Uhr)
 - [Blatt 3](Material/blatt3.pdf) (Abgabe Mo.  6. November, 14:00 Uhr)
+- [Blatt 4](Material/blatt4.pdf) (Abgabe Mo.  13. November, 14:00 Uhr)
+
 
 ## Bewertung
-
 - Die abgegebenen Übungsblätter werden kontrolliert und bewertet (Punkte).
 - Die Endnote wird anhand der über das Semester erreichten Punktzahl berechnet.
 - Für das Bestehen der Lehrveranstaltung sind folgende Bedingungen zu erfüllen:
