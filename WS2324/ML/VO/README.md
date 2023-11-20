@@ -68,9 +68,9 @@ Weiters finden Sie [hier](https://drive.google.com/file/d/1Xj_4w2fgzvKFLAFQ7Ikdo
 | 23.10.2023  |  Kapitel 2  | PML22a | |
 | 30.10.2023  |  Kapitel 9  | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  30-10-23.pdf|
 | 06.11.2023  |  Kapitel 10 | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  6-11-23.pdf |
-| 13.11.2023  |  Kapitel 10  | | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  13-11-23.pdf| 
-| 20.11.2023  |  Kapitel 11  | | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  20-11-23.pdf| 
-| 27.11.2023  |   | | |
+| 13.11.2023  |  Kapitel 10  | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  13-11-23.pdf| 
+| 20.11.2023  |  Kapitel 11  | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  20-11-23.pdf| 
+| 27.11.2023  |    | | |
 | 04.12.2023  |   | | |
 | 11.12.2023  |   | | |
 | 18.12.2023  |   | | |
