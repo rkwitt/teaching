@@ -24,6 +24,7 @@ Die Übungsaufgaben sind in **Dreiergruppen** zu bearbeiten und (sofern nicht an
 - [Blatt 3](Material/blatt3.pdf) (Abgabe Mo.  6. November, 14:00 Uhr)
 - [Blatt 4](Material/blatt4.pdf) (Abgabe Mo.  13. November, 14:00 Uhr)
 - [Blatt 5](Material/blatt5.pdf) (Abgabe **Mo.  27. November**, 14:00 Uhr)
+- [Blatt 6](Material/blatt6.pdf) (Abgabe Mo. 4. Dezember, 14:00 Uhr)
 
 
 ## Bewertung
