@@ -6,6 +6,7 @@
 
 ## News
 
+- Die Übung am 11. Dezember fällt aus.
 - **Die Übung am 22. November fällt aus.** Die Abgabefrist für Blatt 5 wird bis zum 27. November verlängert. Blatt 6 erscheint am 27. November.
 - Die Bewertung von Blatt 1 wurde angepasst. Es gibt nun 25 Punkte (6+10+9), davon sind 15 Bonus.
 - Erster Termin ist **Mittwoch, 18. Oktober 2023**.
@@ -25,6 +26,7 @@ Die Übungsaufgaben sind in **Dreiergruppen** zu bearbeiten und (sofern nicht an
 - [Blatt 4](Material/blatt4.pdf) (Abgabe Mo.  13. November, 14:00 Uhr)
 - [Blatt 5](Material/blatt5.pdf) (Abgabe **Mo.  27. November**, 14:00 Uhr)
 - [Blatt 6](Material/blatt6.pdf) (Abgabe Mo. 4. Dezember, 14:00 Uhr)
+- [Blatt 7](Material/blatt7.pdf) (Abgabe Mo. 8. Dezember, 14:00 Uhr)
 
 
 ## Bewertung
