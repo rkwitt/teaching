@@ -19,17 +19,18 @@ Die Vorlesung *AI Eingangswerstatt* führt Studierende in das Studium (Aufbau, A
 
 ### Prüfungsstoff (Studierende BA Informatik)
 
-Wird gegen Ende des Semesters bekannt gegeben.
+Inhalt der Folien, siehe [hier](folien.pdf)
 
 ### Prüfungsstoff (Studierende BA Artificial Intelligence)
 
-Wird gegen Ende des Semesters bekannt gegeben.
+Inhalt der Folien, siehe [hier](folien.pdf), sowie der handschriftlichen Notizen, siehe [hier](Mitschrift.pdf)
 
 ## Unterlagen (Folien)
 
 Als Lehrveranstaltungsunterlagen dienen die Folien (werden am Beginn der LV hier zur Verfügung gestellt). Im Laufe der VO kann es sein, dass ich die Folien aktualisiere. 
 Ich werde den unten stehenden Link immer mit einem Datum versehen, sodass es klar ist um welche Version der Folien es sich handelt. Bitte nutzen Sie als Vorbereitung auf die Prüfung die **aktuellste** Version der Folien.
 
+- [Mitschrift (Stand: 12.01.2024)](Mitschrift.pdf)
 - [Folien (Stand: 2.10.23)](folien.pdf)
 - [RN (Kapitel 1)](RN_Ch1.pdf)
 - [RN (Kapitel 2)](RN_Ch2.pdf)
