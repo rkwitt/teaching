@@ -2,6 +2,7 @@
 
 ## Neuigkeiten
 
+- 1. Prüfungstermin (für Studierende BA Informatik): 12.01.2024 (9am, T01)
 - Beginn der Lehrveranstaltung: **Dienstag, 3.10.2023, 8:30 (T01)**
 - **Ort** der Lehrveranstaltung: T01 (in Itzling, Jakob-Haringer Str. 2, FB AIHI/Informatik)
 
