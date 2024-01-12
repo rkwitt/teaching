@@ -3,7 +3,7 @@ As of winter term 2017/2018, all the teaching material for the courses that I te
 
 For some courses, the teaching language is German, for some it's English. This is also reflected in the material, so do not expect consistency.
 
-# Summer Term 2023
+# Summer Term 2024
 
 - Machine Learning / Statistical Learning Theory
 
