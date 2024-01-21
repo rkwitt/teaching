@@ -8,7 +8,7 @@
 
 - Wir beginnen die VO offiziell um **14:15**
 - Vorlesungsbeginn: **Montag, 2.Oktober 2023** um **14:15** (Hörsaal T01, Jakob-Haringer Str. 2)
-- Bitte die VO nicht mit *Statistical Learning Theory** verwechseln (diese war früher aus historischen Gründen auch als *Machine Learning* benannt).
+- Bitte die VO nicht mit *Statistical Learning Theory* verwechseln (diese war aus historischen Gründen auch als *Machine Learning* benannt).
 
 ## Organisatorisches
 
@@ -58,23 +58,84 @@ Online verfügbar [hier](https://hastie.su.domains/Papers/ESLII.pdf)
 
 Zur Vorbereitung auf die jeweils nächste Vorlesungseinheit, bitte ich Sie 
 die nachfolgenden Kapitel (od. Teile dieser Kapitel, je nach Angabe) in den jeweiligen Büchern zu lesen. Nach der Vorlesung stehen Ihnen meine Notizen als PDF zur Verfügung. 
-Weiters finden Sie [hier](https://drive.google.com/file/d/1Xj_4w2fgzvKFLAFQ7IkdoJQwkhe7Ocyz/view?usp=drive_link) das PDF zu PML22a wobei jene Teile die wir durchgenommen haben (in den jeweiligen Kapiteln) grün markiert sind (andere sind rot).
+Weiters finden Sie [hier](https://drive.google.com/file/d/1Xj_4w2fgzvKFLAFQ7IkdoJQwkhe7Ocyz/view?usp=drive_link) das PDF zu PML22a. In den unten stehenden Zusammenfassungen der LV Einheiten finden Sie gegen Ende des Semesters Links zu den jeweiligen Kapiteln, wobei die durchgenommenen Inhalte farblich markiert sind (zur Vorbereitung auf die Klausur).
 
-|  Termin | Kapitel  | Buch | Notizen |
-|---|---|---|---|
-| 02.10.2023  |  ausgefallen | - | - |
-| 09.10.2023  |  Kapitel 1  | PML22a | - |
-| 16.10.2023  |  Kapitel 9  | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 16-10-23.pdf|
-| 23.10.2023  |  Kapitel 2  | PML22a | - |
-| 30.10.2023  |  Kapitel 9  | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 30-10-23.pdf|
-| 06.11.2023  |  Kapitel 10 | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 6-11-23.pdf |
-| 13.11.2023  |  Kapitel 10 | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 13-11-23.pdf| 
-| 20.11.2023  |  Kapitel 11 | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 20-11-23.pdf| 
-| 27.11.2023  |  | | |
-| 04.12.2023  |  | | |
-| 11.12.2023  | ausgefallen  | | |
-| 18.12.2023  |  Kapitel 13  | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 18-12-23.pdf |
-| 08.01.2024  |  Kapitel 13 + Kapitel 18 | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 08-01-23.pdf |
-| 15.01.2024  |  Kapitel 13 + Kapitel 18 | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 08-01-23.pdf |
-| 22.01.2024  |  | | |
-| 29.01.2024  |  | | |
+### 02-10-2023
+
+ausgefallen
+
+### 09-10-2023
+- **Kapitel 1** in PML22a     
+    - *Inhalt*: Einführung; siehe markierte Teile [hier]()
+    - *Notizen*: keine
+
+### 16-10-2023
+- **Kapitel 9** in PML22a     
+    - *Inhalte*: Linear Discriminant Analysis ([PML22a, 9.1 & 9.2])     
+    - *Details*: siehe markierte Teile im [Kapitel 9]()
+    - *Notizen*: [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 16-10-23.pdf
+
+### 23-10-2023
+- **Kapitel 2** in PML22a     
+    - *Inhalte*: Wiederholung von Grundlagen
+    - *Notizen*: keine
+
+### 30-10-2023
+- **Kapitel 10** in PML22a     
+    - *Inhalte*: Naive Bayes ([PML22a, 9.3, 9.4], Logistic Regression ([PML22a, 10.1, 10.2])
+    - *Details*: siehe markierte Teile im [Kapitel 10]() 
+    - *Notizen*: [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 30-10-23.pdf
+
+### 06-11-2023
+- **Kapitel 10** in PML22a     
+    - *Inhalte*: Einschub zu Perceptron (), Logistic Regression ([PML22a, 10.2]) 
+    - *Details*: siehe markierte Teile im [Kapitel 10]() 
+    - *Notizen*: [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 06-11-23.pdf
+
+### 13-11-2023
+- **Kapitel 10,11** in PML22a     
+    - *Inhalte*: Multinomial Logistic Regression ([PML22a, 10.3]), Linear Regression ([PML22a, 11.1, 11.2]),
+    - *Details*: siehe markierte Teile im [Kapitel 11]()
+    - *Notizen*: [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 13-11-23.pdf
+
+### 20-11-2023	
+- **Kapitel 11** in	PML22a
+    - *Inhalte*:  LogSumExp Trick ([PML22a, 2.5.4]), Einschub zu MAP Schätzer ([PML22a, 4.5]) und Beispiele zu MAP Schätzern aus vorherigen Kapiteln (speziell Linear Regression)
+    - *Details*: siehe markierte Teile im [Kapitel 10]() und [Kapitel 11]()
+    - *Notizen*: [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 13-11-23.pdf 
+
+### 27-11-2023	
+
+ausgefallen
+
+### 04-12-2023
+- **Kapitel 11** in	PML22a
+    - *Inhalte*:  Beispiele zu MAP Schätzern, Ridge Regression ([PML22a, 11.3]), Lasso ([PML22a, 11.4]), Neural Networks ([PML22a, 13.1])
+    - *Details*: siehe markierte Teile im [Kapitel 11]() und [Kapitel 13]()
+
+### 11.12.2023
+ausgefallen
+
+### 18.12.2023
+
+- **Kapitel 13** in	PML22a
+    - *Inhalte*: Backpropagation ([PML22a, 13.3])
+    - *Details*: siehe markierte Teile im [Kapitel 13]() 
+    - *Notizen*: [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 18-12-23.pdf 
+
+### 08-01-2024
+
+- **Kapitel 13, Kapitel 18** in	PML22a
+    - *Inhalte*:  Training neural networks ([PML22a, 13.4]), Classification and Regression Trees ([PML22a, 18.1])
+    - *Details*: siehe markierte Teile im [Kapitel 13]() und [Kapitel 18]() und  
+    - *Notizen*: [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 08-01-23.pdf 
+
+### 15-01-2024
+
+- **Kapitel 18** in	PML22a
+    - *Inhalte*: Ensemble Learning ([PML22a, 18.2]), Boosting ([PML22a, 18.5]) 
+    - *Details*: siehe markierte Teile im [Kapitel 18]() 
+    - *Notizen*: [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 08-01-23.pdf 
+
+
+### 22-01-2024
