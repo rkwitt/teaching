@@ -74,7 +74,7 @@ Weiters finden Sie [hier](https://drive.google.com/file/d/1Xj_4w2fgzvKFLAFQ7Ikdo
 | 04.12.2023  |  | | |
 | 11.12.2023  | ausgefallen  | | |
 | 18.12.2023  |  Kapitel 13  | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 18-12-23.pdf |
-| 08.01.2024  |  Kapitel 13 + Kapitel 18 | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 08-01-23.pdf |
-| 15.01.2024  |  Kapitel 13 + Kapitel 18 | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 08-01-23.pdf |
+| 08.01.2024  |  Kapitel 13 + Kapitel 18 | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 08-01-23.pdf |
+| 15.01.2024  |  Kapitel 13 + Kapitel 18 | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 08-01-23.pdf |
 | 22.01.2024  |  | | |
 | 29.01.2024  |  | | |
