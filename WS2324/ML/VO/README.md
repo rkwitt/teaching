@@ -62,19 +62,19 @@ Weiters finden Sie [hier](https://drive.google.com/file/d/1Xj_4w2fgzvKFLAFQ7Ikdo
 
 |  Termin | Kapitel  | Buch | Notizen |
 |---|---|---|---|
-| 02.10.2023  |  - | - | - |
+| 02.10.2023  |  ausgefallen | - | - |
 | 09.10.2023  |  Kapitel 1  | PML22a | - |
-| 16.10.2023  |  Kapitel 9  | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) 16-10-23.pdf|
+| 16.10.2023  |  Kapitel 9  | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 16-10-23.pdf|
 | 23.10.2023  |  Kapitel 2  | PML22a | - |
-| 30.10.2023  |  Kapitel 9  | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  30-10-23.pdf|
-| 06.11.2023  |  Kapitel 10 | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  6-11-23.pdf |
-| 13.11.2023  |  Kapitel 10  | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  13-11-23.pdf| 
-| 20.11.2023  |  Kapitel 11  | PML22a | [Link](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing)  20-11-23.pdf| 
-| 27.11.2023  |    | | |
-| 04.12.2023  |   | | |
-| 11.12.2023  |   | | |
-| 18.12.2023  |   | | |
-| 08.01.2024  |   | | |
-| 15.01.2024  |   | | |
-| 22.01.2024  |   | | |
-| 29.01.2024  |   | | |
+| 30.10.2023  |  Kapitel 9  | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 30-10-23.pdf|
+| 06.11.2023  |  Kapitel 10 | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 6-11-23.pdf |
+| 13.11.2023  |  Kapitel 10 | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 13-11-23.pdf| 
+| 20.11.2023  |  Kapitel 11 | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 20-11-23.pdf| 
+| 27.11.2023  |  | | |
+| 04.12.2023  |  | | |
+| 11.12.2023  | ausgefallen  | | |
+| 18.12.2023  |  Kapitel 13  | PML22a | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 18-12-23.pdf |
+| 08.01.2024  |  Kapitel 13 + Kapitel 18 | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 08-01-23.pdf |
+| 15.01.2024  |  Kapitel 13 + Kapitel 18 | [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 08-01-23.pdf |
+| 22.01.2024  |  | | |
+| 29.01.2024  |  | | |
