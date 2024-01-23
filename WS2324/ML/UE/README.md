@@ -30,6 +30,7 @@ Die Übungsaufgaben sind in **Dreiergruppen** zu bearbeiten und (sofern nicht an
 - [Blatt 8](Material/blatt8.pdf) (Abgabe Mo. 8. Januar, 14:00 Uhr)
 - [Blatt 9](Material/blatt9.pdf) (Abgabe Mo. 15. Januar, 14:00 Uhr)
 - [Blatt 10](Material/blatt10.pdf) (Abgabe Mo. 22. Januar, 14:00 Uhr)
+- [Blatt 11](Material/blatt10.pdf) (Abgabe Mo. 29. Januar, 14:00 Uhr)
 
 
 ## Bewertung
