@@ -6,6 +6,7 @@
 
 ## News
 
+- **Es wird insgesamt 12 Übungsblätter geben. Das zwölfte Blatt wird ein Wiederholungsblatt im Ausmaß von 30 Punkten sein. Die Bearbeitung und Abgabe des zwölften Blatts ist freiwillig.  Sofern Sie dieses Blatt abgegeben, wird es zur Bildung der Endnote berücksichtigt.**
 - Die Übung am 13. Dezember fällt aus.
 - **Die Übung am 22. November fällt aus.** Die Abgabefrist für Blatt 5 wird bis zum 27. November verlängert. Blatt 6 erscheint am 27. November.
 - Die Bewertung von Blatt 1 wurde angepasst. Es gibt nun 25 Punkte (6+10+9), davon sind 15 Bonus.
@@ -30,12 +31,16 @@ Die Übungsaufgaben sind in **Dreiergruppen** zu bearbeiten und (sofern nicht an
 - [Blatt 8](Material/blatt8.pdf) (Abgabe Mo. 8. Januar, 14:00 Uhr)
 - [Blatt 9](Material/blatt9.pdf) (Abgabe Mo. 15. Januar, 14:00 Uhr)
 - [Blatt 10](Material/blatt10.pdf) (Abgabe Mo. 22. Januar, 14:00 Uhr)
-- [Blatt 11](Material/blatt10.pdf) (Abgabe Mo. 29. Januar, 14:00 Uhr)
+- [Blatt 11](Material/blatt11.pdf) (Abgabe Mo. 29. Januar, 14:00 Uhr)
 
 
 ## Bewertung
 - Die abgegebenen Übungsblätter werden kontrolliert und bewertet (Punkte).
 - Die Endnote wird anhand der über das Semester erreichten Punktzahl berechnet.
+  - Note 1 bei > 87.5% der möglichen Punkte
+  - Note 2 bei > 75.0% der möglichen Punkte
+  - Note 3 bei > 62.5% der möglichen Punkte
+  - Note 4 bei > 50.0% der möglichen Punkte
 - Für das Bestehen der Lehrveranstaltung sind folgende Bedingungen zu erfüllen:
   - Mindestens 50% der möglichen Punkte der bewerteten Übungsblätter.
   - Bearbeitung und fristgerechte Abgabe von mindestens 80% der Übungsblätter.
