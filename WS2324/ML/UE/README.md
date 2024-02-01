@@ -32,16 +32,16 @@ Die Übungsaufgaben sind in **Dreiergruppen** zu bearbeiten und (sofern nicht an
 - [Blatt 9](Material/blatt9.pdf) (Abgabe Mo. 15. Januar, 14:00 Uhr)
 - [Blatt 10](Material/blatt10.pdf) (Abgabe Mo. 22. Januar, 14:00 Uhr)
 - [Blatt 11](Material/blatt11.pdf) (Abgabe Mo. 29. Januar, 14:00 Uhr)
-- [Blatt 12](Material/blatt12.pdf) (Vorläufiger Entwurf)
+- [Blatt 12](Material/blatt12.pdf) (Abgabe Mi. 28. Februar)
 
 
 ## Bewertung
 - Die abgegebenen Übungsblätter werden kontrolliert und bewertet (Punkte).
 - Die Endnote wird anhand der über das Semester erreichten Punktzahl berechnet.
-  - Note 1 bei > 87.5% der möglichen Punkte
-  - Note 2 bei > 75.0% der möglichen Punkte
-  - Note 3 bei > 62.5% der möglichen Punkte
-  - Note 4 bei > 50.0% der möglichen Punkte
+  - Note 1 bei ≥ 87.5% der möglichen Punkte
+  - Note 2 bei ≥ 75.0% der möglichen Punkte
+  - Note 3 bei ≥ 62.5% der möglichen Punkte
+  - Note 4 bei ≥ 50.0% der möglichen Punkte
 - Für das Bestehen der Lehrveranstaltung sind folgende Bedingungen zu erfüllen:
   - Mindestens 50% der möglichen Punkte der bewerteten Übungsblätter.
   - Bearbeitung und fristgerechte Abgabe von mindestens 80% der Übungsblätter.
