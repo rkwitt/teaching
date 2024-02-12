@@ -5,7 +5,7 @@ For some courses, the teaching language is German, for some it's English. This i
 
 # Summer Term 2024
 
-- Machine Learning / Statistical Learning Theory
+- [Statistical Learning Theory / Machine Learning / Advanced Machine Learning](SS24/ML)
 
 # Winter Term 2023/2024
 
