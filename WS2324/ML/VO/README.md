@@ -83,12 +83,12 @@ ausgefallen
 ### 30-10-2023
 - **Kapitel 10** in PML22a     
     - *Inhalte*: Naive Bayes ([PML22a, 9.3, 9.4], Logistic Regression ([PML22a, 10.1, 10.2])
-    - *Details*: siehe markierte Teile im [Kapitel 10]() 
+    - *Details*: siehe markierte Teile im [Kapitel 10](https://drive.google.com/file/d/1A2xlwgSogJ-NpTD0SkeZr9M8bvAPvkbz/view?usp=sharing) 
     - *Notizen*: [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 30-10-23.pdf
 
 ### 06-11-2023
 - **Kapitel 10** in PML22a     
-    - *Inhalte*: Einschub zu Perceptron (), Logistic Regression ([PML22a, 10.2]) 
+    - *Inhalte*: Einschub zu Perceptron, Logistic Regression ([PML22a, 10.2]) 
     - *Details*: siehe markierte Teile im [Kapitel 10](https://drive.google.com/file/d/1A2xlwgSogJ-NpTD0SkeZr9M8bvAPvkbz/view?usp=sharing) 
     - *Notizen*: [Online](https://drive.google.com/drive/folders/15svjMaN2Jx8Qer4yTKVOA6PZWTDiAmUQ?usp=sharing) unter 06-11-23.pdf
 
