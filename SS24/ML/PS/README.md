@@ -2,6 +2,8 @@
 
 ## News
 
+- Released exercise sheet B 
+- Released exercise sheet A
 - The PS begins (with a *Vorbesprechung*) on **Tuesday, March 5, 2024** at **11:45am (T01)**
 
 ## Organization
@@ -22,6 +24,9 @@ The slack channel #machinelearning is on [`visel.slack.com`](https://visel.slack
 Grading is based on the number of points you collect for the exercise sheets.  
 
 ## Exercise sheets
+
+**Important**: Please hand in the exercise sheets with the names of **all** group members on it and in the form 
+of **one PDF** file.
 
 | | **Points** | **Link** | **Deadline** |
 |---|---|---|---|
