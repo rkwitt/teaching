@@ -2,6 +2,7 @@
 
 ## News
 
+- Please checkout the guidelines on handing in exercise sheets (below)
 - Released exercise sheet B 
 - Released exercise sheet A
 - The PS begins (with a *Vorbesprechung*) on **Tuesday, March 5, 2024** at **11:45am (T01)**
