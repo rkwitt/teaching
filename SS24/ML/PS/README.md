@@ -32,8 +32,8 @@ of **one PDF** file.
 | | **Points** | **Link** | **Deadline** |
 |---|---|---|---|
 | Exercise sheet A  |  10  | [here](exA.pdf) | 03/19/24 (10am)| 
-| Exercise sheet B  |  10  | [here](exB.pdf) | 04/09/24 (10am)| 
-| Exercise sheet C  |    | | | 
+| Exercise sheet B  |  10  | [here](exB.pdf) | 04/16/24 (10am)| 
+| Exercise sheet C  |   5  | [here](exC.pdf) | 04/23/24 (10am) | 
 | Exercise sheet D  |    | | | 
 | Exercise sheet E  |    | | | 
 
