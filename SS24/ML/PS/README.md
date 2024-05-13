@@ -34,7 +34,7 @@ of **one PDF** file.
 | Exercise sheet A  |  10  | [here](exA.pdf) | 03/19/24 (10am)| 
 | Exercise sheet B  |  10  | [here](exB.pdf) | 04/16/24 (10am)| 
 | Exercise sheet C  |   5  | [here](exC.pdf) | 04/23/24 (10am) | 
-| Exercise sheet D  |    | | | 
+| Exercise sheet D  |   3  | [here](exD.pdf) | 05/20/24 (10am, via email) | 
 | Exercise sheet E  |    | | | 
 
 Total points possible: **tba.**
