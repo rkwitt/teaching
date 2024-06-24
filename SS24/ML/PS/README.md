@@ -31,10 +31,11 @@ of **one PDF** file.
 
 | | **Points** | **Link** | **Deadline** |
 |---|---|---|---|
-| Exercise sheet A  |  10  | [here](exA.pdf) | 03/19/24 (10am)| 
-| Exercise sheet B  |  10  | [here](exB.pdf) | 04/16/24 (10am)| 
-| Exercise sheet C  |   5  | [here](exC.pdf) | 04/23/24 (10am) | 
-| Exercise sheet D  |   3  | [here](exD.pdf) | 05/20/24 (10am, via email) | 
+| Exercise sheet A  |  10       | [here](exA.pdf) | 03/19/24 (10am)| 
+| Exercise sheet B  |  10       | [here](exB.pdf) | 04/16/24 (10am)| 
+| Exercise sheet C  |   5       | [here](exC.pdf) | 04/23/24 (10am) | 
+| Exercise sheet D  |   3       | [here](exD.pdf) | 05/20/24 (10am, via email) | 
 | Exercise sheet E  |   8 (+4)  | [here](exE.pdf) | 06/10/24 (10am) | 
+| Exercise sheet F  |   6       | [here](exF.pdf) | 07/09/24 (10am, via email) |
 
-Total points possible: **tba.**
+Total points possible: **42**
