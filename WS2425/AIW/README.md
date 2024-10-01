@@ -30,8 +30,7 @@ Zudem gibt es zusätlich zum Vorbesprechungstermin  **drei** weitere Termine (si
 
 **Wöchentliche Catch-Ups & Updates**
 
-Aufgrund des Projektcharacters der Lehrveranstaltung, bieten wir den Studierenden (siehe ECTS Credits) die Möglichkeit einen Großteil der Semesterstunden
-dem Projekt zu widmen. Wir stehen jedoch wöchentlich zu fixen Zeiten für die Studierende zur Verfüfung um rechtzeitig Fragen beantworten zu können bzw. um entsprechende Hilfestellungen zu geben. Je nach Projekthema, ist Univ.-Prof. Pallas oder Univ.-Prof. Kwitt der entsprechende Ansprechpartner; die wöchentlichen Slots sind wie folgt:
+Aufgrund des Projektcharacters der Lehrveranstaltung, bieten wir den Studierenden (siehe ECTS Credits) die Möglichkeit einen Großteil der Semesterstunden dem Projekt zu widmen. Wir stehen jedoch wöchentlich zu fixen Zeiten für die Studierende zur Verfügung um rechtzeitig Fragen beantworten zu können bzw. um entsprechende Hilfestellungen zu geben. Je nach Projekthema, ist Univ.-Prof. Pallas oder Univ.-Prof. Kwitt der entsprechende Ansprechpartner; Die (wenn auch nur kurze) Nutzung der Slots ist obligatorisch - wir möchten so sicherstellen, dass wir ausreichend früh etwaige Probleme erkennen und lösen können. Die wöchentlichen Slots sind wie folgt:
 
 |   | **Zeitslot (wöchentlich)**  |
 |---|---|
