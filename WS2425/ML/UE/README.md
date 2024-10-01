@@ -12,7 +12,7 @@
 
 ## Übungsblätter
 Die Übungsaufgaben sind in **Dreier-** oder **Vierergruppen** zu bearbeiten und in der darauffolgenden Woche **zu Beginn des Proseminars** abzugeben.
-[Blatt 1](Material/blatt1.pdf) (Abgabe Mi. 16. Oktober)
+- [Blatt 1](Material/blatt1.pdf) (Abgabe Mi. 16. Oktober)
 
 ## Bewertung
 - Die abgegebenen Übungsblätter werden kontrolliert und bewertet (Punkte).
