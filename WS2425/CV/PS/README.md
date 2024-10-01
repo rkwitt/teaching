@@ -2,26 +2,24 @@
 
 ## News / Important dates
 
-- **Begin of lecture**: tba
-- **Location**: tba
+- **Begin of lecture**: Oct. 2nd, 2024 
+- **Location**: Rechnerraum, Jakob-Haringer Str. 2
 
 ## Grading
 
-Grading is based on solving programming assignments related to computer vision topics. Solutions are handed-in online as Python files 
-and will be automatically graded. You will also have the possibility to assess your solutions on your own to check if they are correct. 
-Assignments are published in the form of exercise sheets. For each exercise sheet there exists a seperate GitHub repository that 
-explains what needs to be done.
+Grading is based on solving programming assignments related to computer vision topics. 
+Solutions are handed-in online as Python files and will be **automatically** graded. You will also have the possibility to assess your solutions on your own to check if they are correct. 
+Assignments are published in the form of exercise sheets. For each exercise sheet there exists a 
+seperate GitHub repository that explains what needs to be done (in particular, a `README.md` file in 
+each repo).
 
 ### Automatic grading
 
-Automatic grading is done via [Otter-Grader](https://otter-grader.readthedocs.io/en/latest/). Each assignment will have an automatic
-test assigned to it (which you can also run on your own) that will be run by me once the deadline for an exercise sheet has passed. We 
-will go through an example in the first PS. To setup your environment so that you can start working on the assignments, I have provided
-an exemplary setup below (adjust to your system).
+Automatic grading is done via [Otter-Grader](https://otter-grader.readthedocs.io/en/latest/). Each assignment will have a automatic tests assigned to it (which you can also run on your own) that will be run by me once the deadline for an exercise sheet has passed. *We will go through an example in the first PS*. To setup your environment so that you can start working on the assignments, I have provided an exemplary setup below (adjust to your system).
 
 ## Preliminaries
 
-I do recommend a setup using [Anaconda Python](https://www.anaconda.com/products/individual). Below is a short how to install Anaconda + PyTorch on a Mac OS X system, including some dependencies.
+I do recommend a setup using [Anaconda Python](https://www.anaconda.com/products/individual). Below is a short how to install Anaconda + PyTorch on a Mac OS X system, including some dependencies (the setup on Linux and Windows systems is pretty similar and very good resources can be found online).
 
 ### Download and install Anaconda
 
@@ -39,8 +37,8 @@ chmod +x Anaconda3-2024.06-1-MacOSX-arm64.sh
 ./Anaconda3-2024.06-1-MacOSX-arm64.sh
 ```
 
-Make sure you correctly specify the destination folder (`/Users/<USERNAME>/Software/anaconda3`) during the install process. I also do recommend *not* to run the
-init script at the end of the installation process.
+Make sure you correctly specify the destination folder (`/Users/<USERNAME>/Software/anaconda3`) during the install process. I also do recommend *not* to run the init script at the end of the installation process.
+(we will activate anaconda by hand later on).
 
 ### Activate Anaconda and create an environment
 
@@ -78,16 +76,13 @@ git clone https://github.com/rkwitt-teaching/CV-2425-ExSheet1.git
 cd CV-2425-ExSheet1
 ```
 
-In this folder you find a file `submission.py`. This is the file where you will put your code and which you have to submit later on. *I do recommend
-you already rename that file to the format `submission_<STUDENTID>.py` replacing `<STUDENTID>` with your actual student ID. Lets assume this is 
-`1234`. 
+In this folder you find a file `submission.py`. This is the file where you will put your code and which you have to submit later on. *I do recommend you already rename that file to the format `submission_<STUDENTID>.py` replacing `<STUDENTID>` with your actual student ID. Lets assume this is `1234`.
 
 ```bash
 mv submission.py submission_1234.py
 ```
 
-Now, open the file (I do recommend using Visual Studio Code, but feel free to use what you want!). In that file you find 
-the first assignment:
+Now, open the file (I do recommend using Visual Studio Code, but feel free to use what you want!). In that file you find the first assignment:
 
 ```python
 # Exercise 1.1
@@ -112,9 +107,7 @@ conda activate pytorch23
 otter check submission_1234.py -q t1 
 ```
 
-and you will see the test fails! Here `t1` identifies the test for this first assignment (which can be found in `tests/t1.py`). 
-If you want to, e.g., run the third test, replace `t1` with `t3`. 
-
+and you will see the test fails! Here `t1` identifies the test for this first assignment (which can be found in `tests/t1.py`). If you want to, e.g., run the third test, replace `t1` with `t3`.
 
 ## Exercise sheets
 
