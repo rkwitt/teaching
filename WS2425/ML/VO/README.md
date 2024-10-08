@@ -56,7 +56,7 @@ Online verfügbar [hier](https://hastie.su.domains/Papers/ESLII.pdf)
 
 ## Vorbereitung
 
-Zur Vorbereitung auf die jeweils nächste Vorlesungseinheit, bitte ich Sie die nachfolgenden Kapitel (od. Teile dieser Kapitel, je nach Angabe) in den jeweiligen Büchern zu lesen. Nach der Vorlesung stehen Ihnen meine Notizen als PDF zur Verfügung. 
+Zur Vorbereitung auf die jeweils nächste Vorlesungseinheit bitte ich Sie, die nachfolgenden Kapitel (oder Teile dieser Kapitel, je nach Angabe) in den entsprechenden Büchern zu lesen. Nach der Vorlesung stehen Ihnen meine Notizen als PDF zur Verfügung. 
 
 ### 07-10-2024
 
