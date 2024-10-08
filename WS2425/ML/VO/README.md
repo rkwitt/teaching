@@ -28,7 +28,7 @@ Standardwerken (siehe Material) erarbeiten und besprechen. Es gibt also keine Sl
 ## Benotung
 
 Die Benotung der Lehrveranstaltung erfolgt anhand einer finalen Prüfung am Ende des Semesters. Prüfungsstoff sind die in der Vorlesung erarbeiteten 
-Themen. Teile von Kapiteln die in der Vorlesung nicht besprochen werden, sind natürlich auch nicht teil des Prüfungsstoffs. Die in der Vorlesung gezeigten Implementierungen (in Python und entsprechenden Bibliotheken) sind ebensowenig Teil des Prüfungsstoffs und dienen lediglich der Illustration verschiedenster Konzepte. 
+Themen. Teile von Kapiteln, die in der Vorlesung nicht besprochen werden, sind natürlich auch nicht Teil des Prüfungsstoffs. Die in der Vorlesung gezeigten Implementierungen (in Python und entsprechenden Bibliotheken) sind ebensowenig Teil des Prüfungsstoffs und dienen lediglich der Illustration verschiedenster Konzepte. 
 
 *Insgesammt werden 3. Prüfungstermine angeboten und gegen Ende des Semesters bekannt gegeben*.
 
