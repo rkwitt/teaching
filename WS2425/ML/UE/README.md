@@ -2,7 +2,7 @@
 
 **Lehrveranstaltungsleiter**: Dr. Florian Graf  
 **Kontakt**: `florian [dot] graf [at] plus [dot] ac [dot] at`  
-**Termin**: Mittwochs 13:15-15:00 in Hörsaal T02
+**Termin**: Mittwochs, 13:15-15:00 in Hörsaal T02
 
 
 ## News
