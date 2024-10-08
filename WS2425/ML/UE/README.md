@@ -7,7 +7,7 @@
 
 ## News
 
-- Vorbesprechung **Mittwoch, 9. Oktober 2023**, am 2. Oktober findet keine Übung statt.
+- Vorbesprechung **Mittwoch, 9. Oktober 2024**, am 2. Oktober findet keine Übung statt.
 
 
 ## Übungsblätter
