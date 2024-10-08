@@ -45,7 +45,7 @@ Online verfügbar [hier](https://probml.github.io/pml-book/book1.html)
 &#128216; [PML22b]    
 Kevin P. Murphy     
 *Probabilistic Machine Learning: Advanced Topics*     
-The MIT Press, 2022        
+The MIT Press, 2023        
 Online verfügbar [hier](https://probml.github.io/pml-book/book2.html)
 
 &#128216; [ESL]    
