@@ -7,15 +7,15 @@
 
 ## General
 
-*Many of the lectures are available as pre-recorded videos, from earlier (COVID)years. You can watch them anytime, but note that part of the material might not exactly match the material presented in the 2023/2024 lecture and there will be additional content this year.*
+*Many of the lectures are available as pre-recorded videos from previous (COVID) years. You can watch them anytime, but note that part of the material might not exactly match the material presented in the 2024/2025 lecture and that there will be additional content this year.*
 
 ## Slack
 
-We have a Slack channel `#computervision` on [slack.com](https://visel.slack.com). You can sign up with your `@sbg.ac.at`, `@plus.ac.at`, `@cosy.sbg.ac.at` or your `@stud.sbg.ac.at` email address. This is quite useful, as you can always ask questions, or we can schedule additional online/in-person meetings where I can answer any questions you might have.
+We have a Slack channel `#computervision` on [slack.com](https://visel.slack.com). You can sign up with your `@sbg.ac.at`, `@plus.ac.at`, `@cosy.sbg.ac.at` or your `@stud.sbg.ac.at` email address. This is quite useful as you can always ask questions, or we can schedule additional online/in-person meetings where I can answer any questions you might have.
 
 ## Grading
 
-Grading is based on a **final exam** at the end of the semester, or within the semester break. However, I am quite flexible regarding exam dates, and we will find dates that work for everyone. 
+Grading is based on a **final exam** at the end of the semester or within the semester break. However, I am quite flexible regarding exam dates, and we will find dates that work for everyone. 
 
 ## Material
 
@@ -39,7 +39,7 @@ jupyter notebook
 
 ## Prerequisites
 
-I do recommend refreshing your **linear algebra**, **statistics** and **analysis** knowledge before starting the course. Also, please make yourself familiar with Python, as I do use Python almost exclusively (via Jupyter notebooks). Besides, you can start reading up on [PyTorch](https://pytorch.org/) which we will use as our environment for implementing deep learning approaches to computer vision.
+I do recommend refreshing your **linear algebra**, **statistics** and **analysis** knowledge before starting the course. Also, please make yourself familiar with Python as I do use Python almost exclusively (via Jupyter notebooks). Besides, you can start reading up on [PyTorch](https://pytorch.org/) which we will use as our environment for implementing deep learning approaches to computer vision.
 
 ## Course topics
 
