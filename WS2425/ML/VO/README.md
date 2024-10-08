@@ -18,7 +18,7 @@
 
 ## Überblick
 
-Ziel der Vorlesung ist es, Studierende in das Gebiet des maschinellen Lernens einzuführen. Dies umfasst einen Überblick über die verschiedenen Lernvarianten, sowie konkrete Algorithmen den deren Implementierungen in frei verfügbaren Softwarebibliotheken.
+Ziel der Vorlesung ist es, Studierende in das Gebiet des maschinellen Lernens einzuführen. Dies umfasst einen Überblick über die verschiedenen Lernvarianten sowie konkrete Algorithmen und deren Implementierungen in frei verfügbaren Softwarebibliotheken.
 
 ## Abhaltung
 
