@@ -39,7 +39,7 @@ Die Vorlesung orientiert sich im Wesentlichen an folgenden Standardwerken. Unser
 &#128216; [PML22a]    
 Kevin P. Murphy     
 *Probabilistic Machine Learning - An Introduction*     
-The MIT Press, 2022 
+The MIT Press, 2022     
 Online verfügbar [hier](https://probml.github.io/pml-book/book1.html)
 
 &#128216; [PML22b]    
