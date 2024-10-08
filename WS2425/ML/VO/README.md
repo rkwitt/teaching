@@ -50,7 +50,7 @@ Online verfügbar [hier](https://probml.github.io/pml-book/book2.html)
 
 &#128216; [ESL]    
 Trevor Hastie, Robert Tibshirani and Jerome Friedman     
-**The Elements of Statistical Learning**    
+**The Elements of Statistical Learning: Data Mining, Inference, and Prediction**    
 Springer Series in Statistics (2nd edition)    
 Online verfügbar [hier](https://hastie.su.domains/Papers/ESLII.pdf)
 
