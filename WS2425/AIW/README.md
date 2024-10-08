@@ -11,13 +11,13 @@
 
 ## Allgemeines
 
-Prinzipiell ist es sinnvoll das SE *nur dann* zu besuchen, wenn auch die UV besucht wird, da die in der UV bearbeiteten Themen für das Seminar genutzt werden können (und sollen). Sowohl in der UV als auch im Seminar soll in Kleingruppen (max. 3 Personen) gearbeitet werden.
+Prinzipiell ist es sinnvoll, das SE *nur dann* zu besuchen, wenn auch die UV besucht wird, da die in der UV bearbeiteten Themen für das Seminar genutzt werden können (und sollen). Sowohl in der UV als auch im Seminar soll in Kleingruppen (max. 3 Personen) gearbeitet werden.
 
 ## Inhalte
 
 ### UV
 
-In der UV (2 SSt.) haben Studierende die Möglichkeit aus einem Katalog von (AI) Projektthemen ein Thema auszuwählen und dies über das Semester hinweg zu bearbeiten/erarbeiten. Entsprechende Hinweise zur Materialsuche werden natürlich bereitgestellt. Die Themen werden in der Vorbesprechung genauer vorgestellt.
+In der UV (2 SSt.) haben Studierende die Möglichkeit, aus einem Katalog von (AI) Projektthemen ein Thema auszuwählen und dies über das Semester hinweg zu bearbeiten/erarbeiten. Entsprechende Hinweise zur Materialsuche werden natürlich bereitgestellt. Die Themen werden in der Vorbesprechung genauer vorgestellt.
 
 Zudem gibt es zusätlich zum Vorbesprechungstermin  **drei** weitere Termine (siehe unten), an denen konkrete Inhalte präsentiert werden (zu Themen wie *Scientific Writing*, *Code management & Reproducibility* und *Benchmarking*). Materialen werden vor den jeweiligen Terminen zur Verfüfung gestellt.
 
@@ -30,7 +30,7 @@ Zudem gibt es zusätlich zum Vorbesprechungstermin  **drei** weitere Termine (si
 
 **Wöchentliche Catch-Ups & Updates**
 
-Aufgrund des Projektcharacters der Lehrveranstaltung, bieten wir den Studierenden (siehe ECTS Credits) die Möglichkeit einen Großteil der Semesterstunden dem Projekt zu widmen. Wir stehen jedoch wöchentlich zu fixen Zeiten für die Studierende zur Verfügung um rechtzeitig Fragen beantworten zu können bzw. um entsprechende Hilfestellungen zu geben. Je nach Projekthema, ist Univ.-Prof. Pallas oder Univ.-Prof. Kwitt der entsprechende Ansprechpartner; Die (wenn auch nur kurze) Nutzung der Slots ist obligatorisch - wir möchten so sicherstellen, dass wir ausreichend früh etwaige Probleme erkennen und lösen können. Die wöchentlichen Slots sind wie folgt:
+Aufgrund des Projektcharacters der Lehrveranstaltung bieten wir den Studierenden (siehe ECTS Credits) die Möglichkeit, einen Großteil der Semesterstunden dem Projekt zu widmen. Wir stehen jedoch wöchentlich zu fixen Zeiten für die Studierenden zur Verfügung, um rechtzeitig Fragen beantworten zu können bzw. um entsprechend Hilfestellungen zu geben. Je nach Projekthema ist Univ.-Prof. Pallas oder Univ.-Prof. Kwitt der entsprechende Ansprechpartner. Die (wenn auch nur kurze) Nutzung der Slots ist obligatorisch - wir möchten so sicherstellen, dass wir ausreichend früh etwaige Probleme erkennen und lösen können. Die wöchentlichen Slots sind wie folgt:
 
 |   | **Zeitslot (wöchentlich)**  |
 |---|---|
@@ -39,7 +39,7 @@ Aufgrund des Projektcharacters der Lehrveranstaltung, bieten wir den Studierende
 
 ### SE
 
-Im Seminar (2 SSt.) AI Werkstatt sollen Studierende **3x** im Semester (Hinweis: die LV wird geblockt abgehalten) entsprechende Fortschritte aus ihrem in der UV bearbeiteten Projekt präsentieren und mit anderen Studierenden diskutieren. Wohingegen die ersten beiden Termine als *Status-Updates* gedacht sind, hat der letzte Termin im Semester den Charakter einer *Abschlusspräsentation*. Die Länge der Präsentationen soll max. 45 Minuten betragen mit einem anschließenden 15 Minuten Fenster zur Beantwortung von Fragen und zur Diskussion.
+Im Seminar (2 SSt.) AI Werkstatt sollen Studierende **3x** im Semester (Hinweis: die LV wird geblockt abgehalten) entsprechende Fortschritte aus ihrem in der UV bearbeiteten Projekt präsentieren und mit anderen Studierenden diskutieren. Während die ersten beiden Termine als *Status-Updates* gedacht sind, hat der letzte Termin im Semester den Charakter einer *Abschlusspräsentation*. Die Länge der Präsentationen soll max. 45 Minuten betragen, gefolgt von einem 15 Minuten-Fenster zur Beantwortung von Fragen und zur Diskussion.
 
 
 | **Termin/Ort/Zeit**  | **Thema** |
