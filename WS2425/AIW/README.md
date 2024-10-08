@@ -52,11 +52,20 @@ Im Seminar (2 SSt.) AI Werkstatt sollen Studierende **3x** im Semester (Hinweis:
 
 ### UV
 
-folgt!
+1) Erstellung eines Reports (ca. 3 Seiten) im IEEE 2-Spalten-Format (Vorlagen werden bereitgestellt). **Abgabetermin** voraussichtlich Mitte des Semesters (wird noch rechtzeitig bekanntgegeben, ca. Mitte Dez. 2024).
+2) Erstellung eines kurzen Artikels (ca. 6 Seiten) im IEEE 2-Spalten-Format (Vorlagen werden bereitgestellt). Idealerweise wird hierzu der Report (sieht Punkt 1) mit den entsprechenden neuen Erkenntnissen erweitert und nach den Prinzipien des guten wissenschaftlichen Arbeitens in eine potentiell veröffentlichbare Version gebracht. **Abgabetermin** ist Semesterende (ein genauer Termin wird noch fixiert).
+
+*Die Gewichtung der beiden Teile für die Gesamtnote beträgt 30/70 (also 30% Report, 70% ShortPaper).*
 
 ### SE
 
-folgt!
+- Qualität des Quellcodes und der Auswertung (Reproduzierbarkeit, Systematik der Evaluierung etc.)
+- **Presentation 1**: *Initial outline* (Was wollen wir machen? Wie sieht der Plan zur Realisierung und Auswertung aus? Etc.)
+- **Presentation 2**: *Intermediate status* (Was ist der aktuelle Stand? Gibt es bereits Resultate? Roadblocks? Etc.)
+- **Presentation 3**: *Final status* (Zusammenfassung der Arbeit und der Resultate + evtl. Demo!)
+- Aktive Teilnahme an der Diskussion während den Präsentationen
+
+*Die Gewichtung der einzelnen Teile für die Gesamtnote beträgt (in der Reihenfolge wie oben) 50/10/10/20/10 (also 50% Code, 10% Presentation 1, 10% Presentation 2, 20% Presentation 3, 10% aktive Teilnahme).*
 
 ## Projektthemen
 
