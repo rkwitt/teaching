@@ -49,6 +49,12 @@ Below is a more detailed list of topics covered in the course, subject to change
 
 - [**Introduction & (Computer) vision problems**](../material/IntroSlides.pdf)
 
+## Videos
+
+- [**Tensor basics**](../material/01.1_TensorBasics)
+  - [Video (Part 1)](https://drive.google.com/file/d/1LX3ChT5pHeVYeKDE4FKXAoOzObo7SsN0/view?usp=sharing)
+  - [Video (Part 2)](https://drive.google.com/file/d/1-qzcMGRZnym5GjZwwGhrBzjSvOHekzzY/view?usp=sharing)
+
 ## Data
 
 - [Ants/Bees data](https://drive.google.com/open?id=1izFo-gdrxvDy1klIlu-_RZn3JNTaeogg)
