@@ -2,8 +2,8 @@
 
 ## News / Important dates
 
-- **Begin of lecture**: tba
-- **Location**: tba
+- **Begin of lecture**: Oct. 2nd, 2024 (Vorbesprechung/Administrative stuff)
+- **Location**: Rechnerraum, Jakob-Haringer Str. 2
 
 ## General
 
