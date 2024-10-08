@@ -55,7 +55,7 @@ Below is a more detailed list of topics covered in the course, subject to change
 
 ## Other useful resources
 
-- [Anaconda](https://www.anaconda.com/distribution/)
+- [Anaconda](https://www.anaconda.com/download/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [scikit-image](http://scikit-image.org/)
 - [PyTorch](http://pytorch.org/)
