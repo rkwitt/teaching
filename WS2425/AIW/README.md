@@ -69,4 +69,4 @@ Im Seminar (2 SSt.) AI Werkstatt sollen Studierende **3x** im Semester (Hinweis:
 
 ## Projektthemen
 
-Eine Zusammenfassung der Projektthemen finden Sie [hier](ProjectTopics.pdf), die Slides der ersten Einheit [hier](IntroSlides.pdf).
+Eine Zusammenfassung der Projektthemen finden Sie [hier](ProjectTopics.pdf), die Slides der **ersten** Einheit [hier](IntroSlides.pdf), die Slides der **zweiten** Einheit [hier](AcadWriting.pdf).
