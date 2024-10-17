@@ -2,6 +2,7 @@
 
 ## News / Important dates
 
+- Mapping of StudentID to an anonymized ID will be handed out in the next PS!
 - **Begin of PS**: Oct. 2nd, 2024 (Vorbesprechung/Administrative stuff)
 - **Location**: Rechnerraum, Jakob-Haringer Str. 2
 
@@ -114,3 +115,7 @@ and you will see that the test fails! Here, `t1` identifies the test for this fi
 |----------|----------|----------|---------|
 | Exercise sheet 1    | [Upload here](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/Er6gH4qEOe5OgwCMIVe9KkQBjb4WuKWXwWa6wiG3BILN_w)    | [Repo](https://github.com/rkwitt-teaching/CV-2425-ExSheet1/tree/main)    | Oct. 17 2024, 11:59pm |
 | Exercise sheet 2    | [Upload here](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/Ehr9cWjH1q1FrfU962BtoqABzNRCMFPLMuUGnWgCsl4JqA)    | [Repo](https://github.com/rkwitt-teaching/CV-2425-ExSheet2) | Oct. 22 2024, 11:59pm    |
+
+**Status**
+
+Current (anonymized) points can be found [here](StatusPoints.txt)
