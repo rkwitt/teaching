@@ -7,13 +7,14 @@
 
 ## News
 
-- Vorbesprechung **Mittwoch, 9. Oktober 2024**, am 2. Oktober findet keine Übung statt.
+- Vorbesprechung **Mittwoch, 9. Oktober 2024**. Am 2. Oktober findet keine Übung statt.
 
 
 ## Übungsblätter
 Die Übungsaufgaben sind in **Dreier-** oder **Vierergruppen** zu bearbeiten und in der darauffolgenden Woche **zu Beginn des Proseminars** abzugeben.
 - [Blatt 1](Material/blatt1.pdf) (Abgabe Mittwoch, 16. Oktober)
 - [Blatt 2](Material/blatt2.pdf) (Abgabe Mittwoch, 23. Oktober)
+- [Blatt 3](Material/blatt3.pdf) (Abgabe Mittwoch, 30. Oktober)
 
 ## Bewertung
 - Die abgegebenen Übungsblätter werden kontrolliert und bewertet (Punkte).
