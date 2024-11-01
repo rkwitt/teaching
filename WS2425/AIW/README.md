@@ -7,6 +7,7 @@
 
 ## Neuigkeiten
 
+- Slack Channel (#AIW) Invites ausgesendet 
 - **Vorbesprechung (UV und SE)**: **Rechnerübungsraum (2.10.2024, 13:30-14:30)**; siehe PLUS Online, Jakob-Haringer Str. 2, FB AIHI/Informatik
 
 ## Allgemeines
