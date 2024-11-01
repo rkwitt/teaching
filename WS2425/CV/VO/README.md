@@ -49,7 +49,7 @@ Below is a more detailed list of topics covered in the course, subject to change
 
 - [**Introduction & (Computer) vision problems**](../material/IntroSlides.pdf)
 
-## Videos
+## Material (/Videos)
 
 - [**Tensor basics**](../material/01.1_TensorBasics)
   - [Video (Part 1)](https://drive.google.com/file/d/1LX3ChT5pHeVYeKDE4FKXAoOzObo7SsN0/view?usp=sharing)
