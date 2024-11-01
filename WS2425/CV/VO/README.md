@@ -54,6 +54,12 @@ Below is a more detailed list of topics covered in the course, subject to change
 - [**Tensor basics**](../material/01.1_TensorBasics)
   - [Video (Part 1)](https://drive.google.com/file/d/1LX3ChT5pHeVYeKDE4FKXAoOzObo7SsN0/view?usp=sharing)
   - [Video (Part 2)](https://drive.google.com/file/d/1-qzcMGRZnym5GjZwwGhrBzjSvOHekzzY/view?usp=sharing)
+ 
+- [**Perceptron**](../material/02_Perceptron)
+- [**Automatic Differentiation**](../material/03_AutomaticDifferentiation)
+- [**Gradient-Based Optimization**](../material/04_GradientBasedOptimization)
+
+
 
 ## Data
 
