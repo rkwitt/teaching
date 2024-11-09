@@ -54,9 +54,13 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman
 Springer Series in Statistics (2nd edition)    
 Online verfügbar [hier](https://hastie.su.domains/Papers/ESLII.pdf)
 
-## Vorbereitung
+## Themen (und Vorbereitung)
 
-Zur Vorbereitung auf die jeweils nächste Vorlesungseinheit bitte ich Sie, die nachfolgenden Kapitel (oder Teile dieser Kapitel, je nach Angabe) in den entsprechenden Büchern zu lesen. Nach der Vorlesung stehen Ihnen meine Notizen als PDF zur Verfügung. 
+Zur Vorbereitung auf die jeweils nächste Vorlesungseinheit bitte ich Sie, die nachfolgenden Kapitel (oder Teile dieser Kapitel, je nach Angabe) in den entsprechenden Büchern zu lesen. Nach der Vorlesung stehen Ihnen meine Notizen als PDF zur Verfügung (siehe unten). Da wir die Kapitel nicht zur Gänze erarbeiten, stelle ich zur Prüfungsvorbereitung eine detaillierte Auswahl an Teilkapiteln zur Verfüfung.
+
+- Introduction (1, PML22a)
+- Linear discriminant analysis (9, PML22a)
+- Logistic Regression (10, PML22a)
 
 ### Mitschrift
 
