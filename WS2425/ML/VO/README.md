@@ -58,6 +58,6 @@ Online verfügbar [hier](https://hastie.su.domains/Papers/ESLII.pdf)
 
 Zur Vorbereitung auf die jeweils nächste Vorlesungseinheit bitte ich Sie, die nachfolgenden Kapitel (oder Teile dieser Kapitel, je nach Angabe) in den entsprechenden Büchern zu lesen. Nach der Vorlesung stehen Ihnen meine Notizen als PDF zur Verfügung. 
 
-### 07-10-2024
+### Mitschrift
 
-folgt!
+Die aktuelle Mitschrift finden Sie [hier](mitschrift.pdf) - letzte Aktualisierung am **9. November 2024**
