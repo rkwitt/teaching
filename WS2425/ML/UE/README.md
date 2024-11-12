@@ -17,6 +17,7 @@ Die Übungsaufgaben sind in **Dreier-** oder **Vierergruppen** zu bearbeiten und
 - [Blatt 3](Material/blatt3.pdf) (Abgabe Mittwoch, 30. Oktober)
 - [Blatt 4](Material/blatt4.pdf) (Abgabe Mittwoch, 6. November)
 - [Blatt 5](Material/blatt5.pdf) (Abgabe Mittwoch, 13. November)
+- [Blatt 6](Material/blatt6.pdf) (Abgabe Mittwoch, 20. November)
 
 ## Bewertung
 - Die abgegebenen Übungsblätter werden kontrolliert und bewertet (Punkte).
