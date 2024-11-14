@@ -121,4 +121,4 @@ and you will see that the test fails! Here, `t1` identifies the test for this fi
 
 *Status updates will be published once automatic grading has finished for each exercise sheet! (Please check regularly)*
 
-Current (anonymized) points can be found [here](StatusPoints.txt) (as of **Oct. 17, 2024**)
+Current (anonymized) points can be found [here](ToStudents.xlsx) (as of **Nov. 14, 2024**)
