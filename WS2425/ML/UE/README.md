@@ -7,6 +7,7 @@
 
 ## News
 
+- Der Termin am 11. Dezember entfällt. Abgabe von Blatt 9 erst am 18. Dezember.
 - Vorbesprechung **Mittwoch, 9. Oktober 2024**. Am 2. Oktober findet keine Übung statt.
 
 
@@ -20,6 +21,7 @@ Die Übungsaufgaben sind in **Dreier-** oder **Vierergruppen** zu bearbeiten und
 - [Blatt 6](Material/blatt6.pdf) (Abgabe Mittwoch, 20. November)
 - [Blatt 7](Material/blatt7.pdf) (Abgabe Mittwoch, 27. November)
 - [Blatt 8](Material/blatt8.pdf) (Abgabe Mittwoch, 4. Dezember)
+- [Blatt 9](Material/blatt9.pdf) (Abgabe Mittwoch, 18. Dezember)
 
 
 ## Bewertung
