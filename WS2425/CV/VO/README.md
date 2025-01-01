@@ -47,17 +47,25 @@ Below is a more detailed list of topics covered in the course, subject to change
 
 **Note**: In case you want to watch the videos, please *download* them first. Online viewing is possible (depending on your browser, but quality might be bad, at least this was the feedback I got from previous instances of this course).
 
-- [**Introduction & (Computer) vision problems**](../material/IntroSlides.pdf)
+- [**Introduction & Computer vision problems**](../material/IntroSlides.pdf)
 
-## Material (/Videos)
+## Material
+
+### Prelimiaries
 
 - [**Tensor basics**](../material/01.1_TensorBasics)
-  - [Video (Part 1)](https://drive.google.com/file/d/1LX3ChT5pHeVYeKDE4FKXAoOzObo7SsN0/view?usp=sharing)
-  - [Video (Part 2)](https://drive.google.com/file/d/1-qzcMGRZnym5GjZwwGhrBzjSvOHekzzY/view?usp=sharing)
- 
+
+### Topics 
+
 - [**Perceptron**](../material/02_Perceptron)
 - [**Automatic Differentiation**](../material/03_AutomaticDifferentiation)
 - [**Gradient-Based Optimization**](../material/04_GradientBasedOptimization)
+- [**MLPs**](../material/05_MLP)
+- [**Stochastic Gradient Descent (SGD) + Variants**](../material/06_SGD)
+- [**Convolutional Neural Networks (CNNs)**](../material/07_ConvNets)
+- [**Cross-Entropy**](../material/08_CrossEntropy)
+- [**Residual Learning (ResNets)**](../material/09_ResidualLearning)
+
 
 
 
