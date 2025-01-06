@@ -118,9 +118,8 @@ and you will see that the test fails! Here, `t1` identifies the test for this fi
 | Exercise sheet 3    | [Upload here](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/EuNjxLDoCM9Hpaasp0DasOwBUGfhmRckHoyJJIxDx0up1g)    | [Repo](https://github.com/rkwitt-teaching/CV-2425-ExSheet3) | Nov. 12 2024, 11:59pm    |
 | Exercise sheet 4    | [Upload here](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/EqvINkAeYntIvXs15mXhIfQBhGfSw15jBbgZ7Jp9sLsy2Q)   | [Repo](https://github.com/rkwitt-teaching/CV-2425-ExSheet4) | Nov. 26 2024 11:59pm |
 | Exercise sheet 5    | [Upload here](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/EtRWF8hKfc9FumVvyp5uDmUBImaDkBFkivZYMpevvHKh2w) | [Repo](https://github.com/rkwitt-teaching/CV-2425-ExSheet5) | Dec. 17 2024 11:59pm  |
-
-
-
+| Exercise sheet 6    | tba  | [Repo]([https://github.com/rkwitt-teaching/CV-2425-ExSheet5](https://github.com/rkwitt-teaching/CV-2425-ExSheet6
+)) | tba  |
 
 **Status**
 
