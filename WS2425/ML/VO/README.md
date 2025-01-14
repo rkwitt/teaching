@@ -64,4 +64,4 @@ Zur Vorbereitung auf die jeweils nächste Vorlesungseinheit bitte ich Sie, die n
 
 ### Mitschrift
 
-Die aktuelle Mitschrift finden Sie [hier](mitschrift.pdf) - letzte Aktualisierung am **9. November 2024**
+Die aktuelle Mitschrift finden Sie [hier](mitschrift.pdf) - letzte Aktualisierung am **14. Jaenner 2025**
