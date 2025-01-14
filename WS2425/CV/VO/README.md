@@ -1,5 +1,13 @@
 # Computer Vision (VO)
 
+## Exam dates
+
+|  | Date, Time, Place |
+|--------|----------------|
+| 1st exam date | **29.01.25** 11:00-12:30, Lecture room |
+| 2nd exam date  | tba |
+| 3d exam date | tba |
+
 ## News / Important dates
 
 - **Begin of lecture**: Oct. 2nd, 2024 (Vorbesprechung/Administrative stuff)

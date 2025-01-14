@@ -3,6 +3,15 @@
 **Lehrveranstaltungsleiter**: Univ-Prof. Dr. Roland Kwitt    
 **Kontakt**: am Besten per *E-Mail* unter `roland [dot] kwitt [at] plus [dot] ac [dot] at`
 
+## Prüfungstermine
+
+| | Datum, Zeit, Ort |
+|--------|----------------|
+| 1. Termin | **07.02.25** 10:00-13:00, T03 |
+| 3. Termin | tba |
+| 3. Termin | tba |
+
+
 
 ## News
 
