@@ -1,5 +1,25 @@
 # AI Eingangswerstatt (VO)
 
+## Prüfungstermine
+
+### Einführung AI (1 SSt. Variante)
+
+| | Datum, Zeit, Ort |
+|--------|----------------|
+| 1. Termin | **31.01.25** 14:00-15:00, T01 |
+| 3. Termin | wird noch bekannt gegeben |
+| 3. Termin | wird noch bekannt gegeben |
+
+### AI Eingangswerkstatt (2 SSt. Variante)
+
+| | Datum, Zeit, Ort |
+|--------|----------------|
+| 1. Termin | **27.01.25** 10:00-11:30, T03 |
+| 3. Termin | wird noch bekannt gegeben |
+| 3. Termin | wird noch bekannt gegeben |
+
+
+
 ## Neuigkeiten
 
 - **Ort/Zeit** der Lehrveranstaltung: **T03 (10:00-11:30)** (siehe PLUS Online, in Itzling, Jakob-Haringer Str. 2, FB AIHI/Informatik)
