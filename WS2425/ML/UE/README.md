@@ -24,6 +24,8 @@ Die Übungsaufgaben sind in **Dreier-** oder **Vierergruppen** zu bearbeiten und
 - [Blatt 9](Material/blatt9.pdf) (Abgabe Mittwoch, 18. Dezember)
 - [Blatt 10](Material/blatt10.pdf) (Abgabe Mittwoch, 8. Jänner)
 - [Blatt 11](Material/blatt11.pdf) (Abgabe Mittwoch, 22. Jänner)
+- [Blatt 12](Material/blatt11.pdf) (Abgabe Mittwoch, 29. Jänner)
+
 
 ## Bewertung
 - Die abgegebenen Übungsblätter werden kontrolliert und bewertet (Punkte).
