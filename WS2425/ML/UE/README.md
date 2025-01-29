@@ -24,7 +24,8 @@ Die Übungsaufgaben sind in **Dreier-** oder **Vierergruppen** zu bearbeiten und
 - [Blatt 9](Material/blatt9.pdf) (Abgabe Mittwoch, 18. Dezember)
 - [Blatt 10](Material/blatt10.pdf) (Abgabe Mittwoch, 8. Jänner)
 - [Blatt 11](Material/blatt11.pdf) (Abgabe Mittwoch, 22. Jänner)
-- [Blatt 12](Material/blatt11.pdf) (Abgabe Mittwoch, 29. Jänner)
+- [Blatt 12](Material/blatt12.pdf) (Abgabe Mittwoch, 29. Jänner)
+- [Blatt 13](Material/blatt13.pdf) (Abgabe Mittwoch, 5. Februar, per Mail bis **spätestens 13:15 Uhr**)
 
 
 ## Bewertung
