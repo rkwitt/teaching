@@ -28,7 +28,7 @@ be in the form `group_A_submission_exsheet_C.pdf` in case you are part of group 
 
 | | **Points** | **Link** | **Deadline** |
 |---|---|---|---|
-| Exercise sheet A  |        | Upload link | tba |
+| [Exercise sheet A](exA.pdf)  |  10    | Upload link | 03/24/25 (11:59pm) |
 | Exercise sheet B  |        | Upload link | tba |
 | Exercise sheet C  |        | Upload link | tba |
 | Exercise sheet D  |        | Upload link | tba |
