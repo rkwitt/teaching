@@ -29,7 +29,7 @@ be in the form `group_A_submission_exsheet_C.pdf` in case you are part of group 
 | | **Points** | **Link** | **Deadline** |
 |---|---|---|---|
 | [Exercise sheet A](exA.pdf)  |  10    | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/Eq8MlTSfMPlBlFOjVXKMH-UBpO6lb9kAKHdUI4BweKnJsg) | 03/24/25 (11:59pm) |
-| Exercise sheet B  |        | Upload link | tba |
+| [Exercise sheet B](exB.pdf)  |   6    | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/Et45ZAnaK_xKntxN3unpF8YBlzVkUu0mq1nyDS0ihG7D4A) | 04/15/25 (11:59pm) |
 | Exercise sheet C  |        | Upload link | tba |
 | Exercise sheet D  |        | Upload link | tba |
 | Exercise sheet E  |        | Upload link | tba |
