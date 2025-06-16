@@ -66,7 +66,7 @@ This gives you a clone of the *full* teaching repository. The only part relevant
   *Lebesgue integration, Expected value, Markov inequality*    
   [Video](https://drive.google.com/file/d/1fMgQeX3juT_TEEQ4YFVlUVOIYjjzFexa/view?usp=sharing), [Notes 2021](https://drive.google.com/file/d/1rvVyYzTf___HPKbshQGfChJW_1m4qyiq/view?usp=sharing)   
 
-- [**Notes**](notes-current.pdf) (current, 04/01/25)
+- [**Notes**](notes-current.pdf) (current, 06/16/25)
 
 ### Books (for reference)
 
