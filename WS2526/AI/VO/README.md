@@ -12,7 +12,7 @@
 | | Datum, Zeit, Ort |
 |--------|----------------|
 | 1. Termin | wird noch bekannt gegeben |
-| 3. Termin | wird noch bekannt gegeben |
+| 2. Termin | wird noch bekannt gegeben |
 | 3. Termin | wird noch bekannt gegeben |
 
 ### AI Eingangswerkstatt (2 SSt. Variante)
@@ -20,7 +20,7 @@
 | | Datum, Zeit, Ort |
 |--------|----------------|
 | 1. Termin | wird noch bekannt gegeben |
-| 3. Termin | wird noch bekannt gegeben |
+| 2. Termin | wird noch bekannt gegeben |
 | 3. Termin | wird noch bekannt gegeben |
 
 ## Neuigkeiten
@@ -39,7 +39,7 @@ Die Vorlesung *AI Eingangswerstatt* führt Studierende in das Studium (Aufbau, A
 
 ## Benotung
 
-**Schriftliche Prüfung** (3. Termine) am Ende des Semesters (und im Laufe des Sommersemesters '26).
+**Schriftliche Prüfung** am Ende des Semesters (und im Laufe des Sommersemesters '26). Es werden **drei** Termine angeboten.
 
 ## Unterlagen (Folien)
 
