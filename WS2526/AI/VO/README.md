@@ -2,12 +2,12 @@
 
 ## LV LeiterInnen
 
-- Univ. Prof. Dr. Christine Bauer
-- Univ. Prof. Dr. Roland Kwitt
+- Univ.-Prof. Dr. Christine Bauer
+- Univ.-Prof. Dr. Roland Kwitt
 
 ## Prüfungstermine
 
-### Einführung AI (1 SSt. Variante)
+### Einführung AI (1 SSt. Variante für BA Informatik)
 
 | | Datum, Zeit, Ort |
 |--------|----------------|
@@ -15,7 +15,7 @@
 | 2. Termin | wird noch bekannt gegeben |
 | 3. Termin | wird noch bekannt gegeben |
 
-### AI Eingangswerkstatt (2 SSt. Variante)
+### AI Eingangswerkstatt (2 SSt. Variante für BA AI)
 
 | | Datum, Zeit, Ort |
 |--------|----------------|
@@ -25,13 +25,13 @@
 
 ## Neuigkeiten
 
-- **Ort/Zeit** der Lehrveranstaltung: **Hörsall II - Lise Meitner (JAK2AUG0.69) (Fr., 10:30-12:00)** (siehe PLUS Online, in Itzling, Jakob-Haringer Str. 2, FB CPM im Keller)
+- **Ort/Zeit** der Lehrveranstaltung: **Hörsall II - Lise Meitner (JAK2AUG0.69) (Fr., 10:30-12:00)** (siehe PLUS Online, in Itzling, Jakob-Haringer Str. 2, FB CPM im Untergeschoss)
 
 ## Allgemeines
 
 Die Vorlesung (2 SSt.) ist Teil der STEOP (Studieneingangs und Orientierungsphase), die jede/jeder Studierende zu Beginn des **Bachelorstudiums AI** absolvieren muss. Sinn und Zweck der STEOP ist es, das Studium auszuprobieren, sowie die Grundlagen des Faches kennenzulernen.
 
-Für Studierende des **BA Informatik** ist die LV *einstündig* (1 SSt.). Wir werden jedoch trotzdem 90min Slots nutzen und die LV endet daher dann für BA Informatik Studierende schon im *Dezember '25* (den genauen letzen VO Termin gebe ich rechtzeitig bekannt). Prüfungsinhalt ist dann natürlich nur der Stoff bis zu diesem Zeitpunkt.
+Für Studierende des **Bachelorstudiums Informatik** ist die LV *einstündig* (1 SSt.). Wir werden jedoch trotzdem 90min Slots nutzen und der letzte LV-Termin ist für BA Informatik Studierende daher schon am *5. Dezember '25*. Prüfungsinhalt ist natürlich nur der Stoff bis inklusive dieser LV-Einheit.
 
 ## Inhalt
 
