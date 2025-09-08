@@ -43,13 +43,14 @@ Die Vorlesung *AI Eingangswerstatt* führt Studierende in das Studium (Aufbau, A
 
 ## Unterlagen (Folien)
 
-Als Lehrveranstaltungsunterlagen dienen die Folien (werden am Beginn der LV hier zur Verfügung gestellt). Im Laufe der VO kann es sein, dass wir die Folien aktualisieren. Wir werden den unten stehenden Link immer mit einem Datum versehen, sodass es klar ist, um welche Version der Folien es sich handelt. Bitte nutzen Sie als Vorbereitung auf die Prüfung die **aktuellste** Version der Folien. 
+Als Lehrveranstaltungsunterlagen dienen die Folien. Im Laufe der VO kann es sein, dass wir die Folien aktualisieren. Wir werden den unten stehenden Link immer mit einem Datum versehen, sodass es klar ist, um welche Version der Folien es sich handelt. Bitte nutzen Sie als Vorbereitung auf die Prüfung die **aktuellste** Version der Folien. 
 
-- [RN (Kapitel 1)](RN_Ch1.pdf)
-- [RN (Kapitel 2)](RN_Ch2.pdf)
-- [RN (Kapitel 3)](RN_Ch3.pdf)
-- [RN (Kapitel 4)](RN_Ch4.pdf)
+- Folien 
 
 ## Literatur
 
-Die empfohlene Literatur zur VO ist die englische Version des Klassikers *Artificial Intelligence: A Modern Approach (4th ed.)* von Stuart Russel und Peter Norvig (RN).
+Die empfohlene Literatur zur VO ist die englische Version des Klassikers *Artificial Intelligence: A Modern Approach (4th ed.)* von Stuart Russel und Peter Norvig (RN). Ausgewählte Kapitel sind [hier](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/EiOlzW4rY2NHqD_bmb241LIBTwEguTd-5HThY3X42jrkFQ?e=x9NYoL)
+
+
+
+
