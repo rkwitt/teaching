@@ -2,7 +2,6 @@
 
 ## News / Important dates
 
-- Mapping of StudentID to an anonymized ID will be handed out.
 - **Begin of PS**: Oct. 1st, 2025 (Vorbesprechung/Administrative stuff)
 - **Location**: Rechnerraum, Jakob-Haringer Str. 2
 
