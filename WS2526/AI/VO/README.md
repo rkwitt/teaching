@@ -25,7 +25,7 @@
 
 ## Neuigkeiten
 
-- **Ort/Zeit** der Lehrveranstaltung: **Hörsall II - Lise Meitner (JAK2AUG0.69) (Fr., 10:30-12:00)** (siehe PLUS Online, in Itzling, Jakob-Haringer Str. 2, FB CPM im Untergeschoss)
+- **Ort/Zeit** der Lehrveranstaltung: **Hörsaal II - Lise Meitner (JAK2AUG0.69) (Fr., 10:30-12:00)** (siehe PLUS Online, in Itzling, Jakob-Haringer Str. 2, FB CPM im Untergeschoss)
 
 ## Allgemeines
 
@@ -49,7 +49,7 @@ Als Lehrveranstaltungsunterlagen dienen die Folien. Im Laufe der VO kann es sein
 
 ## Literatur
 
-Die empfohlene Literatur zur VO ist die englische Version des Klassikers *Artificial Intelligence: A Modern Approach (4th ed.)* von Stuart Russel und Peter Norvig (RN). Ausgewählte Kapitel sind [hier](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/EiOlzW4rY2NHqD_bmb241LIBTwEguTd-5HThY3X42jrkFQ?e=x9NYoL)
+Die empfohlene Literatur zur VO ist die englische Version des Klassikers *Artificial Intelligence: A Modern Approach (4th ed.)* von Stuart Russel und Peter Norvig (RN). Ausgewählte Kapitel sind [hier](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/EiOlzW4rY2NHqD_bmb241LIBTwEguTd-5HThY3X42jrkFQ?e=xws7aH).
 
 
 
