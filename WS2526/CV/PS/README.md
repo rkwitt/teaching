@@ -18,6 +18,16 @@ each repository).
 Automatic grading is done via [Otter-Grader](https://otter-grader.readthedocs.io/en/latest/). Each assignment will have automatic tests assigned to it (which you can also run on your own) that will be run by me once the deadline for an exercise sheet has passed. *We will go through an example in the first PS*. To set up your environment so that you can start working on the assignments, I have provided an exemplary setup below (adjust to your system).
 **Note**: all handed-in exercises have to *pass* the auto-grader, if not, 0 points will be assigned automatically (hence, I do recommend to test them before handing them in).
 
+### Policy on the use of AI tools in the PS
+
+Students are allowed to use AI tools (e.g., ChatGPT, Copilot, etc.) as supporting resources when working on the programming exercises of this PS. However, reliance on these tools does not replace the requirement to understand the solution.
+
+I may ask you to explain, in detail, how your code works and why you made certain choices. If you **cannot** convincingly (this is the key word here) demonstrate understanding, your exercise will receive **0 points** regardless of correctness.
+
+*This policy is in accordance with University guidelines, see [here](https://im.sbg.ac.at/spaces/QM/pages/303891131/Leistungs%C3%BCberpr%C3%BCfung?preview=/303891131/490639350/Leitfaden%20KI%20und%20schriftliche%20Arbeiten%20im%20Studium%20v2025-09%20LOGO.pdf)*.
+
+**Recommendation**: Use AI tools only to support your learning (e.g., for debugging, brainstorming, or clarifying concepts), not to replace your own reasoning and problem-solving.
+
 ## Preliminaries
 
 I do recommend a setup using [Anaconda Python](https://www.anaconda.com/products/individual). Below is a short guide on how to install Anaconda + PyTorch on a Mac OS X system, including some dependencies (the setup on Linux and Windows systems is pretty similar and very good resources can be found online).
