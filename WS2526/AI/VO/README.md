@@ -41,6 +41,10 @@ Die Vorlesung *AI Eingangswerstatt* führt Studierende in das Studium (Aufbau, A
 
 **Schriftliche Prüfung** am Ende des Semesters (und im Laufe des Sommersemesters '26). Es werden **drei** Termine angeboten.
 
+### Nutzung von AI Tools
+
+Unerlaubte Hilfsmittel (also auch AI Tools) sind nicht zulässig, siehe [§ 2a HS QSG](https://www.jusline.at/gesetz/hs-qsg/paragraf/2a) und den [Leitfaden zur Verwendung von KI-Werkzeugen](https://im.sbg.ac.at/spaces/QM/pages/303891131/Leistungs%C3%BCberpr%C3%BCfung?preview=/303891131/490639350/Leitfaden%20KI%20und%20schriftliche%20Arbeiten%20im%20Studium%20v2025-09%20LOGO.pdf).
+
 ## Unterlagen (Folien)
 
 Als Lehrveranstaltungsunterlagen dienen die Folien. Im Laufe der VO kann es sein, dass wir die Folien aktualisieren. Wir werden den unten stehenden Link immer mit einem Datum versehen, sodass es klar ist, um welche Version der Folien es sich handelt. Bitte nutzen Sie als Vorbereitung auf die Prüfung die **aktuellste** Version der Folien. 

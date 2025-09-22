@@ -10,8 +10,9 @@
 
 ## News / Important dates
 
-- **Begin of lecture**: Oct. 1st, 2025 (Vorbesprechung/Administrative stuff)
-- **Location**: Rechnerraum, Jakob-Haringer Str. 2
+- **Begin of lecture**: Oct. 8, 2025 (Vorbesprechung/Administrative stuff)
+- **Location**: Seminarraum 1 (CPM Building, 1st floor)
+- **Time**: 8:30am
 
 ## General
 
@@ -23,7 +24,11 @@ We have a Slack channel `#computervision` on [slack.com](https://visel.slack.com
 
 ## Grading
 
-Grading is based on a **final exam** at the end of the semester or within the semester break. However, I am quite flexible regarding exam dates, and we will find dates that work for everyone.
+Grading is based on a written **final exam** at the end of the semester or within the semester break. However, I am quite flexible regarding exam dates, and we will find dates that work for everyone. There will be **three** dates for this exam (announced above).
+
+### On the use of AI tools
+
+The use of AI tools is **not permitted** during the exam, see § 2a [HS-QSG](https://www.jusline.at/gesetz/hs-qsg/paragraf/2a).
 
 ## Material
 
@@ -56,13 +61,21 @@ Below is a more detailed list of topics covered in the course, subject to change
 
 - [**Introduction & Computer vision problems**](../material/IntroSlides.pdf)
 
-## Material
+- Perceptron
+- Automatic differentiation
+- Gradient-based optimization
+- Stochastic Gradient Descent and variants
+- Multi-layer preceptron (MLP)
+- Cross-entropy
+- Convolution & Convolutional neural networks (CNNs)
+- Residual learning
+- Finetuning
+- Autoencoders
+- Attention & (Vision) transformers
 
 ### Prelimiaries
 
 - [**Tensor basics**](../material/01.1_TensorBasics)
-
-### Topics
 
 ## Data
 

@@ -2,16 +2,14 @@
 
 ## News / Important dates
 
-- **Begin of PS**: Oct. 1st, 2025 (Vorbesprechung/Administrative stuff)
-- **Location**: Rechnerraum, Jakob-Haringer Str. 2
+- **Begin of PS**: Oct. 8, 2025 (Vorbesprechung/Administrative stuff)
+- **Location**: Seminarraum 1 (CPM Building, 1st floor)
+- **Time**: 10am
+
 
 ## Grading
 
-Grading is based on solving programming assignments loosely related to computer vision topics.
-Solutions are handed in online as Python files and will be **automatically** graded. You will also have the possibility to assess your solutions on your own to check if they are correct.
-Assignments are published in the form of **exercise sheets**. For each exercise sheet, there exists a
-separate GitHub repository that explains what needs to be done (in particular, a `README.md` file in
-each repository).
+Grading is based on solving programming assignments loosely related to computer vision topics. Solutions are handed in online as Python files and will be **automatically** graded. You will also have the possibility to assess your solutions on your own to check if they are correct. Assignments are published in the form of **exercise sheets**. For each exercise sheet, there exists a separate GitHub repository that explains what needs to be done (in particular, a `README.md` file in each repository).
 
 ### Automatic grading
 
@@ -20,9 +18,7 @@ Automatic grading is done via [Otter-Grader](https://otter-grader.readthedocs.io
 
 ### Policy on the use of AI tools in the PS
 
-Students are allowed to use AI tools (e.g., ChatGPT, Copilot, etc.) as supporting resources when working on the programming exercises of this PS. However, reliance on these tools does not replace the requirement to understand the solution.
-
-I may ask you to explain, in detail, how your code works and why you made certain choices. If you **cannot** convincingly (this is the key word here) demonstrate understanding, your exercise will receive **0 points** regardless of correctness.
+Students are allowed to use AI tools (e.g., ChatGPT, Copilot, etc.) as supporting resources when working on the programming exercises of this PS, however, its use **must be transparently declared** in the student submissions. Also, I may ask you to explain, in detail, how your code works, and why you made certain choices. If you **cannot** convincingly (this is the key word here) demonstrate an in-depth understanding of your own solution, your exercise will receive **0 points** regardless of correctness.
 
 *This policy is in accordance with University guidelines, see [here](https://im.sbg.ac.at/spaces/QM/pages/303891131/Leistungs%C3%BCberpr%C3%BCfung?preview=/303891131/490639350/Leitfaden%20KI%20und%20schriftliche%20Arbeiten%20im%20Studium%20v2025-09%20LOGO.pdf)*.
 
