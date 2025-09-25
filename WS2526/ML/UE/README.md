@@ -6,14 +6,25 @@
 
 ## News
 
-- Der Termin am 11. Dezember entfällt. Abgabe von Blatt 9 erst am 18. Dezember.
-- Vorbesprechung **Mittwoch, 9. Oktober 2024**. Am 2. Oktober findet keine Übung statt.
-
-## Übungsblätter
-Die Übungsaufgaben sind in **Dreier-Gruppen** zu bearbeiten und in der darauffolgenden Woche **zu Beginn des Proseminars** abzugeben.
+- Erster Termin ist **Mittwoch, 8. Oktober 2024**. Am 1. Oktober findet noch kein Proseminar statt.
 
 ## Bewertung
 
+Die Endnote setzt sich aus einer Gruppenleistung (50%) und einer Einzelleistung (50%) zusammen.
+
+### Gruppenleistung
+Jede Woche wird ein Übungsblatt erscheinen, das in der darauffolgenden Woche im Proseminar besprochen wird.
+Die Übungsaufgaben sind in **Vierer-Gruppen** zu bearbeiten und **zu Beginn des Proseminars** abzugeben. In Ausnahmefällen sind nach Rücksprache auch Dreier-Gruppen möglich.
+Bei abweichender Gruppengröße oder zu später Abgabe wird das Übungsblatt mit 0 Punkten bewertet.
+
+### Einzelleistung
+Die Einzelleistung setzt sich aus 3 Bestandteilen zusammen.
+1. Präsentation von Übungsaufgaben. Pflicht sind zwei pro Teilnehmer. (40%)
+2. Anzahl der Übungsaufgaben für die man sich freiwillig meldet. (20%)
+3. Kurztests. In jedem Proseminar wird es einen Kurztest (Umfang 10 Minuten) geben, der grundlegende Inhalte des vorherigen Übungsblatts abfragt. (40%)  
+  Sollten Sie einen Proseminartermin bzw. Kurztest verpassen, wird dieser mit 0 Punkten bewertet. Die drei schlechtesten Tests pro Teilnehmer werden in der Endnote ignoriert.
+
+### Gesamtnote 
 - Die abgegebenen Übungsblätter werden kontrolliert und bewertet (Punkte).
 - Die Endnote wird anhand der über das Semester erreichten Punktzahl berechnet.
   - Note 1 bei ≥ 87.5% der möglichen Punkte
@@ -21,5 +32,6 @@ Die Übungsaufgaben sind in **Dreier-Gruppen** zu bearbeiten und in der darauffo
   - Note 3 bei ≥ 62.5% der möglichen Punkte
   - Note 4 bei ≥ 50.0% der möglichen Punkte
 - Für das Bestehen der Lehrveranstaltung sind folgende Bedingungen zu erfüllen:
-  - Mindestens 50% der möglichen Punkte der bewerteten Übungsblätter.
+  - Mindestens 50% der möglichen Punkte in der Gruppen- **und** Einzelleistung.
   - Anwesenheit bei mindestens 80% der Übungstermine.
+ 
