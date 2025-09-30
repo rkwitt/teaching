@@ -12,7 +12,7 @@
 
 - **Begin of lecture**: Oct. 8, 2025 (Vorbesprechung/Administrative stuff)
 - **Location**: Seminarraum 1 (CPM Building, 1st floor)
-- **Time**: 8:30am
+- **Time**: 8:30am (first lecture starts at 9:05am)
 
 ## General
 
