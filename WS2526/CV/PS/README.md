@@ -13,7 +13,8 @@ Grading is based on solving programming assignments loosely related to computer 
 ### Automatic grading
 
 Automatic grading is done via [Otter-Grader](https://otter-grader.readthedocs.io/en/latest/). Each assignment will have automatic tests assigned to it (which you can run yourself) that will be run by me once the deadline for an exercise sheet has passed. *We will go through an example in the first PS*. To set up your environment so that you can start working on the assignments, I have provided an exemplary setup below (adjust to your system).
-**Note**: all handed-in exercises have to *pass* the auto-grader, if not, **0 points** will be assigned automatically (hence, I do recommend to test them before handing them in). Please also make sure the file naming, as specified in the exercise sheet, is correct.
+
+⚠️ All handed-in exercises have to *pass* the auto-grader, if not, **0 points** will be assigned automatically (hence, I do recommend to test them before handing them in). Please also make sure the file naming, as specified in the exercise sheet, is correct.
 
 ### Policy on the use of AI tools in the PS
 
