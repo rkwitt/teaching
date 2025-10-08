@@ -8,6 +8,11 @@
 
 - Erster Termin ist **Mittwoch, 8. Oktober 2024**. Am 1. Oktober findet noch kein Proseminar statt.
 
+## Übungsblätter
+
+- [Blatt 1](Material/blatt1.pdf
+- [Blatt 2](Material/blatt2.pdf) (Abgabe Mittwoch, 15. Oktober)
+
 ## Bewertung
 
 Die Endnote setzt sich aus einer Gruppenleistung (50%) und einer Einzelleistung (50%) zusammen.
@@ -19,7 +24,7 @@ Bei abweichender Gruppengröße oder zu später Abgabe wird das Übungsblatt mit
 
 ### Einzelleistung
 Die Einzelleistung setzt sich aus 3 Bestandteilen zusammen.
-1. Präsentation von Übungsaufgaben. Pflicht sind zwei pro Teilnehmer. (40%)
+1. Präsentation von Übungsaufgaben. (40%)
 2. Anzahl der Übungsaufgaben für die man sich freiwillig meldet. (20%)
 3. Kurztests. In jedem Proseminar wird es einen Kurztest (Umfang 10 Minuten) geben, der grundlegende Inhalte des vorherigen Übungsblatts abfragt. (40%)  
   Sollten Sie einen Proseminartermin bzw. Kurztest verpassen, wird dieser mit 0 Punkten bewertet. Die drei schlechtesten Tests pro Teilnehmer werden in der Endnote ignoriert.
