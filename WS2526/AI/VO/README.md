@@ -49,12 +49,8 @@ Unerlaubte Hilfsmittel (also auch AI Tools) sind nicht zulässig, siehe [§ 2a H
 
 Als Lehrveranstaltungsunterlagen dienen die Folien. Im Laufe der VO kann es sein, dass wir die Folien aktualisieren. Wir werden den unten stehenden Link immer mit einem Datum versehen, sodass es klar ist, um welche Version der Folien es sich handelt. Bitte nutzen Sie als Vorbereitung auf die Prüfung die **aktuellste** Version der Folien. 
 
-- Folien 
+- [Folien](slides-03-10-2025.pdf) (vom 3. Okt. 2025)
 
 ## Literatur
 
 Die empfohlene Literatur zur VO ist die englische Version des Klassikers *Artificial Intelligence: A Modern Approach (4th ed.)* von Stuart Russel und Peter Norvig (RN). Ausgewählte Kapitel sind [hier](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/EiOlzW4rY2NHqD_bmb241LIBTwEguTd-5HThY3X42jrkFQ?e=xws7aH).
-
-
-
-

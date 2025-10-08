@@ -4,14 +4,15 @@
 **Kontakt**: `florian [dot] graf [at] plus [dot] ac [dot] at`  
 **Termin**: Mittwochs, 13:15-15:00 in Hörsaal T02
 
+## Übungsblätter
+
+- [Blatt 1 ](Material/blatt1.pdf) (Ungewertet, Besprechung 8. Oktober)
+- [Blatt 2](Material/blatt2.pdf) (Abgabe Mittwoch, 15. Oktober)
+
+
 ## News
 
 - Erster Termin ist **Mittwoch, 8. Oktober 2024**. Am 1. Oktober findet noch kein Proseminar statt.
-
-## Übungsblätter
-
-- [Blatt 1](Material/blatt1.pdf
-- [Blatt 2](Material/blatt2.pdf) (Abgabe Mittwoch, 15. Oktober)
 
 ## Bewertung
 
