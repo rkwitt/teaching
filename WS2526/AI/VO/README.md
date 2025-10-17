@@ -7,7 +7,7 @@
     ![RingVO](RingVOPlakat.jpg)
 
 
-- (17-Okt-2025) Für die Veranstaltungen von **KI+ME** (Theaterperformance sowie 3 Diskussionsrunden) kann man sich [hier](https://www.argekultur.at/projekte/2025/openmindfrequently/ki-and-me/) anmelden.
+- (17-Okt-2025) Für die Veranstaltungen von **KI+ME** (Theaterperformance sowie 3 Diskussionsrunden) kann man sich hier [zu den Veranstaltungen anmelden](https://www.argekultur.at/projekte/2025/openmindfrequently/ki-and-me/).
 Die Diskussionsrunden sind eine Kooperation von [ARGE Kultur Salzburg](https://www.argekultur.at/) mit dem [Programmbereich InterMediation](https://w-k.sbg.ac.at/intermediation-musik-wirkung-analyse-2024-2028/) an der interuniversitären Einrichtung [Wissenschaft & Kunst](https://w-k.sbg.ac.at/).
 
 
