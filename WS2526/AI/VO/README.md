@@ -1,5 +1,15 @@
 # AI Eingangswerstatt (VO)
 
+## Ankündigungen
+
+![RingVO](RingVOPlakat.jpg)
+
+Öffentliche Ringvorlesung im WS 25/26: [**Gekommen, um zu bleiben…: KI in Kunst, Forschung und Lehre**](https://w-k.sbg.ac.at/veranstaltung/gekommen-um-zu-bleiben-ki-in-kunst-forschung-und-lehre/)
+
+Für die Veranstaltungen von **KI+ME** (Theaterperformance sowie 3 Diskussionsrunden) kann man sich [hier](https://www.argekultur.at/projekte/2025/openmindfrequently/ki-and-me/) anmelden.
+Die Diskussionsrunden sind eine Kooperation von [ARGE Kultur Salzburg](https://www.argekultur.at/) mit dem [Programmbereich InterMediation](https://w-k.sbg.ac.at/intermediation-musik-wirkung-analyse-2024-2028/) an der interuniversitären Einrichtung [Wissenschaft & Kunst](https://w-k.sbg.ac.at/).
+
+
 ## LV LeiterInnen
 
 - Univ.-Prof. Dr. Christine Bauer
@@ -24,6 +34,8 @@
 | 3. Termin | wird noch bekannt gegeben |
 
 ## Neuigkeiten
+
+- Folien Update (17-Okt-2025)
 
 - **Ort/Zeit** der Lehrveranstaltung: **Hörsaal II - Lise Meitner (JAK2AUG0.69) (Fr., 10:30-12:00)** (siehe PLUS Online, in Itzling, Jakob-Haringer Str. 2, FB CPM im Untergeschoss)
 
