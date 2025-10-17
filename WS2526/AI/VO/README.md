@@ -2,11 +2,12 @@
 
 ## Ankündigungen
 
-![RingVO](RingVOPlakat.jpg)
+- (17-Okt-2025) Öffentliche Ringvorlesung im WS 25/26: [**Gekommen, um zu bleiben…: KI in Kunst, Forschung und Lehre**](https://w-k.sbg.ac.at/veranstaltung/gekommen-um-zu-bleiben-ki-in-kunst-forschung-und-lehre/)
 
-Öffentliche Ringvorlesung im WS 25/26: [**Gekommen, um zu bleiben…: KI in Kunst, Forschung und Lehre**](https://w-k.sbg.ac.at/veranstaltung/gekommen-um-zu-bleiben-ki-in-kunst-forschung-und-lehre/)
+    ![RingVO](RingVOPlakat.jpg)
 
-Für die Veranstaltungen von **KI+ME** (Theaterperformance sowie 3 Diskussionsrunden) kann man sich [hier](https://www.argekultur.at/projekte/2025/openmindfrequently/ki-and-me/) anmelden.
+
+- (17-Okt-2025) Für die Veranstaltungen von **KI+ME** (Theaterperformance sowie 3 Diskussionsrunden) kann man sich [hier](https://www.argekultur.at/projekte/2025/openmindfrequently/ki-and-me/) anmelden.
 Die Diskussionsrunden sind eine Kooperation von [ARGE Kultur Salzburg](https://www.argekultur.at/) mit dem [Programmbereich InterMediation](https://w-k.sbg.ac.at/intermediation-musik-wirkung-analyse-2024-2028/) an der interuniversitären Einrichtung [Wissenschaft & Kunst](https://w-k.sbg.ac.at/).
 
 
