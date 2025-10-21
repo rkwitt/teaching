@@ -8,7 +8,7 @@
 
 ## Neuigkeiten
 
-- **Vorbesprechung (UV und SE)**: wird noch bekannt gegeben
+- **Vorbesprechung (UV und SE)**: 22. Okt. 2025 (13:30)
 
 ## Allgemeines
 
