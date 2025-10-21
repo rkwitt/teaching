@@ -24,9 +24,9 @@ Zudem gibt es zusätlich zum Vorbesprechungstermin **drei** weitere Termine (sie
 
 | **Termin/Ort/Zeit**  | **Thema** | **Material** |
 |---|---|---|
-| wird noch bekannt gegeben / Rechnerübungsraum / wird noch bekannt gegeben | *Vorbesprechung*                        | |
+| wird noch bekannt gegeben / Rechnerübungsraum / wird noch bekannt gegeben | *Vorbesprechung*                        | [Slides](IntroSlides.pdf)|
 | wird noch bekannt gegeben / Rechnerübungsraum / wird noch bekannt gegeben | *Scientific Writing*                    | |
-| wird noch bekannt gegeben / Rechnerübungsraum / wird noch bekannt gegeben| *Code management & Reproducibility*     | |
+| wird noch bekannt gegeben / Rechnerübungsraum / wird noch bekannt gegeben| *Code management & Reproducibility*      | |
 | wird noch bekannt gegeben / Rechnerübungsraum / wird noch bekannt gegeben | *Benchmarking*                          | |
 
 **Wöchentliche Catch-Ups & Updates**
