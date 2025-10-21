@@ -9,6 +9,7 @@
 - [Blatt 1 ](Material/blatt1.pdf) (Ungewertet, Besprechung 8. Oktober)
 - [Blatt 2](Material/blatt2.pdf) (Abgabe Mittwoch, 15. Oktober)
 - [Blatt 3](Material/blatt3.pdf) (Abgabe Mittwoch, 22. Oktober)
+- [Blatt 4](Material/blatt3.pdf) (Abgabe Mittwoch, 29. Oktober)
 
 
 ## News
@@ -39,6 +40,6 @@ Die Einzelleistung setzt sich aus 3 Bestandteilen zusammen.
   - Note 3 bei ≥ 62.5% der möglichen Punkte
   - Note 4 bei ≥ 50.0% der möglichen Punkte
 - Für das Bestehen der Lehrveranstaltung sind folgende Bedingungen zu erfüllen:
-  - Mindestens 50% der möglichen Punkte in der Gruppen- **und** Einzelleistung.
+  - Mindestens 50% der möglichen Punkte in beidem, der Gruppen- **und** Einzelleistung.
   - Anwesenheit bei mindestens 80% der Übungstermine.
  
