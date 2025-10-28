@@ -118,6 +118,7 @@ otter check submission_1234.py -q t1
 |  | Upload link | GitHub repo. | Deadline |
 |----------|----------|----------|---------|
 | Exercise sheet 1    | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/EuZfRbFY_rpGtAe8fUiRcmEBN_ZENBtednB_SYVAGDynBg)  | [Repo](https://github.com/rkwitt-teaching/CV-2526-ExSheet1) | Oct-14-2025 (11:59pm) |
+| Exercise sheet 2    | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/EuZfRbFY_rpGtAe8fUiRcmEBN_ZENBtednB_SYVAGDynBg) | [Repo](https://github.com/rkwitt-teaching/CV-2526-ExSheet2) | Nov-04-2025 (11:59pm) |
 
 **Status**
 
