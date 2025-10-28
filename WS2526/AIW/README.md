@@ -84,4 +84,4 @@ Auf Basis des [Leitfadens zur Verwendung von KI-Werkzeugen](https://im.sbg.ac.at
 
 ## Projektthemen
 
-Eine Zusammenfassung der Projektthemen finden Sie hier (Link wird zu Semesterbeginn aktualisiert), sowie die Slides der **ersten** Einheit [hier](IntroSlides.pdf), die Slides der **zweiten** Einheit [hier](AcadWriting.pdf).
+Eine Zusammenfassung der Projektthemen finden Sie in den Slides der **ersten** Einheit [hier](IntroSlides.pdf).
