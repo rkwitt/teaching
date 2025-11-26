@@ -38,7 +38,7 @@ Aufgrund des Projektcharacters der Lehrveranstaltung bieten wir den Studierenden
 |---|---|
 | ~~Univ.-Prof. Dr. Christine Bauer~~ | ~~wird in Vorbesprechung fixiert~~  |
 | Univ.-Prof. Dr. Frank Pallas    | wird in Vorbesprechung fixiert  |
-| Univ.-Prof. Dr. Roland Kwitt    | Mittwoch's 11:00 (nach CV PS) |
+| Univ.-Prof. Dr. Roland Kwitt    | Mittwochs 11:00 (nach CV PS) |
 
 ### SE
 
