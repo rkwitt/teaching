@@ -24,10 +24,10 @@ Zudem gibt es zusätlich zum Vorbesprechungstermin **drei** weitere Termine (sie
 
 | **Termin/Ort/Zeit**  | **Thema** | **Material** |
 |---|---|---|
-| 22. Okt. 2025 / Rechnerübungsraum / 13:30 | *Vorbesprechung*                        | [Slides](IntroSlides.pdf)|
+| 22. Okt. 2025 / Rechnerübungsraum / 13:30 | *Vorbesprechung*                        | [Slides](IntroSlides.pdf) |
 | 29. Okt. 2025 / Rechnerübungsraum / 13:30 | *Code management & Reproducibility*     | live |
-| 12. Nov. 2025 / Rechnerübungsraum / 13:30 | *Benchmarking*                          | [Slides](Benchmarking.pdf)|
-| 26. Nov. 2025 / Rechnerübungsraum / 13:30 | *Scientific Writing*                    | |
+| 12. Nov. 2025 / Rechnerübungsraum / 13:30 | *Benchmarking*                          | [Slides](Benchmarking.pdf) |
+| 26. Nov. 2025 / Rechnerübungsraum / 13:30 | *Academic Writing*                    | [Slides](AcademicWriting.pdf |
 
 
 **Wöchentliche Catch-Ups & Updates**
@@ -38,7 +38,7 @@ Aufgrund des Projektcharacters der Lehrveranstaltung bieten wir den Studierenden
 |---|---|
 | ~~Univ.-Prof. Dr. Christine Bauer~~ | ~~wird in Vorbesprechung fixiert~~  |
 | Univ.-Prof. Dr. Frank Pallas    | wird in Vorbesprechung fixiert  |
-| Univ.-Prof. Dr. Roland Kwitt    | wird in Vorbesprechung fixiert  |
+| Univ.-Prof. Dr. Roland Kwitt    | Mittwoch's 11:00 (nach CV PS) |
 
 ### SE
 
