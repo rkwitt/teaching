@@ -29,6 +29,7 @@ Zudem gibt es zusätlich zum Vorbesprechungstermin **drei** weitere Termine (sie
 | 12. Nov. 2025 / Rechnerübungsraum / 13:30 | *Benchmarking*                          | [Slides](Benchmarking.pdf)|
 | 26. Nov. 2025 / Rechnerübungsraum / 13:30 | *Scientific Writing*                    | |
 
+
 **Wöchentliche Catch-Ups & Updates**
 
 Aufgrund des Projektcharacters der Lehrveranstaltung bieten wir den Studierenden die Möglichkeit, einen Großteil der Semesterstunden (siehe ECTS Credits) dem Projekt zu widmen. Wir stehen jedoch wöchentlich zu fixen Zeiten für die Studierenden zur Verfügung, um rechtzeitig Fragen beantworten zu können bzw. um entsprechend Hilfestellungen geben zu können. Je nach Projekthema sind entweder Univ.-Prof. Bauer, Univ.-Prof. Pallas oder Univ.-Prof. Kwitt die entsprechende Ansprechpartner(innen). Die (wenn auch nur kurze) Nutzung der Slots ist obligatorisch - wir möchten so sicherstellen, dass wir ausreichend früh etwaige Probleme erkennen und lösen können. Die wöchentlichen Slots sind wie folgt:
@@ -41,22 +42,37 @@ Aufgrund des Projektcharacters der Lehrveranstaltung bieten wir den Studierenden
 
 ### SE
 
-Im Seminar (2 SSt.) **AI Werkstatt** sollen Studierende **3x** im Semester (Hinweis: die LV wird geblockt abgehalten) entsprechende Fortschritte aus ihrem in der UV bearbeiteten Projekt präsentieren und mit anderen Studierenden diskutieren. Während die ersten beiden Termine als *Status-Updates* gedacht sind, hat der letzte Termin im Semester den Charakter einer *Abschlusspräsentation*. Die Länge der Präsentationen soll max. 45 Minuten betragen, gefolgt von einem 15 Minuten-Fenster zur Beantwortung von Fragen (von uns *und* den Studierenden) und zur Diskussion.
+Im Seminar (2 SSt.) **AI Werkstatt** sollen Studierende **3x** im Semester (Hinweis: die LV wird geblockt abgehalten) entsprechende Fortschritte aus ihrem in der UV bearbeiteten Projekt präsentieren und mit anderen Studierenden diskutieren. Während die ersten beiden Termine als *Status-Updates* gedacht sind, hat der letzte Termin im Semester den Charakter einer *Abschlusspräsentation*.
 
 | **Termin/Ort/Zeit**  | **Thema** |
-|---|---|
-| wird noch bekannt gegeben / Rechnerübungsraum / wird noch bekannt gegeben | *1st presentation: Outline & Plan(s)*               |
-| wird noch bekannt gegeben / Rechnerübungsraum / wird noch bekannt gegeben | *2nd presentation: Status Update & Progress*         |
-| wird noch bekannt gegeben / Rechnerübungsraum / wird noch bekannt gegeben | *Final presentation*                                 |
+|---|---|                               |
+| 17. Dez. 2025 / Rechnerübungsraum / 13:30 | *1st Presentation: Outline & Plan(s)* |
+| 14. Jan. 2026 / Rechnerübungsraum / 13:30 | *2nd presentation: Status Update & Progress* |
+| 11. Feb. 2026 / Rechnerübungsraum / 13:30 | *Final presentation* |
+
+Bei allen drei Terminen präsentieren alle Gruppen. Bei jeder Präsentation müssen alle Gruppenmitglieder **anwesend** sein, **aktiv beitragen** und und in der Lage sein, **Fragen zu beantworten**.
+
+Zeiten und Ablauf:  
+- Präsentation 1 (Outline & Plan(s)):   
+  - Dauer: max. 10 Minuten   
+  - Q&A/Diskussion: 5 Minuten (Fragen von Lehrendenteam *und* Studierenden)   
+- Präsentation 2:  
+  - Dauer: max. 15 Minuten  
+  - Q&A/Diskussion: 5 Minuten (Fragen von Lehrendenteam *und* Studierenden)
+- Präsentation 3:
+  - Dauer: max. 15 Minuten
+  - Q&A/Diskussion: 5 Minuten (Fragen von Lehrendenteam *und* Studierenden)
+
+
 
 ## Benotung
 
 ### Benotung UV
 
-1) Erstellung eines Reports (ca. 3 Seiten) im IEEE 2-Spalten-Format (Vorlagen werden bereitgestellt). **Abgabetermin** voraussichtlich Mitte des Semesters (wird noch rechtzeitig bekanntgegeben, ca. Mitte Dez. 2025).
-2) Erstellung eines kurzen Artikels (ca. 6 Seiten) im IEEE 2-Spalten-Format (Vorlagen werden bereitgestellt). Idealerweise wird hierzu der Report (sieht Punkt 1) mit den entsprechenden neuen Erkenntnissen erweitert und nach den Prinzipien des guten wissenschaftlichen Arbeitens in eine potentiell veröffentlichbare Version gebracht. **Abgabetermin** ist Semesterende (ein genauer Termin wird noch fixiert).
+1) Erstellung eines Update Reports (ca. 3 Seiten) im IEEE 2-Spalten-Format (4). **Abgabetermin**: 14. Januar 2026, 23:59 (AoE), Abgabe als PDF via e-mail an alle 3 (!) Vorragenden.
+2) Erstellung eines Full Reports (ca. 6 Seiten) im IEEE 2-Spalten-Format (A4). Idealerweise wird hierzu der Report (sieht Punkt 1) mit den entsprechenden neuen Erkenntnissen erweitert und nach den Prinzipien des guten wissenschaftlichen Arbeitens in eine potentiell veröffentlichbare Version gebracht. **Abgabetermin**: 11. FEburar 2026, 23:59 (AoE), Abgabe als PDF via e-mail an alle 3 (!) Vorragenden.
 
-*Die Gewichtung der beiden Teile für die Gesamtnote beträgt 30/70 (also 30% Report, 70% Paper).*
+*Die Gewichtung der beiden Teile für die Gesamtnote beträgt 30/70 (also 30% Update-Report, 70% Full Report).*
 
 ### Benotung SE
 
