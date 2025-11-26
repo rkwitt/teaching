@@ -27,7 +27,7 @@ Zudem gibt es zusätlich zum Vorbesprechungstermin **drei** weitere Termine (sie
 | 22. Okt. 2025 / Rechnerübungsraum / 13:30 | *Vorbesprechung*                        | [Slides](IntroSlides.pdf) |
 | 29. Okt. 2025 / Rechnerübungsraum / 13:30 | *Code management & Reproducibility*     | live |
 | 12. Nov. 2025 / Rechnerübungsraum / 13:30 | *Benchmarking*                          | [Slides](Benchmarking.pdf) |
-| 26. Nov. 2025 / Rechnerübungsraum / 13:30 | *Academic Writing*                    | [Slides](AcademicWriting.pdf |
+| 26. Nov. 2025 / Rechnerübungsraum / 13:30 | *Academic Writing*                    | [Slides](AcademicWriting.pdf) |
 
 
 **Wöchentliche Catch-Ups & Updates**
