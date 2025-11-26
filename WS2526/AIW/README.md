@@ -36,7 +36,7 @@ Aufgrund des Projektcharacters der Lehrveranstaltung bieten wir den Studierenden
 
 |   | **Zeitslot (wöchentlich)**  |
 |---|---|
-| Univ.-Prof. Dr. Christine Bauer | wird in Vorbesprechung fixiert  |
+| ~~Univ.-Prof. Dr. Christine Bauer~~ | ~~wird in Vorbesprechung fixiert~~  |
 | Univ.-Prof. Dr. Frank Pallas    | wird in Vorbesprechung fixiert  |
 | Univ.-Prof. Dr. Roland Kwitt    | wird in Vorbesprechung fixiert  |
 
@@ -45,23 +45,21 @@ Aufgrund des Projektcharacters der Lehrveranstaltung bieten wir den Studierenden
 Im Seminar (2 SSt.) **AI Werkstatt** sollen Studierende **3x** im Semester (Hinweis: die LV wird geblockt abgehalten) entsprechende Fortschritte aus ihrem in der UV bearbeiteten Projekt präsentieren und mit anderen Studierenden diskutieren. Während die ersten beiden Termine als *Status-Updates* gedacht sind, hat der letzte Termin im Semester den Charakter einer *Abschlusspräsentation*.
 
 | **Termin/Ort/Zeit**  | **Thema** |
-|---|---|                               |
+|---|---|
 | 17. Dez. 2025 / Rechnerübungsraum / 13:30 | *1st Presentation: Outline & Plan(s)* |
 | 14. Jan. 2026 / Rechnerübungsraum / 13:30 | *2nd presentation: Status Update & Progress* |
 | 11. Feb. 2026 / Rechnerübungsraum / 13:30 | *Final presentation* |
 
 Bei allen drei Terminen präsentieren alle Gruppen. Bei jeder Präsentation müssen alle Gruppenmitglieder **anwesend** sein, **aktiv beitragen** und und in der Lage sein, **Fragen zu beantworten**.
 
-Zeiten und Ablauf:  
-- Präsentation 1 (Outline & Plan(s)):   
-  - Dauer: max. 10 Minuten   
-  - Q&A/Diskussion: 5 Minuten (Fragen von Lehrendenteam *und* Studierenden)   
-- Präsentation 2:  
-  - Dauer: max. 15 Minuten  
-  - Q&A/Diskussion: 5 Minuten (Fragen von Lehrendenteam *und* Studierenden)
-- Präsentation 3:
-  - Dauer: max. 15 Minuten
-  - Q&A/Diskussion: 5 Minuten (Fragen von Lehrendenteam *und* Studierenden)
+Zeiten und Ablauf: 
+| **Was**  | **Thema** | **Dauer der Präsentation** | **Q&A/Diskussion** |
+|---|---|---|---|
+|1st Presentation | Outline & Plan(s | max. 10 Minuten | 5 Minuten |
+|2nd presentation | Status Update & Progress | max. 15 Minuten | 5 Minuten |
+|3rd presentation | Final Prsentation | max. 15 Minuten | 5 Minuten |
+
+Bei der Q&A/Diskussion sind Fragen vom Lehrendenteam *sowie* den Studierenden vorgesehen.
 
 
 
