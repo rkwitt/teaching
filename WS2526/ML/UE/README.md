@@ -14,6 +14,7 @@
 - [Blatt 6](Material/blatt6.pdf) (Abgabe Mittwoch, 12. November)
 - [Blatt 7](Material/blatt7.pdf) (Abgabe Mittwoch, 19. November)
 - [Blatt 8](Material/blatt8.pdf) (Abgabe Mittwoch, 26. November)
+- [Blatt 9](Material/blatt9.pdf) (Abgabe Mittwoch, 10. Dezember)
 
 
 ## News
