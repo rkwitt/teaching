@@ -36,7 +36,7 @@ Die Diskussionsrunden sind eine Kooperation von [ARGE Kultur Salzburg](https://w
 
 ## Neuigkeiten
 
-- Folien Update (17-Okt-2025)
+- Folien Update (18-Nov-2025)
 
 - **Ort/Zeit** der Lehrveranstaltung: **Hörsaal II - Lise Meitner (JAK2AUG0.69) (Fr., 10:30-12:00)** (siehe PLUS Online, in Itzling, Jakob-Haringer Str. 2, FB CPM im Untergeschoss)
 
@@ -62,7 +62,7 @@ Unerlaubte Hilfsmittel (also auch AI Tools) sind nicht zulässig, siehe [§ 2a H
 
 Als Lehrveranstaltungsunterlagen dienen die Folien. Im Laufe der VO kann es sein, dass wir die Folien aktualisieren. Wir werden den unten stehenden Link immer mit einem Datum versehen, sodass es klar ist, um welche Version der Folien es sich handelt. Bitte nutzen Sie als Vorbereitung auf die Prüfung die **aktuellste** Version der Folien. 
 
-- [Folien](slides.pdf) (Stand: bis inkl. 21-Nov-2025)
+- [Folien](slides.pdf) (Stand: bis inkl. 28-Nov-2025)
 
 ## Literatur
 
