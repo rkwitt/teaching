@@ -35,9 +35,9 @@ Die Diskussionsrunden sind eine Kooperation von [ARGE Kultur Salzburg](https://w
 
 ## Neuigkeiten
 
-- Der prüfungsrelevante Stoff für die *Einführung AI (511.061)* umfasst alle Folien bis inkl. 07-Dez-2025 (die letzte prüfungsrelevante Folie ist mit einem grünen Oval markiert)!
+- Der prüfungsrelevante Stoff für die *Einführung AI (511.061)* umfasst alle Folien bis inkl. 05-Dez-2025 (die letzte prüfungsrelevante Folie ist mit einem grünen Oval markiert)!
 
-- Folien Update (07-Dez-2025)
+- Folien Update (05-Dez-2025)
 
 - **Ort/Zeit** der Lehrveranstaltung: **Hörsaal II - Lise Meitner (JAK2AUG0.69) (Fr., 10:30-12:00)** (siehe PLUS Online, in Itzling, Jakob-Haringer Str. 2, FB CPM im Untergeschoss)
 
