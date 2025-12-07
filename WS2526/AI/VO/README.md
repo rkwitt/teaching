@@ -10,7 +10,6 @@
 - (17-Okt-2025) Für die Veranstaltungen von **KI+ME** (Theaterperformance sowie 3 Diskussionsrunden) kann man sich hier [zu den Veranstaltungen anmelden](https://www.argekultur.at/projekte/2025/openmindfrequently/ki-and-me/).
 Die Diskussionsrunden sind eine Kooperation von [ARGE Kultur Salzburg](https://www.argekultur.at/) mit dem [Programmbereich InterMediation](https://w-k.sbg.ac.at/intermediation-musik-wirkung-analyse-2024-2028/) an der interuniversitären Einrichtung [Wissenschaft & Kunst](https://w-k.sbg.ac.at/).
 
-
 ## LV LeiterInnen
 
 - Univ.-Prof. Dr. Christine Bauer
@@ -36,7 +35,9 @@ Die Diskussionsrunden sind eine Kooperation von [ARGE Kultur Salzburg](https://w
 
 ## Neuigkeiten
 
-- Folien Update (18-Nov-2025)
+- Der prüfungsrelevante Stoff für die *Einführung AI (511.061)* umfasst alle Folien bis inkl. 07-Dez-2025 (die letzte prüfungsrelevante Folie ist mit einem grünen Oval markiert)!
+
+- Folien Update (07-Dez-2025)
 
 - **Ort/Zeit** der Lehrveranstaltung: **Hörsaal II - Lise Meitner (JAK2AUG0.69) (Fr., 10:30-12:00)** (siehe PLUS Online, in Itzling, Jakob-Haringer Str. 2, FB CPM im Untergeschoss)
 
@@ -62,7 +63,7 @@ Unerlaubte Hilfsmittel (also auch AI Tools) sind nicht zulässig, siehe [§ 2a H
 
 Als Lehrveranstaltungsunterlagen dienen die Folien. Im Laufe der VO kann es sein, dass wir die Folien aktualisieren. Wir werden den unten stehenden Link immer mit einem Datum versehen, sodass es klar ist, um welche Version der Folien es sich handelt. Bitte nutzen Sie als Vorbereitung auf die Prüfung die **aktuellste** Version der Folien. 
 
-- [Folien](slides.pdf) (Stand: bis inkl. 28-Nov-2025)
+- [Folien](slides.pdf) (Stand: bis inkl. 05-Dez-2025)
 
 ## Literatur
 
