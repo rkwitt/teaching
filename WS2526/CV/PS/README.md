@@ -121,6 +121,7 @@ otter check submission_1234.py -q t1
 | Exercise sheet 2    | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/EuZfRbFY_rpGtAe8fUiRcmEBN_ZENBtednB_SYVAGDynBg) | [Repo](https://github.com/rkwitt-teaching/CV-2526-ExSheet2) | Nov-04-2025 (11:59pm) |
 | Exericise sheet 3   | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/EhBXcLBJFyNCgmeSNbBq7nMBNOr7725NqnNH1uAjILnBLA) | [Repo](https://github.com/rkwitt-teaching/CV-2526-ExSheet3) | Nov-18-2025 (11:59pm) |
 | Exercise sheet 4    | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/IgBdkMMPuKo8QIkuaisxyhuKAS6_iPVZHuuKW8tOkP_pIjc) | [Repo](https://github.com/rkwitt-teaching/CV-2526-ExSheet4) | Dec-02-2025 (11:59pm) |
+| Exercise sheet 5    | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/IgDegtkKQ-JKSJfy8VG70-s_AQULD9Qdd8k9aGE-75cFUUE) | [Repo](https://github.com/rkwitt-teaching/CV-2526-ExSheet5) | Dec-23-2025 (11:59pm) |
 
 **Status**
 
