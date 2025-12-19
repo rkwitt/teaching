@@ -63,7 +63,7 @@ Unerlaubte Hilfsmittel (also auch AI Tools) sind nicht zulässig, siehe [§ 2a H
 
 Als Lehrveranstaltungsunterlagen dienen die Folien. Im Laufe der VO kann es sein, dass wir die Folien aktualisieren. Wir werden den unten stehenden Link immer mit einem Datum versehen, sodass es klar ist, um welche Version der Folien es sich handelt. Bitte nutzen Sie als Vorbereitung auf die Prüfung die **aktuellste** Version der Folien. 
 
-- [Folien](slides.pdf) (Stand: bis inkl. 05-Dez-2025)
+- [Folien](slides.pdf) (Stand: bis inkl. 19-Dez-2025)
 
 ## Literatur
 
