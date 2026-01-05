@@ -17,6 +17,7 @@
 - [Blatt 9](Material/blatt9.pdf) (Abgabe Mittwoch, 10. Dezember)
 - [Blatt 10](Material/blatt10.pdf) (Abgabe Mittwoch, 17. Dezember)
 - [Blatt 11](Material/blatt11.pdf) (Abgabe Mittwoch, 7. Jänner)
+- [Blatt 12](Material/blatt12.pdf) (Abgabe Mittwoch, 14. Jänner)
 
 
 ## News
