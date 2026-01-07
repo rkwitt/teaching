@@ -23,7 +23,7 @@ Die Diskussionsrunden sind eine Kooperation von [ARGE Kultur Salzburg](https://w
 |--------|----------------|
 | 1. Termin | 21.01.2026, 13:15-14:15 (T01) |
 | 2. Termin | 04.02.2026, 11:00-12:00 (T01) |
-| 3. Termin | 24.02.2026, 15:30-17:00 (T01) |
+| 3. Termin | 24.02.2026, 15:30-16:30 (T01) |
 
 ### AI Eingangswerkstatt (2 SSt. Variante für BA AI)
 
