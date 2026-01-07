@@ -21,7 +21,7 @@ Die Diskussionsrunden sind eine Kooperation von [ARGE Kultur Salzburg](https://w
 
 | | Datum, Zeit, Ort |
 |--------|----------------|
-| 1. Termin | wird noch bekannt gegeben |
+| 1. Termin | 21.01.2016, 13:15-14:15 (T01) |
 | 2. Termin | wird noch bekannt gegeben |
 | 3. Termin | wird noch bekannt gegeben |
 
