@@ -3,7 +3,7 @@
 ## News
 
 - Please checkout the guidelines on handing in exercise sheets (below)
-- The PS begins (with a *Vorbesprechung*) on **Tuesday, March 4, 2025** at **11:45am (T01)**
+- The PS begins (with a *preliminary discussion*) on **Tuesday, March 3, 2026** at **11:30am (T01)**
 
 ## Organization
 
