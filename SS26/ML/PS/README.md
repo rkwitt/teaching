@@ -9,7 +9,7 @@
 
 The PS will be held in person.
 
-The PS is based on *exercise sheets*. Each question on an exercise sheet has an associated number of points. You can work together in (max.) groups of **three**. The group membership has to be fixed by the time the first exercise sheet is released. Please coordinate with your colleagues and enter the group information into the (Google) spreadsheet [here](https://docs.google.com/spreadsheets/d/1PRRZy7s-641of-0GXz5cncmmDaYmhUjWRPlnfARAomI/edit?usp=sharing). Each group can decide which questions on an exercise sheet to solve. These solutions have to be handed-in by the **deadline** announced [below](#Exercise-sheets).
+The PS is based on *exercise sheets*. Each question on an exercise sheet has an associated number of points. You can work together in (max.) groups of **three**. The group membership has to be fixed by the time the first exercise sheet is released. Please coordinate with your colleagues and enter the group information into the (Google) spreadsheet [here](https://docs.google.com/spreadsheets/d/1hMXedVk7gf27L1TcBo1cxy_lIaYqLVvU8-fRpJ5rkYo/edit?usp=sharing). Each group can decide which questions on an exercise sheet to solve. These solutions have to be handed-in by the **deadline** announced [below](#Exercise-sheets).
 
 *Note that there is not just one correct solution to most of the exercises.*
 
@@ -24,7 +24,7 @@ Grading is based on the number of points you collect for the exercise sheets.
 ## Exercise sheets
 
 **Important**: Please hand in the exercise sheets with the names of **all** group members on it and in the form of **one PDF** file, specifically, the filename should
-be in the form `group_A_submission_exsheet_C.pdf` in case you are part of group A and have just submitted exercise sheet C.
+be in the form `group_1_submission_exsheet_C.pdf` in case you are part of **Group 1** and have just submitted exercise sheet C. *Submission files deviating from this naming convention will not be graded!*
 
 | | **Points** | **Link** | **Deadline** |
 |---|---|---|---|
