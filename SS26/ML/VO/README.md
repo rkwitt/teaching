@@ -69,6 +69,7 @@ This gives you a clone of the *full* teaching repository. The only part relevant
 - **Lecture notes** 
   - [Status on 03-03-2026](lecture-notes-03-03-2026.pdf)
   - [Status on 03-10-2026](lecture-notes-03-10-2026.pdf)
+  - [Status on 03-17-2026](lecture-notes-03-17-2026.pdf)
 
 
 ### Books (for reference)
