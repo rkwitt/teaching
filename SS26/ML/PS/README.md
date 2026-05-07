@@ -30,7 +30,7 @@ be in the form `group_1_submission_exsheet_C.pdf` in case you are part of **Grou
 |---|---|---|---|
 | [Exercise sheet A](exA.pdf)  |  6  | Upload link (disabled) | March 23, 2026 (11:59pm) |
 | [Exercise sheet B](exB.pdf)  |  5  | Upload link (disabled) | April 20, 2026 (11:59pm) |
-| [Exercise sheet C](exC.pdf)  |  10 | Upload link | May 12, 2026 (11:59pm) |
+| [Exercise sheet C](exC.pdf)  |  10 | [Upload link)[https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/IgCwLsRM0hw-R6SUtHm5fGYYAQEjA1icogDwPhfTVPv4kM8] | May 12, 2026 (11:59pm) |
 
 
 Total points possible: **tba**
