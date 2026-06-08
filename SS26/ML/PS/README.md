@@ -31,8 +31,8 @@ be in the form `group_1_submission_exsheet_C.pdf` in case you are part of **Grou
 | [Exercise sheet A](exA.pdf)  |  6  | Upload link (disabled) | March 23, 2026 (11:59pm)  |
 | [Exercise sheet B](exB.pdf)  |  5  | Upload link (disabled) | April 20, 2026 (11:59pm)  |
 | [Exercise sheet C](exC.pdf)  |  10 | Upload link (disabled) | May 12, 2026 (11:59pm)    |
-| [Exercise sheet D](exD.pdf)  |  4  | (Upload link)[https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/IgB4PHgyhBbSS4iNcM38l9FXAYqQqN3oB2WGYj6auPqri_g] | June 11, 2026 (11:59pm)   |
-| [Exercise sheet E](exE.pdf)  |  6  | (Upload link)[https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/IgBitbkolwfKTLyWy06acZc2ATRg4yGSFbbsKMD10P8bYVo] | June 16, 2026 (11:59pm)   |
+| [Exercise sheet D](exD.pdf)  |  4  | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/IgB4PHgyhBbSS4iNcM38l9FXAYqQqN3oB2WGYj6auPqri_g) | June 11, 2026 (11:59pm)   |
+| [Exercise sheet E](exE.pdf)  |  6  | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/IgBitbkolwfKTLyWy06acZc2ATRg4yGSFbbsKMD10P8bYVo) | June 16, 2026 (11:59pm)   |
 
 
 
