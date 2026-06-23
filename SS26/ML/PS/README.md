@@ -32,9 +32,10 @@ be in the form `group_1_submission_exsheet_C.pdf` in case you are part of **Grou
 | [Exercise sheet B](exB.pdf)  |  5  | Upload link (disabled) | April 20, 2026 (11:59pm)  |
 | [Exercise sheet C](exC.pdf)  |  10 | Upload link (disabled) | May 12, 2026 (11:59pm)    |
 | [Exercise sheet D](exD.pdf)  |  4  | Upload link (disabled) | June 11, 2026 (11:59pm)   |
-| [Exercise sheet E](exE.pdf)  |  6  | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/IgBitbkolwfKTLyWy06acZc2ATRg4yGSFbbsKMD10P8bYVo) | June 16, 2026 (11:59pm)   |
+| [Exercise sheet E](exE.pdf)  |  6  | Upload link (disabled) | June 16, 2026 (11:59pm)   |
+| [Exercise sheet E](exE.pdf)  |  10 | [Upload link](https://plusacat-my.sharepoint.com/:f:/g/personal/roland_kwitt_plus_ac_at/IgDYLhptcSlrRJuc8vf6yjNhASYkhXx-ZHu0y18gJaK_gGQ) | July 06, 2026 (11:59pm)   |
 
 
 
 
-Total points possible: **tba**
+Total points possible: **41**
