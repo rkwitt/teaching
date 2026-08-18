@@ -6,6 +6,11 @@ other **names** for this course:
 - Machine Learning (911.235, within MA Data Science, MA Mathematics, MA Economics, Cop. Master in Digital Earth)
 - Advanced Machine Learning (911.935, within JDM AIS, Cop. Master in Digital Earth)
 
+## Exam dates
+
+- 2nd exam date: Sept. 07 2026, 10-12am (T01)
+- 1st exam date: already passed
+
 ## News
 
 - Lecture begins on **Tuesday, March 3, 2026** at **10:00 (T01)**
