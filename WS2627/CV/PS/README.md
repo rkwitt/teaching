@@ -8,8 +8,8 @@
 
 ## Grading
 
-Grading is based on short in-class exercises every two-weeks (covering the material from the weeks before, see dates below). To pass the course you have to have at least 50% of all possible points. Then starting at 50% to 100% of all points, grades as spaced linearly. In the remaining time of the PS, we will cover practical aspects (or questions) relating to the
-lecture material.
+Grading is based on short **in-class exercises** every two-weeks (covering the material from the weeks before, see dates below). To pass the course you have to have at least 50% of all possible points. Then starting at 50% to 100% of all points, grades as spaced linearly. In the remaining time of the PS, we will cover practical aspects (or questions) relating to the
+lecture material. *All in-class exercises will be done via Blackboard tests* (so you will need a Laptop, phone or tablet in the PS).
 
 ### In-class exercise dates
 
