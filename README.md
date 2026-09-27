@@ -3,6 +3,13 @@ As of winter term 2017/2018, all the teaching material for the courses that I te
 
 For some courses, the teaching language is German, for some it's English. This is also reflected in the material, so do not expect consistency.
 
+# Winter Term 2026/2027
+
+- [Machine Learning](WS2627/ML)
+- [AI Eingangswerkstatt (VO)/Einführung AI (VO)](WS2627/AI/VO)
+- [Computer Vision](WS2627/CV/)
+- [AI Werkstatt (UV/SE)](WS2627/AIW)
+
 # Summer Term 2026
 
 - [Statistical Learning Theory / Machine Learning / Advanced Machine Learning](SS26/ML)
