@@ -7,7 +7,7 @@
 
 | | Datum, Zeit, Ort |
 |--------|----------------|
-| 1. Termin | wird noch bekannt gegeben |
+| 1. Termin | 27. Jänner 2027 |
 | 3. Termin | wird noch bekannt gegeben |
 | 3. Termin | wird noch bekannt gegeben |
 
