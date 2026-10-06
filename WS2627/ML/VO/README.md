@@ -13,15 +13,15 @@
 
 ## News
 
-- Vorlesungsbeginn: **Montag, 5. Oktober 2026** um **09:00** (Hörsaal T02, Jakob-Haringer Str. 2)
-- Bitte die VO nicht mit *Statistical Learning Theory* verwechseln (diese war aus historischen Gründen auch als *Machine Learning* benannt).
+- Vorlesungsbeginn: **Mittwoch, 7. Oktober 2026** um **16:30** (Hörsaal T02, Jakob-Haringer Str. 2)
+- Bitte die VO <ins>nicht</ins> mit *Statistical Learning Theory* verwechseln (diese war aus historischen Gründen auch als *Machine Learning* benannt).
 
 ## Organisatorisches
 
-- Dauer: **4 Semesterwochenstunden** (SSt.), ergo 3h tatsächliche VO Zeit (mit Pause)
+- Dauer: **4 Semesterwochenstunden** (SSt.), ergo 3h tatsächliche VO Zeit
 - ECTS Ausmaß: **5**
 - Stellung im Bachelor Studium AI: **Pflicht**
-- Die VO wird zwei-teilig abgehalten (immer Montags 09:00-11:00, dann Mittwoch 16:30-18:00)
+- Die VO wird zwei-teilig abgehalten (immer Montags 09:00-11:00 sowie Mittwoch 16:30-18:00)
 
 ## Überblick
 
