@@ -63,6 +63,6 @@ Online verfügbar [hier](https://hastie.su.domains/Papers/ESLII.pdf)
 
 Zur Vorbereitung auf die jeweils nächste Vorlesungseinheit bitte ich Sie, die nachfolgenden Kapitel (oder Teile dieser Kapitel, je nach Angabe) in den entsprechenden Büchern zu lesen. Nach der Vorlesung stehen Ihnen meine Notizen als PDF zur Verfügung (siehe unten). Da wir die Kapitel nicht zur Gänze erarbeiten, stelle ich zur Prüfungsvorbereitung eine detaillierte Auswahl an Teilkapiteln zur Verfüfung.
 
-### Mitschrift
+### Mitschrift / Slides
 
-wird während der VO aktualisiert.
+- [Introduction (Slides)](material/Introduction.pdf)
