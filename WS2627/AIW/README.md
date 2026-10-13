@@ -8,7 +8,7 @@
 
 ## Neuigkeiten
 
-- **Vorbesprechung (UV und SE)**: 
+- **Vorbesprechung (UV und SE)**:  07. Oktober 2026
 
 ## Allgemeines
 
@@ -24,6 +24,8 @@ Zudem gibt es zusätlich zum Vorbesprechungstermin **drei** weitere Termine (sie
 
 | **Termin/Ort/Zeit**  | **Thema** | **Material** |
 |---|---|---|
+| 07.10.2026/T02/1:30pm | Vorbesprechung | [Folien](0_intro_ws25tows26_logo_timelineUpdate.pdf) |
+| 14.10.2026/T02/1:45pm | Versionierung/GitHub | live|
 
 **Wöchentliche Catch-Ups & Updates**
 
@@ -91,4 +93,4 @@ Auf Basis des [Leitfadens zur Verwendung von KI-Werkzeugen](https://im.sbg.ac.at
 
 ## Projektthemen
 
-Eine Zusammenfassung der Projektthemen finden Sie in den Slides der **ersten** Einheit (Link wird noch aktualisiert)
+Eine Zusammenfassung der Projektthemen finden Sie in den Slides der **ersten** Einheit [hier](0_intro_ws25tows26_logo_timelineUpdate.pdf)
