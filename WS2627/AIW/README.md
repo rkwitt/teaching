@@ -24,8 +24,9 @@ Zudem gibt es zusätlich zum Vorbesprechungstermin **drei** weitere Termine (sie
 
 | **Termin/Ort/Zeit**  | **Thema** | **Material** |
 |---|---|---|
-| 07.10.2026/T02/1:30pm | Vorbesprechung | [Folien](0_intro_ws25tows26_logo_timelineUpdate.pdf) |
-| 14.10.2026/T02/1:45pm | Versionierung/GitHub | live|
+| 07.10.2026/T02/1:30pm | Vorbesprechung | [Folien](WS26_AIWerkstatt_53612x_Intro.pdf)
+| 14.10.2026/T06/1:45pm | Versionierung/GitHub | live|
+| 21.10.2026/T06/1:30pm | Scientific Writing | live + slides |
 
 **Wöchentliche Catch-Ups & Updates**
 
