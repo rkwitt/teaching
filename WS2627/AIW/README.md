@@ -2,7 +2,7 @@
 
 ## LV Leiter
 
-- Univ.-Prof. Dr. Susanne Saminger-Platz
+- [Univ.-Prof. Dr. Susanne Saminger-Platz](https://www.plus.ac.at/aihi/der-fachbereich/team/univ-prof-mag-dr-susanne-saminger-platz/)
 - [Univ.-Prof. Dr. Frank Pallas](https://www.plus.ac.at/aihi/der-fachbereich/team/univ-prof-dr-ing-frank-pallas/?lang=en)
 - [Univ.-Prof. Dr. Roland Kwitt](https://rkwitt.github.io/)
 
@@ -33,7 +33,7 @@ Aufgrund des Projektcharacters der Lehrveranstaltung bieten wir den Studierenden
 
 |   | **Zeitslot (wöchentlich)**  |
 |---|---|
-| Univ.-Prof. Dr. Susanne Saminger-Platz | wird in Vorbesprechung fixiert |
+| Univ.-Prof. Dr. Susanne Saminger-Platz | Mi, 13.30-14.30 bzw. im Follow-Up zu den Terminen vor Ort, JAK2, Raum 1.11 |
 | Univ.-Prof. Dr. Frank Pallas           | wird in Vorbesprechung fixiert |
 | Univ.-Prof. Dr. Roland Kwitt           | wird in Vorbesprechung fixiert |
 
