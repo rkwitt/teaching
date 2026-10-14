@@ -46,7 +46,7 @@ Im Seminar (2 SSt.) **AI Werkstatt** sollen Studierende **3x** im Semester (Hinw
 |---|---|
 | 11.11.26/../1:30pm-5:30pm  | *1st Presentation: Outline & Plan(s)* |
 | 16.12.26/../1:30pm-5:30pm | *2nd presentation: Status Update & Progress* |
-| 27.01.27/../1:30pm-5:30p,  | *Final presentation* |
+| 27.01.27/../1:30pm-5:30pm  | *Final presentation* |
 
 Bei allen drei Terminen präsentieren alle Gruppen. Bei jeder Präsentation müssen alle Gruppenmitglieder **anwesend** sein, **aktiv beitragen** und und in der Lage sein, **Fragen zu beantworten**.
 
