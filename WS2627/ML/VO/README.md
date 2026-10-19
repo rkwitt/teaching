@@ -66,4 +66,5 @@ Zur Vorbereitung auf die jeweils nächste Vorlesungseinheit bitte ich Sie, die n
 ### Mitschrift / Slides
 
 - [Introduction (Slides)](material/Introduction.pdf)
-- [Mitschrift (Stand: 12.10.2026)](material/Mitschrift.pdf)
+- [Mitschrift (Stand: 19.10.2026)](material/Mitschrift.pdf)
+- [LDA Notebook](material/LDA.ipynb)
