@@ -1,0 +1,9 @@
+digraph{
+  1 [shape=note,style=filled, fillcolor="#e0e0ff",label="q []"]
+  2 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ LinalgVectorNormBackward0 }"]
+  3 [shape=record,style=filled, fillcolor="#f0f0f0",label="{ AccumulateGrad }"]
+  4 [shape=note,style=filled, fillcolor="#e0e0ff",label="x [3]"]
+  3 -> 4
+  2 -> 3
+  1 -> 2
+}
