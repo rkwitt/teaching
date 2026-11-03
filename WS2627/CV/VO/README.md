@@ -63,9 +63,9 @@ Below is a more detailed list of topics covered in the course, subject to change
 **Note**: In case you want to watch the videos, please *download* them first. Online viewing is possible (depending on your browser, but quality might be bad, at least this was the feedback I got from previous instances of this course).
 
 - [**Introduction & Computer vision problems**](../material/IntroSlides.pdf)
-- Perceptron
-- Automatic differentiation
-- Gradient-based optimization
+- [Perceptron](../material/02_Perceptron/Perceptron.ipynb)
+- [Automatic differentiation](../material/03_AutomaticDifferentiation/AutoGrad.ipynb)
+- [Gradient-based optimization](../material/04_GradientBasedOptimization/GradientBasedOptimization.ipynb)
 - Stochastic Gradient Descent and variants
 - Multi-layer preceptron (MLP)
 - Cross-entropy
