@@ -21,7 +21,7 @@
 
 | | Datum, Zeit, Ort |
 |--------|----------------|
-| 1. Termin | wird noch fixiert |
+| 1. Termin | 27.01.2026 (letzte VO Einheit) |
 | 2. Termin | wird noch fixiert |
 | 3. Termin | wird noch fixiert |
 
